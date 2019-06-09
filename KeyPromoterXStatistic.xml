@@ -73,6 +73,30 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'SpringBoot03LogApplicationTests.contextLoads'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌥R'</ShortCut>
+          <Description>Run 'SpringBoot03LogApplicationTests.contextLoads'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Dependencies Popup...">
+        <Item>
+          <IdeaActionID>ShowUmlDiagramPopup</IdeaActionID>
+          <ShortCut>'⌃⌥U'</ShortCut>
+          <Description>Show Dependencies Popup...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Dependencies...">
+        <Item>
+          <IdeaActionID>ShowUmlDiagram</IdeaActionID>
+          <ShortCut>'⌃⇧U'</ShortCut>
+          <Description>Show Dependencies...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'HelloWorldMainApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -204,6 +228,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌥R'</ShortCut>
           <Description>Run 'SpringBoot02ConfigApplicationTests.contextLoads'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SpringBoot03LogApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'SpringBoot03LogApplication'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
