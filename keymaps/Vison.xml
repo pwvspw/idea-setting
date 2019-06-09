@@ -1,0 +1,163 @@
+<keymap version="1" name="Vison" parent="Eclipse">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+    <keyboard-shortcut first-keystroke="shift delete" />
+    <keyboard-shortcut first-keystroke="meta x" />
+  </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="$SelectAll">
+    <keyboard-shortcut first-keystroke="ctrl a" />
+    <keyboard-shortcut first-keystroke="meta a" />
+  </action>
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+    <keyboard-shortcut first-keystroke="meta z" />
+  </action>
+  <action id="ActivateJRebelConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="AddToFavorites">
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
+  <action id="AddToFavoritesPopup" />
+  <action id="CallHierarchy">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
+  <action id="CallHierarchy.BaseOnThisType" />
+  <action id="ChangeSignature" />
+  <action id="ChangesView.ShelveSilently" />
+  <action id="ClassNameCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift alt c" />
+  </action>
+  <action id="Console.Jpa.GenerateSql" />
+  <action id="Console.TableResult.NextPage" />
+  <action id="ConsoleView.ClearAll">
+    <keyboard-shortcut first-keystroke="r" />
+  </action>
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
+  <action id="Editor Cut">
+    <keyboard-shortcut first-keystroke="meta x" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="Editor SelectAll">
+    <keyboard-shortcut first-keystroke="meta a" />
+  </action>
+  <action id="Editor Undo">
+    <keyboard-shortcut first-keystroke="meta z" />
+  </action>
+  <action id="EditorChooseLookupItemCompleteStatement" />
+  <action id="EditorCompleteStatement" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+    <keyboard-shortcut first-keystroke="meta alt down" />
+    <keyboard-shortcut first-keystroke="ctrl meta down" />
+  </action>
+  <action id="EditorScrollToCenter" />
+  <action id="EditorStartNewLineBefore">
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+    <keyboard-shortcut first-keystroke="shift meta enter" />
+  </action>
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+  </action>
+  <action id="EditorToggleColumnMode">
+    <keyboard-shortcut first-keystroke="shift meta a" />
+  </action>
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift alt x" />
+  </action>
+  <action id="FixDocComment">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="shift alt s" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f3" />
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="meta button1" />
+  </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
+  <action id="HippieCompletion" />
+  <action id="InspectCode">
+    <keyboard-shortcut first-keystroke="shift alt a" />
+  </action>
+  <action id="IntroduceField">
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="MethodHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl alt h" />
+  </action>
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="ctrl alt slash" />
+  </action>
+  <action id="QuickActionPopup" />
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
+  <action id="ScrollTreeToCenter" />
+  <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+    <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
+  <action id="ShowUmlDiagram">
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
+  </action>
+  <action id="Unwrap" />
+  <action id="Vcs.Log.ShowAllAffected" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="VcsHistory.ShowAllAffected" />
+  <action id="context.save" />
+</keymap>

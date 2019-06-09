@@ -1,0 +1,38 @@
+<templateSet group="MyTemplates">
+  <template name="*" value="*&#10; * $VAR1$$END$&#10; * @return $return$&#10; * @param $params$&#10; * @author pengwei&#10; * @since $date$&#10; */" description="method comment" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="return" expression="" defaultValue="" alwaysStopAt="false" />
+    <variable name="params" expression="" defaultValue="" alwaysStopAt="false" />
+    <variable name="date" expression="" defaultValue="date()" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="prii" value="/**&#10; * $VAR1$&#10; */&#10;private Integer $VAR2$;" description="private Integer with comment" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pris" value="/**&#10; * $VAR1$&#10; */&#10;private String $VAR2$;" description="private String with comment" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="logger" value="private static final Logger log = LoggerFactory.getLogger($CLASS_NAME$.class);" description="private static final Logger" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="" defaultValue="className()" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="test" value="@Test&#10;public void test$VAR1$() {&#10;    $VAR2$&#10;}" description="generate junit test" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

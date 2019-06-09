@@ -1,0 +1,27 @@
+<templateSet group="plain">
+  <template name="prisfi" value="private static final Integer $VAR1$ = $VAR2$;" description="private static final Integer" toReformat="false" toShortenFQNames="false">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_DECLARATION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="psfi" value="public static final Integer $VAR1$ = $VAR2$;" description="public static final Integer" toReformat="false" toShortenFQNames="false">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="psfs" value="public static final String $VAR1$ = &quot;$VAR2$&quot;;" description="public static final String" toReformat="false" toShortenFQNames="false">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="prisfs" value="private static final String $VAR1$ = &quot;$VAR2$&quot;;" description="private static final String" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
