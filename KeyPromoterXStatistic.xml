@@ -147,6 +147,14 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Close thumbnails">
+        <Item>
+          <IdeaActionID>Images.Thumbnails.Hide</IdeaActionID>
+          <ShortCut>'⌃W' or '⌘W'</ShortCut>
+          <Description>Close thumbnails</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy">
         <Item>
           <IdeaActionID>$Copy</IdeaActionID>
@@ -213,6 +221,14 @@
           <ShortCut>'⌦'</ShortCut>
           <Description>Remove Module</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Reveal in Finder">
+        <Item>
+          <IdeaActionID>RevealIn</IdeaActionID>
+          <ShortCut>'⌃⇧X'</ShortCut>
+          <Description>Reveal in Finder</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
