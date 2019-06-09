@@ -53,6 +53,11 @@
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="shift alt c" />
   </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="meta slash" />
+  </action>
   <action id="Console.Jpa.GenerateSql" />
   <action id="Console.TableResult.NextPage" />
   <action id="ConsoleView.ClearAll">
