@@ -120,6 +120,10 @@
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="meta button1" />
   </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="shift ctrl q" />
   </action>
