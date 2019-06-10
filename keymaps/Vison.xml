@@ -82,7 +82,9 @@
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
   <action id="EditorChooseLookupItemCompleteStatement" />
-  <action id="EditorCompleteStatement" />
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="semicolon" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
     <keyboard-shortcut first-keystroke="meta d" />
