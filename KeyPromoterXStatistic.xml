@@ -46,6 +46,14 @@
           <IdeaActionID>ActivateJRebelConsoleToolWindow</IdeaActionID>
           <ShortCut>'⌥J'</ShortCut>
           <Description>JRebel Console</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Print...">
+        <Item>
+          <IdeaActionID>Print</IdeaActionID>
+          <ShortCut>'⌃P'</ShortCut>
+          <Description>Print...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -78,6 +86,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌥R'</ShortCut>
           <Description>Run 'SpringBoot03LogApplicationTests.contextLoads'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'SpringBoot04WebResufulCrudApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌥R'</ShortCut>
+          <Description>Run 'SpringBoot04WebResufulCrudApplication'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -252,6 +268,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'SpringBoot03LogApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SpringBoot04WebResufulCrudApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'SpringBoot04WebResufulCrudApplication'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
