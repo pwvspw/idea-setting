@@ -84,6 +84,7 @@
   </action>
   <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="meta semicolon" />
     <keyboard-shortcut first-keystroke="semicolon" />
   </action>
   <action id="EditorDeleteLine">
