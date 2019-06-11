@@ -24,9 +24,6 @@
     <keyboard-shortcut first-keystroke="ctrl z" />
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
-  <action id="ActivateJRebelConsoleToolWindow">
-    <keyboard-shortcut first-keystroke="alt j" />
-  </action>
   <action id="AddToFavorites">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
@@ -152,6 +149,9 @@
   <action id="IntroduceField">
     <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
+  <action id="JRebel Debug">
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
   <action id="MethodHierarchy">
     <keyboard-shortcut first-keystroke="ctrl alt h" />
   </action>
@@ -163,6 +163,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
   </action>
   <action id="QuickActionPopup" />
+  <action id="Refresh">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift ctrl x" />
   </action>

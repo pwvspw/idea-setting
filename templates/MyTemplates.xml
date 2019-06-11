@@ -37,6 +37,7 @@
   <template name="elseif" value="else if ($VAR$) {&#10;    $END$&#10;}" description="else if statement" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="HTML" value="true" />
       <option name="JAVA_CODE" value="true" />
       <option name="JSP" value="true" />
     </context>
@@ -44,7 +45,16 @@
   <template name="if" value="if ($VAR$) {&#10;    $END$&#10;}" description="if statement" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="HTML" value="true" />
       <option name="JAVA_CODE" value="true" />
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+  <template name="else" value="else {&#10;    $END$&#10;}" description="else statement" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JSP" value="true" />
     </context>
   </template>
 </templateSet>
