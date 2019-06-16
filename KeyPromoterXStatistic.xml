@@ -121,6 +121,22 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'SpringBoot06DataJdbcApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌥R'</ShortCut>
+          <Description>Run 'SpringBoot06DataJdbcApplication'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'SpringBoot06DataJdbcApplicationTests.contextLoads'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌥R'</ShortCut>
+          <Description>Run 'SpringBoot06DataJdbcApplicationTests.contextLoads'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Tomcat8'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -167,6 +183,14 @@
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'SpringBoot02ConfigApplication'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SpringBoot06DataJdbcApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'SpringBoot06DataJdbcApplication'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Tomcat8'">
