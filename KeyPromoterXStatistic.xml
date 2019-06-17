@@ -182,7 +182,7 @@
           <IdeaActionID>ShowUmlDiagramPopup</IdeaActionID>
           <ShortCut>'⌃⌥U'</ShortCut>
           <Description>Show Dependencies Popup...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Dependencies...">
@@ -190,7 +190,7 @@
           <IdeaActionID>ShowUmlDiagram</IdeaActionID>
           <ShortCut>'⌃⇧U'</ShortCut>
           <Description>Show Dependencies...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'HelloWorldMainApplication'">
