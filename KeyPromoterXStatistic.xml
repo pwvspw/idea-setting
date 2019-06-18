@@ -65,6 +65,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug with JRebel 'SpringBoot06DataJpaApplication'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'⌥J'</ShortCut>
+          <Description>Debug with JRebel 'SpringBoot06DataJpaApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug with JRebel 'SpringBoot06DataMybatisApplication'">
         <Item>
           <IdeaActionID>JRebel Debug</IdeaActionID>
@@ -412,6 +420,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'SpringBoot04WebResufulCrudApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SpringBoot06DataJpaApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'SpringBoot06DataJpaApplication'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
