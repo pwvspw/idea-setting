@@ -41,12 +41,28 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'SpringBoot06DataMybatisApplication'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌥⇧D' or '⇧F9'</ShortCut>
+          <Description>Debug 'SpringBoot06DataMybatisApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug with JRebel 'SpringBoot06DataJdbcApplicationTests.contextLoads'">
         <Item>
           <IdeaActionID>JRebel Debug</IdeaActionID>
           <ShortCut>'⌥J'</ShortCut>
           <Description>Debug with JRebel 'SpringBoot06DataJdbcApplicationTests.contextLoads'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug with JRebel 'SpringBoot06DataMybatisApplication'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'⌥J'</ShortCut>
+          <Description>Debug with JRebel 'SpringBoot06DataMybatisApplication'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug with JRebel 'Tomcat8'">
@@ -230,7 +246,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'SpringBoot06DataMybatisApplication'</Description>
-          <Count>2</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Tomcat8'">
