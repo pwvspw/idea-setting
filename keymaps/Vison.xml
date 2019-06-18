@@ -124,6 +124,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl k" />
     <keyboard-shortcut first-keystroke="shift meta k" />
   </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
   <action id="FixDocComment">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>

@@ -14,6 +14,14 @@
           <IdeaActionID>CopyPaths</IdeaActionID>
           <ShortCut>'⌃⇧C'</ShortCut>
           <Description>Copy Path</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Reference">
+        <Item>
+          <IdeaActionID>CopyReference</IdeaActionID>
+          <ShortCut>'⌃⌥⇧C'</ShortCut>
+          <Description>Copy Reference</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -62,7 +70,7 @@
           <IdeaActionID>JRebel Debug</IdeaActionID>
           <ShortCut>'⌥J'</ShortCut>
           <Description>Debug with JRebel 'SpringBoot06DataMybatisApplication'</Description>
-          <Count>3</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug with JRebel 'Tomcat8'">
@@ -118,6 +126,14 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'⌃⌥⇧S'</ShortCut>
           <Description>Project Structure...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'SpringBoot06DataMybatisApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F11'</ShortCut>
+          <Description>Rerun 'SpringBoot06DataMybatisApplication'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -241,14 +257,6 @@
           <Count>7</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop 'SpringBoot06DataMybatisApplication'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌃F2'</ShortCut>
-          <Description>Stop 'SpringBoot06DataMybatisApplication'</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Stop 'Tomcat8'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -270,7 +278,15 @@
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
           <ShortCut>'⌥6'</ShortCut>
           <Description>TODO</Description>
-          <Count>1</Count>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Terminal">
+        <Item>
+          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
+          <ShortCut>'⌥F12'</ShortCut>
+          <Description>Terminal</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
     </option>
@@ -397,6 +413,14 @@
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'SpringBoot04WebResufulCrudApplication'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SpringBoot06DataMybatisApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'SpringBoot06DataMybatisApplication'</Description>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
