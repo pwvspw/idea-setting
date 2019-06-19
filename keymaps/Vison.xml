@@ -97,10 +97,17 @@
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
+  <action id="EditorMatchBrace">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="EditorScrollToCenter" />
   <action id="EditorStartNewLineBefore">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
     <keyboard-shortcut first-keystroke="shift meta enter" />
+  </action>
+  <action id="EditorSwapSelectionBoundaries">
+    <keyboard-shortcut first-keystroke="alt w" />
   </action>
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="shift ctrl y" />
