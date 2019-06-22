@@ -19,7 +19,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="@test" value="@Test&#10;public void $VAR$() {&#10;    $END$&#10;}" description="generate junit test" toReformat="false" toShortenFQNames="true">
+  <template name="jtest" value="@Test&#10;public void $VAR$() {&#10;    $END$&#10;}" description="generate junit test" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
