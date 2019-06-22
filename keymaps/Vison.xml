@@ -123,6 +123,14 @@
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
+  <action id="EditorLineEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift end" />
+    <keyboard-shortcut first-keystroke="shift meta right" />
+  </action>
+  <action id="EditorLineStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift home" />
+    <keyboard-shortcut first-keystroke="shift meta left" />
+  </action>
   <action id="EditorMatchBrace">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
     <keyboard-shortcut first-keystroke="shift meta p" />
@@ -131,17 +139,9 @@
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="meta right" />
   </action>
-  <action id="EditorNextWordWithSelection">
-    <keyboard-shortcut first-keystroke="shift ctrl right" />
-    <keyboard-shortcut first-keystroke="shift meta right" />
-  </action>
   <action id="EditorPreviousWord">
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="meta left" />
-  </action>
-  <action id="EditorPreviousWordWithSelection">
-    <keyboard-shortcut first-keystroke="shift ctrl left" />
-    <keyboard-shortcut first-keystroke="shift meta left" />
   </action>
   <action id="EditorStartNewLineBefore">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
@@ -160,6 +160,9 @@
     <keyboard-shortcut first-keystroke="ctrl f3" />
     <keyboard-shortcut first-keystroke="ctrl o" />
     <keyboard-shortcut first-keystroke="meta o" />
+  </action>
+  <action id="FillParagraph">
+    <keyboard-shortcut first-keystroke="enter" />
   </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="ctrl k" />
@@ -216,6 +219,10 @@
   </action>
   <action id="MethodHierarchy">
     <keyboard-shortcut first-keystroke="ctrl alt h" />
+  </action>
+  <action id="NextParameter">
+    <keyboard-shortcut first-keystroke="tab" />
+    <keyboard-shortcut first-keystroke="enter" />
   </action>
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
