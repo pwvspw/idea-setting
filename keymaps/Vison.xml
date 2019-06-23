@@ -55,6 +55,7 @@
     <keyboard-shortcut first-keystroke="ctrl slash" />
     <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="meta slash" />
+    <keyboard-shortcut first-keystroke="shift meta c" />
   </action>
   <action id="Console.Jpa.GenerateSql" />
   <action id="Console.TableResult.NextPage" />
