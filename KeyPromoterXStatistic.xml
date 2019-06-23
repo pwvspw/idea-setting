@@ -102,7 +102,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦'</ShortCut>
           <Description>Delete...</Description>
-          <Count>4</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
