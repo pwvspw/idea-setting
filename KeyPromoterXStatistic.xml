@@ -110,7 +110,7 @@
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
           <ShortCut>'⌥3'</ShortCut>
           <Description>Find</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="JRebel Console">
@@ -321,6 +321,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="编码规约扫描">
+        <Item>
+          <IdeaActionID>AliP3CInspectionAction</IdeaActionID>
+          <ShortCut>'⌃⌥⇧J' or '⇧⌘J'</ShortCut>
+          <Description>编码规约扫描</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
     </option>
     <option name="suppressed">
       <Statistic Action="Close thumbnails">
@@ -469,6 +477,12 @@
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="关闭实时检测功能">
+        <Item>
+          <IdeaActionID>ToggleProjectInspectionAction</IdeaActionID>
+          <Description>关闭实时检测功能</Description>
         </Item>
       </Statistic>
     </option>
