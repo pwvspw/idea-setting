@@ -54,4 +54,26 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="List" value="List&lt;$TYPE$&gt; $VAR$ = $END$" description="declare list" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="expectedType()" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="Set" value="Set&lt;$TYPE$&gt; $VAR$ = $END$" description="declare set" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="expectedType()" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="Map" value="Map&lt;$TYPE1$, $TYPE2$&gt; $VAR$ = $END$" description="declare map" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE1" expression="expectedType()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE2" expression="expectedType()" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
