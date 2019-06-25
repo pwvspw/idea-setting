@@ -313,6 +313,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'TestMP.testDataSource'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'TestMP.testDataSource'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Tomcat8'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
