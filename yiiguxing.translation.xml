@@ -1,61 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="value" />
-      <item value="Retention Policy" />
-      <item value="Retention" />
-      <item value="Target" />
-      <item value="author" />
-      <item value="int" />
-      <item value="controller" />
-      <item value="The producible media types of the mapped request, narrowing the primary mapping" />
-      <item value="This is an alias for {@link #path}. For example" />
-      <item value="Employee Controller" />
-      <item value="springframework" />
-      <item value="Request Mapping" />
-      <item value="mp" />
-      <item value="cn" />
-      <item value="cowboy" />
-      <item value="annotation" />
-      <item value="Media Type" />
-      <item value="requests" />
-      <item value="something" />
-      <item value="restriction" />
-      <item value="this header restriction (i.e. the type-level restriction" />
-      <item value="default" />
-      <item value="narrowing" />
-      <item value="instance" />
-      <item value="Expressions" />
-      <item value="mapping" />
-      <item value="headers" />
-      <item value="method" />
-      <item value="level" />
-      <item value="specific" />
-      <item value="as well as" />
-      <item value="well" />
-      <item value="type" />
-      <item value="The path mapping URIs (e.g. &quot;/myPath.do&quot;). * Ant-style path patterns are also supported (e.g. &quot;/myPath/*.do&quot;). * At the method level, relative paths (e.g. &quot;edit.do&quot;) are supported * within the primary mapping expressed at the type level. * Path mapping URIs may contain placeholders (e.g. &quot;/${connect}&quot;). * &lt;p&gt;&lt;b&gt;Supported at the type level as well as at the method level!&lt;/b&gt; * When used at the type level, all method-level mappings inherit * this primary mapping, narrowing it for a specific handler method." />
-      <item value="At the method level, relative paths (e.g. &quot;edit.do&quot;) are supported" />
-      <item value="relative" />
-      <item value="Request Method" />
-      <item value="Alias For" />
-      <item value="name" />
       <item value="Assign a name to this mapping." />
-      <item value="When used on both levels, a combined name is derived by concatenation" />
-      <item value="servlet" />
-      <item value="Assign a name to this mapping. * &lt;p&gt;&lt;b&gt;Supported at the t" />
-      <item value="n a name to this mapping. * &lt;p&gt;&lt;b&gt;Supported at the type" />
-      <item value="Assign a name to this mapping. * &lt;p&gt;&lt;b&gt;Supported at" />
-      <item value="Assign a name to this m" />
-      <item value="pping(&quot;/employee&quot;)&#10;public class EmployeeCo" />
-      <item value="import" />
-      <item value="stereotype" />
-      <item value="Controller" />
+      <item value="user" />
+      <item value="User Controller" />
+      <item value="annotation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="106" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="CHINESE" value="119" />
+        <entry key="ENGLISH" value="120" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
       </map>

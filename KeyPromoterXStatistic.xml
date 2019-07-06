@@ -118,7 +118,7 @@
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
           <ShortCut>'⌥3'</ShortCut>
           <Description>Find</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find a matching string in the current analysis results.">
@@ -126,6 +126,22 @@
           <IdeaActionID>FindBugs.ShowQuickSearch</IdeaActionID>
           <ShortCut>'⌃F'</ShortCut>
           <Description>Find a matching string in the current analysis results.</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Generate...">
+        <Item>
+          <IdeaActionID>Generate</IdeaActionID>
+          <ShortCut>'⌥⇧S'</ShortCut>
+          <Description>Generate...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Implementation(s)">
+        <Item>
+          <IdeaActionID>GotoImplementation</IdeaActionID>
+          <ShortCut>'⌃T' or '⌃⌥B' or '⌘T'</ShortCut>
+          <Description>Implementation(s)</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -375,6 +391,14 @@
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Translate">
+        <Item>
+          <IdeaActionID>$EditorTranslateAction</IdeaActionID>
+          <ShortCut>'⌘·'</ShortCut>
+          <Description>Translate</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="编码规约扫描">
