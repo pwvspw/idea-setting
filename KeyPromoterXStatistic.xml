@@ -281,6 +281,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Show Translation Dialog...">
+        <Item>
+          <IdeaActionID>$ShowTranslationDialogAction</IdeaActionID>
+          <ShortCut>'⌃⇧O'</ShortCut>
+          <Description>Show Translation Dialog...</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Source Editor">
         <Item>
           <IdeaActionID>Jdbc.OpenEditor.DDL</IdeaActionID>

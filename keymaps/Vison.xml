@@ -1,4 +1,5 @@
 <keymap version="1" name="Vison" parent="Eclipse">
+  <action id="$ChooseTranslatorAction" />
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="ctrl c" />
     <keyboard-shortcut first-keystroke="meta c" />
@@ -7,6 +8,12 @@
     <keyboard-shortcut first-keystroke="ctrl x" />
     <keyboard-shortcut first-keystroke="shift delete" />
     <keyboard-shortcut first-keystroke="meta x" />
+  </action>
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="meta back_quote" />
+  </action>
+  <action id="$InclusiveTranslateAction">
+    <mouse-shortcut keystroke="alt button1 doubleClick" />
   </action>
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="ctrl v" />
@@ -20,6 +27,8 @@
     <keyboard-shortcut first-keystroke="ctrl a" />
     <keyboard-shortcut first-keystroke="meta a" />
   </action>
+  <action id="$ShowTranslationDialogAction" />
+  <action id="$TranslateAndReplaceAction" />
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
     <keyboard-shortcut first-keystroke="meta z" />
@@ -75,6 +84,18 @@
   </action>
   <action id="Editor Cut">
     <keyboard-shortcut first-keystroke="meta x" />
+  </action>
+  <action id="Editor EditorTranslateAction">
+    <mouse-shortcut keystroke="shift button1 doubleClick" />
+    <keyboard-shortcut first-keystroke="meta back_quote" />
+  </action>
+  <action id="Editor ExclusiveTranslateAction">
+    <keyboard-shortcut first-keystroke="shift meta e" />
+    <keyboard-shortcut first-keystroke="caps_lock" />
+  </action>
+  <action id="Editor InclusiveTranslateAction">
+    <keyboard-shortcut first-keystroke="shift meta v" />
+    <mouse-shortcut keystroke="alt button1 doubleClick" />
   </action>
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="meta v" />
