@@ -1,9 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Employee Controller" />
-      <item value="Request Mapping" />
+      <item value="value" />
+      <item value="Retention Policy" />
+      <item value="Retention" />
+      <item value="Target" />
+      <item value="author" />
+      <item value="int" />
       <item value="controller" />
+      <item value="The producible media types of the mapped request, narrowing the primary mapping" />
+      <item value="This is an alias for {@link #path}. For example" />
+      <item value="Employee Controller" />
+      <item value="springframework" />
+      <item value="Request Mapping" />
       <item value="mp" />
       <item value="cn" />
       <item value="cowboy" />
@@ -30,7 +39,6 @@
       <item value="relative" />
       <item value="Request Method" />
       <item value="Alias For" />
-      <item value="springframework" />
       <item value="name" />
       <item value="Assign a name to this mapping." />
       <item value="When used on both levels, a combined name is derived by concatenation" />
@@ -43,19 +51,11 @@
       <item value="import" />
       <item value="stereotype" />
       <item value="Controller" />
-      <item value="employee" />
-      <item value="class" />
-      <item value="Request" />
-      <item value="Mapping" />
-      <item value="Employee" />
-      <item value="public" />
-      <item value="Base Mapper" />
-      <item value="Employee Mapper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
-        <entry key="ENGLISH" value="94" />
+        <entry key="CHINESE" value="106" />
+        <entry key="ENGLISH" value="107" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
       </map>
