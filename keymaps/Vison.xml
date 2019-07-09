@@ -230,9 +230,9 @@
   </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl t" />
-    <keyboard-shortcut first-keystroke="ctrl alt b" />
     <keyboard-shortcut first-keystroke="meta t" />
     <keyboard-shortcut first-keystroke="meta end" />
+    <mouse-shortcut keystroke="shift meta button1" />
   </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="ctrl l" />

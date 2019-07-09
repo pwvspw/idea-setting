@@ -137,14 +137,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Implementation(s)">
-        <Item>
-          <IdeaActionID>GotoImplementation</IdeaActionID>
-          <ShortCut>'⌃T' or '⌃⌥B' or '⌘T'</ShortCut>
-          <Description>Implementation(s)</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="JRebel Console">
         <Item>
           <IdeaActionID>ActivateJRebelConsoleToolWindow</IdeaActionID>
@@ -457,6 +449,14 @@
           <ShortCut>'⌃⇧F12'</ShortCut>
           <Description>Hide All Windows</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Implementation(s)">
+        <Item>
+          <IdeaActionID>GotoImplementation</IdeaActionID>
+          <ShortCut>'⌃T' or '⌃⌥B' or '⌘T'</ShortCut>
+          <Description>Implementation(s)</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="JRebel">
