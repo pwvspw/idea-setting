@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="implementation" />
       <item value="Entry" />
       <item value="get Value" />
       <item value="contains Value" />
@@ -19,8 +20,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="129" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="CHINESE" value="130" />
+        <entry key="ENGLISH" value="131" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
       </map>
