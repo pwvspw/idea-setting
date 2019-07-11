@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Entry" />
+      <item value="get Value" />
+      <item value="contains Value" />
+      <item value="is Empty" />
       <item value="Illegal Argument Exception" />
       <item value="initial Capacity" />
       <item value="Constructs an empty &lt;tt&gt;HashMap&lt;/tt&gt; with the default initial capacity * (16) and the default load factor (0.75)." />
@@ -15,8 +19,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="127" />
-        <entry key="ENGLISH" value="128" />
+        <entry key="CHINESE" value="129" />
+        <entry key="ENGLISH" value="130" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
       </map>
