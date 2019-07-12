@@ -1,8 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="signifying" />
+      <item value="Serializable" />
+      <item value="wikipedia" />
+      <item value="Poisson distribution" />
       <item value="calculations" />
+      <item value="table Size For" />
+      <item value="transient" />
+      <item value="mod Count" />
+      <item value="signifying" />
       <item value="utilities" />
       <item value="UNTREEIFY THRESHOLD" />
       <item value="DEFAULT INITIAL CAPACITY" />
@@ -30,8 +36,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="142" />
-        <entry key="ENGLISH" value="143" />
+        <entry key="CHINESE" value="149" />
+        <entry key="ENGLISH" value="150" />
+        <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
       </map>
