@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="forthread" value="for (int i = 1; i &lt;= $VAR$; i++) {&#10;    new Thread(() -&gt; {&#10;        $END$&#10;    }, String.valueOf(i)).start();&#10;}" description="create loop thread template" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
