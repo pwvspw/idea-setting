@@ -43,6 +43,7 @@
   </action>
   <action id="CallHierarchy">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
+    <keyboard-shortcut first-keystroke="shift meta h" />
   </action>
   <action id="CallHierarchy.BaseOnThisType" />
   <action id="ChangeSignature" />
@@ -190,6 +191,10 @@
   </action>
   <action id="ExportSettings">
     <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="ExtractMethod">
+    <keyboard-shortcut first-keystroke="shift alt m" />
+    <keyboard-shortcut first-keystroke="shift meta m" />
   </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl f3" />
