@@ -82,7 +82,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="tsleep" value="try {&#10;    TimeUnit.SECONDS.sleep($VAR$);&#10;} catch (InterruptedException e) {&#10;    e.printStackTrace();&#10;}" description="thread sleep some second" toReformat="false" toShortenFQNames="true">
+  <template name="tsl" value="try {&#10;    TimeUnit.SECONDS.sleep($VAR$);&#10;} catch (InterruptedException e) {&#10;    e.printStackTrace();&#10;}" description="thread sleep some second" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
