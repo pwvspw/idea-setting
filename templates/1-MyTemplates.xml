@@ -76,19 +76,31 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="newthread" value="new Thread(() -&gt; {&#10;    $END$&#10;}, &quot;$VAR$&quot;).start();&#10;" description="create a thread template" toReformat="false" toShortenFQNames="true">
+  <template name="newt" value="new Thread(() -&gt; {&#10;    $END$&#10;}, &quot;$VAR$&quot;).start();&#10;" description="create a thread template" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="tsl" value="try {&#10;    TimeUnit.SECONDS.sleep($VAR$);&#10;} catch (InterruptedException e) {&#10;    e.printStackTrace();&#10;}" description="thread sleep some second" toReformat="false" toShortenFQNames="true">
+  <template name="tsl" value="try { TimeUnit.SECONDS.sleep($VAR$); } catch (InterruptedException e) { e.printStackTrace(); }" description="thread sleep some second" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="threadname" value="Thread.currentThread().getName()" description="generate current thread name" toReformat="false" toShortenFQNames="true">
+  <template name="tname" value="Thread.currentThread().getName()" description="generate current thread name" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="fort" value="for (int i = 1; i &lt;= $VAR$; i++) {&#10;    new Thread(() -&gt; {&#10;        $END$&#10;    }, String.valueOf(i)).start();&#10;}" description="create loop thread template" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="trylock" value="$VAR$.lock();&#10;try {&#10;    $END$&#10;} catch (Exception e) {&#10;    e.printStackTrace();&#10;} finally {&#10;    $VAR$.unlock();&#10;}" description="lock unlock template" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
