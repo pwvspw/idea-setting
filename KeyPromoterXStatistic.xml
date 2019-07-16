@@ -249,6 +249,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ProviderConsumerTraditionDemo'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F11'</ShortCut>
+          <Description>Rerun 'ProviderConsumerTraditionDemo'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ReadWriteLockDemo'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
