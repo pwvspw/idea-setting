@@ -105,4 +105,14 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="trycf" value="try {&#10;    $END$&#10;} catch (Exception e) {&#10;    e.printStackTrace();&#10;} finally {&#10;&#10;}" description="try catch finally" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tryf" value="try {&#10;    $END$&#10;} finally {&#10;&#10;}" description="try finally" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
