@@ -41,6 +41,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'DeadlockDemo'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌥⇧D' or '⇧F9'</ShortCut>
+          <Description>Debug 'DeadlockDemo'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'SpringBoot02ConfigApplicationTests.contextLoads'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -134,7 +142,7 @@
           <IdeaActionID>FindBugs.ShowQuickSearch</IdeaActionID>
           <ShortCut>'⌃F'</ShortCut>
           <Description>Find a matching string in the current analysis results.</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -166,7 +174,7 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'⌥0'</ShortCut>
           <Description>Messages</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Module Settings">
@@ -249,6 +257,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'DeadlockDemo'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F11'</ShortCut>
+          <Description>Rerun 'DeadlockDemo'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ProviderConsumerBlockQueueDemo'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -326,6 +342,22 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F8' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DeadlockDemo'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌥R'</ShortCut>
+          <Description>Run 'DeadlockDemo'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DeadlockDemo.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'DeadlockDemo.main()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -449,6 +481,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'DeadlockDemo'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'DeadlockDemo'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'HelloWorldMainApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -534,7 +574,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>7</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
@@ -543,6 +583,14 @@
           <ShortCut>'⌘·'</ShortCut>
           <Description>Translate</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="View Breakpoints...">
+        <Item>
+          <IdeaActionID>ViewBreakpoints</IdeaActionID>
+          <ShortCut>'⌃⇧F8'</ShortCut>
+          <Description>View Breakpoints...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="编码规约扫描">
