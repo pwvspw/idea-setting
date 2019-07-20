@@ -1,6 +1,14 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Back">
+        <Item>
+          <IdeaActionID>Back</IdeaActionID>
+          <ShortCut>'⌥←'</ShortCut>
+          <Description>Back</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Build Project">
         <Item>
           <IdeaActionID>CompileDirty</IdeaActionID>
@@ -145,6 +153,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Forward">
+        <Item>
+          <IdeaActionID>Forward</IdeaActionID>
+          <ShortCut>'⌥→'</ShortCut>
+          <Description>Forward</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Generate...">
         <Item>
           <IdeaActionID>Generate</IdeaActionID>
@@ -175,6 +191,14 @@
           <ShortCut>'⌥0'</ShortCut>
           <Description>Messages</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Navigation Bar">
+        <Item>
+          <IdeaActionID>ViewNavigationBar</IdeaActionID>
+          <ShortCut>'⌥↖'</ShortCut>
+          <Description>Navigation Bar</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Module Settings">
@@ -577,14 +601,6 @@
           <Count>3</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Terminal">
-        <Item>
-          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
-          <ShortCut>'⌥F12'</ShortCut>
-          <Description>Terminal</Description>
-          <Count>15</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Translate">
         <Item>
           <IdeaActionID>$EditorTranslateAction</IdeaActionID>
@@ -735,6 +751,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'JVMParameterDemo'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'JVMParameterDemo'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'SpringBoot03LogApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -765,6 +789,14 @@
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'SpringBoot06DataMybatisApplication'</Description>
           <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Terminal">
+        <Item>
+          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
+          <ShortCut>'⌥F12'</ShortCut>
+          <Description>Terminal</Description>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
