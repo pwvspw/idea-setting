@@ -513,6 +513,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'StackOverflowErrorDemo'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌥R'</ShortCut>
+          <Description>Run 'StackOverflowErrorDemo'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Tomcat8'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
