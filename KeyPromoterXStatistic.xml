@@ -409,6 +409,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'GCOverheadLimitExceededDemo'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌥R'</ShortCut>
+          <Description>Run 'GCOverheadLimitExceededDemo'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'JVMDemo01.main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -583,6 +591,14 @@
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'DeadlockDemo'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'GCOverheadLimitExceededDemo'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'GCOverheadLimitExceededDemo'</Description>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'HelloWorldMainApplication'">
