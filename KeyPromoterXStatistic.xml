@@ -425,6 +425,14 @@
           <Count>20</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'OOMJavaHeapSpace'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌥R'</ShortCut>
+          <Description>Run 'OOMJavaHeapSpace'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ReadWriteLockDemo'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -583,6 +591,14 @@
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'HelloWorldMainApplication'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OOMJavaHeapSpace'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'OOMJavaHeapSpace'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SpringBoot01HelloworldQuickApplication'">
