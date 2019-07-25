@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Guidelines" />
+      <item value="Direct Byte Buffer" />
+      <item value="The new buffer's position will be zero, its limit will be its * capacity, its mark will be undefined, and each of its elements will be * initialized to zero. Whether or not it has a * {@link #hasArray backing array} is unspecified." />
+      <item value="Allocates a new direct byte buffer" />
       <item value="Compact" />
       <item value="sweep" />
       <item value="Since its first release, the Key Promoter X has about 300.000 downloads. It is top-rated on the JetBrains site, and since it is entirely open-source, other plugin developers can browse through the code to understand how things are implemented. The plugin is not for me or a by-product of something I would do anyway. It is for you who want to learn shortcuts in IntelliJ IDEA, and I give away some of my free time to keep it up to date and fix bugs. If you appreciate my efforts, then please donate some money. And don't forget to star the GitHub repository and leave a rating on the JetBrains plugin site. If you want to see IntelliJ plugin development, fixing bugs or interesting projects live on Twitch, you can turn on when I stream." />
@@ -47,15 +51,11 @@
       <item value="initial Capacity" />
       <item value="Constructs an empty &lt;tt&gt;HashMap&lt;/tt&gt; with the default initial capacity * (16) and the default load factor (0.75)." />
       <item value="variable is missing in the incoming request. Switch this to {@code false} if * you prefer a {@code null} or Java 8 {@code java.util.Optional} in this case. * e.g. on a {@code ModelAttribute} method which serves for different requests." />
-      <item value="Whether the path variable is required." />
-      <item value="last Name" />
-      <item value="first Name" />
-      <item value="Assign a name to this mapping." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="166" />
-        <entry key="ENGLISH" value="167" />
+        <entry key="CHINESE" value="172" />
+        <entry key="ENGLISH" value="172" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
