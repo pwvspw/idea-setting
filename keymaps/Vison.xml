@@ -255,6 +255,7 @@
     <keyboard-shortcut first-keystroke="meta t" />
     <keyboard-shortcut first-keystroke="meta end" />
     <mouse-shortcut keystroke="shift meta button1" />
+    <keyboard-shortcut first-keystroke="meta e" />
   </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="ctrl l" />
