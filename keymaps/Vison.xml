@@ -288,6 +288,13 @@
   <action id="JRebel Debug">
     <keyboard-shortcut first-keystroke="alt j" />
   </action>
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+    <keyboard-shortcut first-keystroke="shift meta home" />
+  </action>
+  <action id="JumpToNextChange">
+    <keyboard-shortcut first-keystroke="shift meta end" />
+  </action>
   <action id="MethodHierarchy">
     <keyboard-shortcut first-keystroke="ctrl alt h" />
   </action>
