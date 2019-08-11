@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Atomically updates the current value with the results of" />
+      <item value="get And Set Object" />
+      <item value="alternative" />
       <item value="Guidelines" />
       <item value="Direct Byte Buffer" />
       <item value="The new buffer's position will be zero, its limit will be its * capacity, its mark will be undefined, and each of its elements will be * initialized to zero. Whether or not it has a * {@link #hasArray backing array} is unspecified." />
@@ -48,14 +51,11 @@
       <item value="contains Value" />
       <item value="is Empty" />
       <item value="Illegal Argument Exception" />
-      <item value="initial Capacity" />
-      <item value="Constructs an empty &lt;tt&gt;HashMap&lt;/tt&gt; with the default initial capacity * (16) and the default load factor (0.75)." />
-      <item value="variable is missing in the incoming request. Switch this to {@code false} if * you prefer a {@code null} or Java 8 {@code java.util.Optional} in this case. * e.g. on a {@code ModelAttribute} method which serves for different requests." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="172" />
-        <entry key="ENGLISH" value="172" />
+        <entry key="CHINESE" value="174" />
+        <entry key="ENGLISH" value="175" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
