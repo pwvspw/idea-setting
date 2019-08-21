@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the correctly rounded positive square root of a * {@code double} value." />
       <item value="Constructs an empty &lt;tt&gt;LinkedHashMap&lt;/tt&gt; instance with the * specified initial capacity, load factor and ordering mode." />
       <item value="ensure Capacity Internal" />
       <item value="Appends the specified element to the end of this list" />
@@ -50,12 +51,11 @@
       <item value="million" />
       <item value="hash Codes" />
       <item value="size" />
-      <item value="ordered" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="180" />
-        <entry key="ENGLISH" value="181" />
+        <entry key="CHINESE" value="181" />
+        <entry key="ENGLISH" value="182" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
