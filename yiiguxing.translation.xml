@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Modifier 'final' is redundant for interface fields" />
       <item value="The form of nextInt used by IntStream Spliterators. * For the unbounded case: uses nextInt(). * For the bounded case with representable range: uses nextInt(int bound) * For the bounded case with unrepresentable range: uses nextInt()" />
       <item value="pseudorandom" />
       <item value="The form of nextInt used by IntStream Spliterators. * For the unbounded case: uses nextInt(). * For the bounded case with representable range: uses nextInt(int bound) * For the bounded case with unrepresentable range: uses nextInt(" />
@@ -50,11 +51,10 @@
       <item value="utilities" />
       <item value="UNTREEIFY THRESHOLD" />
       <item value="DEFAULT INITIAL CAPACITY" />
-      <item value="transitions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="184" />
+        <entry key="CHINESE" value="185" />
         <entry key="ENGLISH" value="185" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />

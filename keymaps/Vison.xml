@@ -63,7 +63,6 @@
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="CloseAllEditorsButActive">
-    <keyboard-shortcut first-keystroke="ctrl meta w" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CloseContent">
