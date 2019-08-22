@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Inspection info: Reports explicit assigning default value to an annotation parameter." />
+      <item value="Redundant default parameter value assignment less... (⌃F1)" />
       <item value="This inspection points out the cases where a variable value is never used after its assignment, i.e.:  - the variable never gets read after assignment OR  - the value is always overwritten with another assignment before the next variable read OR  - the variable initializer is redundant (for one of the above two reasons)" />
       <item value="Variable 'queryResult' initializer 'new MsgQueryResult()' is redundant" />
       <item value="Creates a StringEntity with the specified content. The content type defaults to" />
@@ -49,8 +51,6 @@
       <item value="calculations" />
       <item value="table Size For" />
       <item value="transient" />
-      <item value="mod Count" />
-      <item value="signifying" />
     </histories>
     <option name="languageScores">
       <map>
