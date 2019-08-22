@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This inspection points out the cases where a variable value is never used after its assignment, i.e.:  - the variable never gets read after assignment OR  - the value is always overwritten with another assignment before the next variable read OR  - the variable initializer is redundant (for one of the above two reasons)" />
+      <item value="Variable 'queryResult' initializer 'new MsgQueryResult()' is redundant" />
+      <item value="Creates a StringEntity with the specified content. The content type defaults to" />
       <item value="Modifier 'final' is redundant for interface fields" />
       <item value="The form of nextInt used by IntStream Spliterators. * For the unbounded case: uses nextInt(). * For the bounded case with representable range: uses nextInt(int bound) * For the bounded case with unrepresentable range: uses nextInt()" />
       <item value="pseudorandom" />
@@ -48,14 +51,11 @@
       <item value="transient" />
       <item value="mod Count" />
       <item value="signifying" />
-      <item value="utilities" />
-      <item value="UNTREEIFY THRESHOLD" />
-      <item value="DEFAULT INITIAL CAPACITY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="185" />
-        <entry key="ENGLISH" value="185" />
+        <entry key="CHINESE" value="186" />
+        <entry key="ENGLISH" value="186" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
