@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.classpath;*.hprof;*.iml;*.project;*.pyc;*.pyo;*.rbc;*.settings;*.yarb;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <ignoreFiles list="*.classpath;*.hprof;*.iml;*.project;*.pyc;*.pyo;*.rbc;*.settings;*.yarb;*~;.DS_Store;.git;.gitignore;.hg;.idea;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="factories" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
