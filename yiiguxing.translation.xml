@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="integrates" />
+      <item value="easy way for analyzing and excluding conflicting dependencies" />
       <item value="get Context Class Loader" />
       <item value="String" />
       <item value="args" />
@@ -49,12 +51,10 @@
       <item value="List" />
       <item value="Class Cast Exception" />
       <item value="constant" />
-      <item value="Serializable" />
-      <item value="wikipedia" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="189" />
+        <entry key="CHINESE" value="190" />
         <entry key="ENGLISH" value="190" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
