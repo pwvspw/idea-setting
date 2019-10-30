@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="insert User Market Expire" />
       <item value="After resolving conflicts you also probably would want to commit your files to the current branch" />
       <item value="You have to resolve all merge conflicts before checkout" />
       <item value="conflicts" />
@@ -50,12 +51,11 @@
       <item value="attempt" />
       <item value="Collections" />
       <item value="Unmodifiable Navigable Set" />
-      <item value="member" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="196" />
-        <entry key="ENGLISH" value="197" />
+        <entry key="CHINESE" value="197" />
+        <entry key="ENGLISH" value="198" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
