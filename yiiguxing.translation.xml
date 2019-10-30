@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="labbder" />
+      <item value="labbders" />
       <item value="Specifies that each entry should be automatically removed from the cache once a fixed duration * has elapsed after the entry's creation, the most recent replacement of its value, or its last * access. Access time is reset by all cache read and write operations (including * {@code Cache.asMap().get(Object)} and {@code Cache.asMap().put(K, V)}), but not by operations * on the collection-views of {@link Cache#asMap}. * * &lt;p&gt;When {@code duration} is zero, this method hands off to * {@link #maximumSize(long) maximumSize}{@code (0)}, ignoring any otherwise-specificed maximum * size or weight. This can be useful in testing, or to disable caching temporarily without a code * change. * * &lt;p&gt;Expired entries may be counted in {@link Cache#size}, but will never be visible to read or * write operations. Expired entries are cleaned up as part of the routine maintenance described * in the class javadoc." />
       <item value="expire After Access" />
       <item value="Cache Builder" />
@@ -49,13 +51,11 @@
       <item value="dot" />
       <item value="native" />
       <item value="If this thread was constructed using a separate" />
-      <item value="Thread Pool Executor" />
-      <item value="bloc" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="201" />
-        <entry key="ENGLISH" value="202" />
+        <entry key="CHINESE" value="203" />
+        <entry key="ENGLISH" value="204" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
