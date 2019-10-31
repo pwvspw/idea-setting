@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="buy Quot Market" />
       <item value="but not by operations * on the collection-views of" />
       <item value="Access time is reset by all cache read and write operations" />
       <item value="he most recent replacement of its value, or its last * access" />
@@ -50,12 +51,11 @@
       <item value="Returns the correctly rounded positive square root of a * {@code double} value." />
       <item value="Constructs an empty &lt;tt&gt;LinkedHashMap&lt;/tt&gt; instance with the * specified initial capacity, load factor and ordering mode." />
       <item value="ensure Capacity Internal" />
-      <item value="Appends the specified element to the end of this list" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="222" />
-        <entry key="ENGLISH" value="223" />
+        <entry key="CHINESE" value="223" />
+        <entry key="ENGLISH" value="224" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
