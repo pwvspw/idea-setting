@@ -1,0 +1,30 @@
+<application>
+  <component name="MavenRunHelper">
+    <option name="pluginAwareGoals">
+      <Goals>
+        <option name="goals">
+          <list>
+            <Goal>
+              <option name="commandLine" value="jetty:run" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="tomcat:run" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="tomcat5:run" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="tomcat6:run" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="tomcat7:run" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="tomcat8:run" />
+            </Goal>
+          </list>
+        </option>
+      </Goals>
+    </option>
+  </component>
+</application>
