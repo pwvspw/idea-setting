@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="With Drawal" />
+      <item value="With Drawa" />
+      <item value="build Fund With Drawal Dto" />
+      <item value="set Bank Code" />
+      <item value="settle Date" />
+      <item value="external Ref No" />
+      <item value="auto Approve" />
+      <item value="tran Type" />
+      <item value="bank Acct Code" />
+      <item value="bank Acct No" />
+      <item value="bank Code" />
+      <item value="ccy" />
+      <item value="clnt Code" />
+      <item value="clnt" />
       <item value="specified" />
       <item value="panel" />
       <item value="calvin" />
@@ -37,25 +51,11 @@
       <item value="entries" />
       <item value="evicts" />
       <item value="As the cache size grows close to the maximum" />
-      <item value="exceeded" />
-      <item value="evict" />
-      <item value="Note that" />
-      <item value="Specifies the maximum number of entries the cache may contain" />
-      <item value="Specifies" />
-      <item value="labbder" />
-      <item value="labbders" />
-      <item value="Specifies that each entry should be automatically removed from the cache once a fixed duration * has elapsed after the entry's creation, the most recent replacement of its value, or its last * access. Access time is reset by all cache read and write operations (including * {@code Cache.asMap().get(Object)} and {@code Cache.asMap().put(K, V)}), but not by operations * on the collection-views of {@link Cache#asMap}. * * &lt;p&gt;When {@code duration} is zero, this method hands off to * {@link #maximumSize(long) maximumSize}{@code (0)}, ignoring any otherwise-specificed maximum * size or weight. This can be useful in testing, or to disable caching temporarily without a code * change. * * &lt;p&gt;Expired entries may be counted in {@link Cache#size}, but will never be visible to read or * write operations. Expired entries are cleaned up as part of the routine maintenance described * in the class javadoc." />
-      <item value="expire After Access" />
-      <item value="Cache Builder" />
-      <item value="nethall market pkg ladder" />
-      <item value="insert User Market Expire" />
-      <item value="After resolving conflicts you also probably would want to commit your files to the current branch" />
-      <item value="You have to resolve all merge conflicts before checkout" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="239" />
-        <entry key="ENGLISH" value="239" />
+        <entry key="CHINESE" value="253" />
+        <entry key="ENGLISH" value="254" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
