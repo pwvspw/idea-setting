@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Reserve" />
+      <item value="pem" />
+      <item value="PEM" />
+      <item value="PEM Reader" />
       <item value="With Drawal" />
       <item value="With Drawa" />
       <item value="build Fund With Drawal Dto" />
@@ -47,18 +51,15 @@
       <item value="or to disable caching temporarily without a code change" />
       <item value="This can be useful in testing" />
       <item value="elements will be evicted immediately after being loaded into the * cache" />
-      <item value="it hasn't been used recently or very often" />
-      <item value="entries" />
-      <item value="evicts" />
-      <item value="As the cache size grows close to the maximum" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="253" />
-        <entry key="ENGLISH" value="254" />
+        <entry key="CHINESE" value="255" />
+        <entry key="ENGLISH" value="256" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
+        <entry key="INDONESIAN" value="2" />
       </map>
     </option>
   </component>
