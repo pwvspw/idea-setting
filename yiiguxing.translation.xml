@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="已发布" />
+      <item value="已下架" />
+      <item value="rack" />
+      <item value="以下架" />
+      <item value="审核驳回" />
+      <item value="待提交" />
       <item value="Reserve" />
       <item value="pem" />
       <item value="PEM" />
@@ -45,17 +51,11 @@
       <item value="Access time is reset by all cache read and write operations" />
       <item value="he most recent replacement of its value, or its last * access" />
       <item value="Specifies that each entry should be automatically removed from the cache once a fixed duration * has elapsed after the entry's creation" />
-      <item value="conjunction" />
-      <item value="This feature cannot be used in conjunction with {" />
-      <item value="temporarily" />
-      <item value="or to disable caching temporarily without a code change" />
-      <item value="This can be useful in testing" />
-      <item value="elements will be evicted immediately after being loaded into the * cache" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="255" />
-        <entry key="ENGLISH" value="256" />
+        <entry key="CHINESE" value="257" />
+        <entry key="ENGLISH" value="258" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
