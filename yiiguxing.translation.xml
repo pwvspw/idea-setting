@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="RSA" />
+      <item value="Ex" />
+      <item value="Right Ex" />
       <item value="已发布" />
       <item value="已下架" />
       <item value="rack" />
@@ -48,17 +51,15 @@
       <item value="market Pkg List" />
       <item value="buy Quot Market" />
       <item value="but not by operations * on the collection-views of" />
-      <item value="Access time is reset by all cache read and write operations" />
-      <item value="he most recent replacement of its value, or its last * access" />
-      <item value="Specifies that each entry should be automatically removed from the cache once a fixed duration * has elapsed after the entry's creation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="257" />
-        <entry key="ENGLISH" value="258" />
+        <entry key="CHINESE" value="260" />
+        <entry key="ENGLISH" value="260" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
+        <entry key="TURKISH" value="1" />
         <entry key="INDONESIAN" value="2" />
       </map>
     </option>
