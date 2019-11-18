@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="async File" />
+      <item value="Async Appender" />
+      <item value="appenders" />
       <item value="已生效" />
       <item value="待生效" />
       <item value="生效" />
@@ -48,14 +51,11 @@
       <item value="UNDERLINE" />
       <item value="provider" />
       <item value="promoter" />
-      <item value="pr" />
-      <item value="injection" />
-      <item value="sql Statement" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="262" />
-        <entry key="ENGLISH" value="263" />
+        <entry key="CHINESE" value="265" />
+        <entry key="ENGLISH" value="266" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
