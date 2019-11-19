@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No Class Def Found Error" />
+      <item value="Class Path Xml Application Context" />
+      <item value="could not be instantiated" />
+      <item value="instance" />
+      <item value="Extension" />
       <item value="币种" />
       <item value="香港" />
       <item value="中国" />
@@ -46,16 +51,11 @@
       <item value="external Ref No" />
       <item value="auto Approve" />
       <item value="tran Type" />
-      <item value="bank Acct Code" />
-      <item value="bank Acct No" />
-      <item value="bank Code" />
-      <item value="ccy" />
-      <item value="clnt Code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="266" />
-        <entry key="ENGLISH" value="267" />
+        <entry key="CHINESE" value="271" />
+        <entry key="ENGLISH" value="272" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
