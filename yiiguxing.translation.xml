@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stereotype" />
       <item value="Instantiation" />
       <item value="No Class Def Found Error" />
       <item value="Class Path Xml Application Context" />
@@ -50,12 +51,11 @@
       <item value="set Bank Code" />
       <item value="settle Date" />
       <item value="external Ref No" />
-      <item value="auto Approve" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="272" />
-        <entry key="ENGLISH" value="273" />
+        <entry key="CHINESE" value="274" />
+        <entry key="ENGLISH" value="275" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
