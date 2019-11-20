@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Asyn Send And Submit Task" />
+      <item value="Asyn" />
       <item value="hook" />
       <item value="register Server Hook" />
       <item value="stereotype" />
@@ -49,17 +51,16 @@
       <item value="PEM Reader" />
       <item value="With Drawal" />
       <item value="With Drawa" />
-      <item value="build Fund With Drawal Dto" />
-      <item value="set Bank Code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="276" />
-        <entry key="ENGLISH" value="277" />
+        <entry key="CHINESE" value="277" />
+        <entry key="ENGLISH" value="278" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="TURKISH" value="1" />
+        <entry key="WELSH" value="1" />
         <entry key="INDONESIAN" value="2" />
       </map>
     </option>
