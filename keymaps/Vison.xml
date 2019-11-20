@@ -98,8 +98,8 @@
     <keyboard-shortcut first-keystroke="space" />
   </action>
   <action id="CopyReference">
-    <keyboard-shortcut first-keystroke="shift ctrl alt c" />
-    <keyboard-shortcut first-keystroke="ctrl meta c" />
+    <keyboard-shortcut first-keystroke="meta alt c" />
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="shift ctrl e" />
@@ -254,7 +254,7 @@
     <keyboard-shortcut first-keystroke="shift alt s" />
   </action>
   <action id="Git.CompareWithBranch">
-    <keyboard-shortcut first-keystroke="ctrl meta p" />
+    <keyboard-shortcut first-keystroke="ctrl meta c" />
   </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
@@ -335,6 +335,10 @@
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
   </action>
+  <action id="PasteMultiple">
+    <keyboard-shortcut first-keystroke="shift ctrl v" />
+    <keyboard-shortcut first-keystroke="shift meta v" />
+  </action>
   <action id="QuickActionPopup" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
@@ -384,10 +388,13 @@
   <action id="Unwrap" />
   <action id="Vcs.Log.ShowAllAffected" />
   <action id="Vcs.Push">
-    <keyboard-shortcut first-keystroke="ctrl meta k" />
+    <keyboard-shortcut first-keystroke="ctrl meta p" />
   </action>
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="ctrl meta u" />
   </action>
   <action id="VcsHistory.ShowAllAffected" />
   <action id="context.save" />
