@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hook" />
+      <item value="register Server Hook" />
       <item value="stereotype" />
       <item value="Instantiation" />
       <item value="No Class Def Found Error" />
@@ -49,13 +51,11 @@
       <item value="With Drawa" />
       <item value="build Fund With Drawal Dto" />
       <item value="set Bank Code" />
-      <item value="settle Date" />
-      <item value="external Ref No" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="274" />
-        <entry key="ENGLISH" value="275" />
+        <entry key="CHINESE" value="276" />
+        <entry key="ENGLISH" value="277" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
