@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="file Mode" />
       <item value="lightfish" />
       <item value="commons-service" />
       <item value="commons" />
@@ -50,12 +51,11 @@
       <item value="Right Ex" />
       <item value="已发布" />
       <item value="已下架" />
-      <item value="rack" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="286" />
-        <entry key="ENGLISH" value="287" />
+        <entry key="CHINESE" value="287" />
+        <entry key="ENGLISH" value="288" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
