@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unsatisfied dependency expressed through field" />
+      <item value="Unsatisfied" />
       <item value="Asyn Send And Submit Task" />
       <item value="Asyn" />
       <item value="hook" />
@@ -49,13 +51,11 @@
       <item value="pem" />
       <item value="PEM" />
       <item value="PEM Reader" />
-      <item value="With Drawal" />
-      <item value="With Drawa" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="277" />
-        <entry key="ENGLISH" value="278" />
+        <entry key="CHINESE" value="279" />
+        <entry key="ENGLISH" value="280" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
