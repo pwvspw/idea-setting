@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unsatisfied Dependency Exception" />
       <item value="file Mode" />
       <item value="lightfish" />
       <item value="commons-service" />
@@ -50,12 +51,11 @@
       <item value="Ex" />
       <item value="Right Ex" />
       <item value="已发布" />
-      <item value="已下架" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="287" />
-        <entry key="ENGLISH" value="288" />
+        <entry key="CHINESE" value="288" />
+        <entry key="ENGLISH" value="289" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
