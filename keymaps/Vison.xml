@@ -53,6 +53,12 @@
   </action>
   <action id="CallHierarchy.BaseOnThisType" />
   <action id="ChangeSignature" />
+  <action id="ChangesView.AddUnversioned">
+    <keyboard-shortcut first-keystroke="ctrl meta a" />
+  </action>
+  <action id="ChangesView.Revert">
+    <keyboard-shortcut first-keystroke="ctrl meta z" />
+  </action>
   <action id="ChangesView.ShelveSilently" />
   <action id="ClassNameCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
