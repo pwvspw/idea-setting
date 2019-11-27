@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Dependency annotations" />
+      <item value="Unsatisfied dependency expressed through field" />
       <item value="Factory" />
       <item value="inspection" />
       <item value="Execution List" />
@@ -24,7 +26,6 @@
       <item value="BUILD" />
       <item value="and similar tools by default" />
       <item value="Indicates that annotations with a type are to be documented by javadoc" />
-      <item value="Unsatisfied dependency expressed through field" />
       <item value="Unsatisfied" />
       <item value="Asyn Send And Submit Task" />
       <item value="Asyn" />
@@ -50,12 +51,11 @@
       <item value="支付" />
       <item value="扣款" />
       <item value="积分" />
-      <item value="cash" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="301" />
-        <entry key="ENGLISH" value="302" />
+        <entry key="CHINESE" value="303" />
+        <entry key="ENGLISH" value="304" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
