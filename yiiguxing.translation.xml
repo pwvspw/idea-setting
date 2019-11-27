@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inspection" />
       <item value="Execution List" />
       <item value="candidate" />
       <item value="qualifies" />
@@ -50,11 +51,10 @@
       <item value="积分" />
       <item value="cash" />
       <item value="async File" />
-      <item value="Async Appender" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="300" />
+        <entry key="CHINESE" value="301" />
         <entry key="ENGLISH" value="301" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
