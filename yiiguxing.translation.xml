@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="map Underscore To Camel Case" />
       <item value="Manual" />
       <item value="get Manual Bind List" />
       <item value="manual" />
@@ -50,12 +51,11 @@
       <item value="币种" />
       <item value="香港" />
       <item value="中国" />
-      <item value="新加坡" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="314" />
-        <entry key="ENGLISH" value="315" />
+        <entry key="CHINESE" value="315" />
+        <entry key="ENGLISH" value="316" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
