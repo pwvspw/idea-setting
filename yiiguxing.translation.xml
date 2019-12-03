@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="授权" />
+      <item value="鉴权" />
+      <item value="文件权限控制" />
+      <item value="权限" />
       <item value="二月" />
       <item value="get Kingdom Management Port" />
       <item value="kingdom Management Service" />
@@ -47,10 +51,6 @@
       <item value="register Server Hook" />
       <item value="stereotype" />
       <item value="Instantiation" />
-      <item value="No Class Def Found Error" />
-      <item value="Class Path Xml Application Context" />
-      <item value="could not be instantiated" />
-      <item value="instance" />
     </histories>
     <option name="languageScores">
       <map>
