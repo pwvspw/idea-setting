@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="NON CLUSTERED" />
       <item value="camel 2 Underline" />
       <item value="字段" />
       <item value="授权" />
@@ -50,12 +51,11 @@
       <item value="Asyn Send And Submit Task" />
       <item value="Asyn" />
       <item value="hook" />
-      <item value="register Server Hook" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="321" />
-        <entry key="ENGLISH" value="322" />
+        <entry key="CHINESE" value="322" />
+        <entry key="ENGLISH" value="323" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
