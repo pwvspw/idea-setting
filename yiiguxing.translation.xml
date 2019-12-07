@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="encrypt" />
+      <item value="加密" />
       <item value="Serialized class" />
       <item value="mockito" />
       <item value="NON CLUSTERED" />
@@ -49,13 +51,11 @@
       <item value="BUILD" />
       <item value="and similar tools by default" />
       <item value="Indicates that annotations with a type are to be documented by javadoc" />
-      <item value="Unsatisfied" />
-      <item value="Asyn Send And Submit Task" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="323" />
-        <entry key="ENGLISH" value="324" />
+        <entry key="CHINESE" value="325" />
+        <entry key="ENGLISH" value="325" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
