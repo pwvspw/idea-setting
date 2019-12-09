@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="he string to be substituted for each match" />
       <item value="分隔符" />
       <item value="分隔" />
       <item value="组合" />
@@ -50,12 +51,11 @@
       <item value="file Mode" />
       <item value="lightfish" />
       <item value="commons-service" />
-      <item value="commons" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="325" />
-        <entry key="ENGLISH" value="326" />
+        <entry key="CHINESE" value="326" />
+        <entry key="ENGLISH" value="327" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
