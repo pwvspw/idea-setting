@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SUSPENDED" />
       <item value="synchronization" />
       <item value="Escape" />
       <item value="assigned" />
@@ -50,12 +51,11 @@
       <item value="get Cert Sn" />
       <item value="arrangement" />
       <item value="configure Message Converters" />
-      <item value="init Validator Aspect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="328" />
-        <entry key="ENGLISH" value="329" />
+        <entry key="CHINESE" value="329" />
+        <entry key="ENGLISH" value="330" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
