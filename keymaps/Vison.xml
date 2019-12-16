@@ -327,6 +327,12 @@
   <action id="MinimizeCurrentWindow">
     <keyboard-shortcut first-keystroke="meta m" />
   </action>
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
   <action id="NextParameter">
     <keyboard-shortcut first-keystroke="tab" />
     <keyboard-shortcut first-keystroke="enter" />
