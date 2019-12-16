@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="星号" />
+      <item value="symbol" />
       <item value="符号" />
+      <item value="星号" />
       <item value="后缀" />
       <item value="Invocation Target Exception" />
       <item value="SUSPENDED" />
@@ -50,11 +51,10 @@
       <item value="execution" />
       <item value="start Internal" />
       <item value="request Mapping Handler Mapping" />
-      <item value="instantiate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="331" />
+        <entry key="CHINESE" value="332" />
         <entry key="ENGLISH" value="332" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
