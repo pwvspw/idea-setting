@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns a comparator that imposes the reverse ordering of this * comparator." />
       <item value="entire" />
       <item value="symbol" />
       <item value="符号" />
@@ -50,12 +51,11 @@
       <item value="candidate" />
       <item value="qualifies" />
       <item value="execution" />
-      <item value="start Internal" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="332" />
-        <entry key="ENGLISH" value="332" />
+        <entry key="ENGLISH" value="333" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
