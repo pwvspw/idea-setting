@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Host is down" />
       <item value="deposit" />
       <item value="withdraw" />
       <item value="扣费" />
@@ -50,12 +51,11 @@
       <item value="Unsatisfied dependency expressed through field" />
       <item value="Factory" />
       <item value="inspection" />
-      <item value="Execution List" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="334" />
-        <entry key="ENGLISH" value="334" />
+        <entry key="ENGLISH" value="335" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
@@ -71,13 +71,7 @@
       <app-key>
         <option name="appId" value="863505099@qq.com" />
         <option name="appKeyConfigured" value="true" />
-        <option name="primaryLanguage" value="CHINESE" />
       </app-key>
-    </option>
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="false" />
-      </google-translate>
     </option>
     <option name="ignoreRegExp" value="" />
     <option name="primaryFontFamily" value="Ayuthaya" />
@@ -85,7 +79,6 @@
       <youdao-translate>
         <option name="appId" value="pwvison@163.com" />
         <option name="appKeyConfigured" value="true" />
-        <option name="primaryLanguage" value="AUTO" />
       </youdao-translate>
     </option>
   </component>
