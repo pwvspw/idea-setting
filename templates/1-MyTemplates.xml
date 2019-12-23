@@ -13,7 +13,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="logg" value="private static final Logger log = LoggerFactory.getLogger($VAR1$.class);" description="private static final Logger" toReformat="false" toShortenFQNames="true">
+  <template name="logg" value="private static final Logger logger = LoggerFactory.getLogger($VAR1$.class);" description="private static final Logger" toReformat="false" toShortenFQNames="true">
     <variable name="VAR1" expression="" defaultValue="className()" alwaysStopAt="false" />
     <context>
       <option name="JAVA_CODE" value="true" />
