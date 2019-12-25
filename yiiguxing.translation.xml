@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Disable Circular Reference Detect" />
       <item value="* config encode/decode ordinal" />
       <item value="ordinal" />
       <item value="&lt;code&gt;SimpleDateFormat&lt;/code&gt; allows you to start by choosing * any user-defined patterns for date-time formatting. However, you * are encouraged to create a date-time formatter with either * &lt;code&gt;getTimeInstance&lt;/code&gt;, &lt;code&gt;getDateInstance&lt;/code&gt;, or * &lt;code&gt;getDateTimeInstance&lt;/code&gt; in &lt;code&gt;DateFormat&lt;/code&gt;. Each * of these class methods can return a date/time formatter initialized * with a default format pattern. You may modify the format pattern * using the &lt;code&gt;applyPattern&lt;/code&gt; methods as desired. * For more information on using these methods, see * {@link DateFormat}." />
@@ -50,12 +51,11 @@
       <item value="Duplicate" />
       <item value="Duplicate spring bean id dataService" />
       <item value="Illegal State Exception" />
-      <item value="expected at least 1 bean which qualifies as autowire candidate for this dependency" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="338" />
-        <entry key="ENGLISH" value="339" />
+        <entry key="CHINESE" value="339" />
+        <entry key="ENGLISH" value="340" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
