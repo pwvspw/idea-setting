@@ -1,7 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="同意安全提示" />
       <item value="安全提示" />
+      <item value="统一安全提示" />
       <item value="SMS Service" />
       <item value="Disable Circular Reference Detect" />
       <item value="* config encode/decode ordinal" />
@@ -49,8 +51,6 @@
       <item value="manual" />
       <item value="decompiled" />
       <item value="Think Gem" />
-      <item value="Unsatisfied Dependency Exception" />
-      <item value="Duplicate" />
     </histories>
     <option name="languageScores">
       <map>
