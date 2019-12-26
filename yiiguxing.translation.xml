@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="安全提示" />
       <item value="SMS Service" />
       <item value="Disable Circular Reference Detect" />
       <item value="* config encode/decode ordinal" />
@@ -50,12 +51,11 @@
       <item value="Think Gem" />
       <item value="Unsatisfied Dependency Exception" />
       <item value="Duplicate" />
-      <item value="Duplicate spring bean id dataService" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="340" />
-        <entry key="ENGLISH" value="341" />
+        <entry key="CHINESE" value="341" />
+        <entry key="ENGLISH" value="342" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
