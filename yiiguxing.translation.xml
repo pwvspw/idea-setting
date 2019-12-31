@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unsatisfied Dependency Exception" />
       <item value="SOURCE" />
       <item value="Annotations are to be discarded by the compiler." />
       <item value="This annotation generates an implementation of the toString method. By default, any non-static fields will be included in the output of the method in name-value pairs. If desired, the inclusion of the property names in the output can be suppressed by setting the annotation parameter includeFieldNames to false.  Specific fields can be excluded from the output of the generated method by including their field names in the exclude parameter. Alternatively, the of parameter can be used to list only those fields which are desired in the output. The output of the toString method of a superclass can also be included by setting the callSuper parameter to true." />
@@ -50,12 +51,11 @@
       <item value="kingdom Management Service" />
       <item value="kingdom" />
       <item value="map Underscore To Camel Case" />
-      <item value="Manual" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="344" />
-        <entry key="ENGLISH" value="345" />
+        <entry key="CHINESE" value="345" />
+        <entry key="ENGLISH" value="346" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
