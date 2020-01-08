@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="flat" />
       <item value="artifact" />
       <item value="indicates" />
       <item value="/** * The HTTP request methods to map to, narrowing the primary mapping: * GET, POST, HEAD, OPTIONS, PUT, PATCH, DELETE, TRACE. * &lt;p&gt;&lt;b&gt;Supported at the type level as well as at the method level!&lt;/b&gt; * When used at the type level, all method-level mappings inherit * this HTTP method restriction (i.e. the type-level restriction * gets checked before the handler method is even resolved). * &lt;p&gt;Supported for Servlet environments as well as Portlet 2.0 environments. */" />
@@ -50,12 +51,11 @@
       <item value="NON CLUSTERED" />
       <item value="camel 2 Underline" />
       <item value="字段" />
-      <item value="授权" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="352" />
-        <entry key="ENGLISH" value="353" />
+        <entry key="CHINESE" value="353" />
+        <entry key="ENGLISH" value="354" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
