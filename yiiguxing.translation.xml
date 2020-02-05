@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="通知客服" />
       <item value="扣费" />
       <item value="扣钱" />
       <item value="校验" />
@@ -50,7 +51,6 @@
       <item value="synchronization" />
       <item value="Escape" />
       <item value="assigned" />
-      <item value="he string to be substituted for each match" />
     </histories>
     <option name="languageScores">
       <map>
