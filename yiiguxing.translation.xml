@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Identity" />
       <item value="escape" />
       <item value="通知客服" />
       <item value="扣费" />
@@ -50,12 +51,11 @@
       <item value="Invocation Target Exception" />
       <item value="SUSPENDED" />
       <item value="synchronization" />
-      <item value="Escape" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="363" />
-        <entry key="ENGLISH" value="363" />
+        <entry key="ENGLISH" value="364" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
