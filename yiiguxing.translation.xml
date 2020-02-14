@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Jurisdiction" />
       <item value="Fetch" />
       <item value="Previous Account Bank Code 1" />
       <item value="Identity" />
@@ -50,12 +51,11 @@
       <item value="符号" />
       <item value="星号" />
       <item value="后缀" />
-      <item value="Invocation Target Exception" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="365" />
-        <entry key="ENGLISH" value="365" />
+        <entry key="ENGLISH" value="366" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
