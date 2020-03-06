@@ -73,7 +73,13 @@
       <app-key>
         <option name="appId" value="863505099@qq.com" />
         <option name="appKeyConfigured" value="true" />
+        <option name="primaryLanguage" value="CHINESE" />
       </app-key>
+    </option>
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="false" />
+      </google-translate>
     </option>
     <option name="ignoreRegExp" value="" />
     <option name="primaryFontFamily" value="Ayuthaya" />
@@ -81,6 +87,7 @@
       <youdao-translate>
         <option name="appId" value="pwvison@163.com" />
         <option name="appKeyConfigured" value="true" />
+        <option name="primaryLanguage" value="AUTO" />
       </youdao-translate>
     </option>
   </component>
