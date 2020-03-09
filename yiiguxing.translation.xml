@@ -1,11 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="renewal" />
       <item value="认证方式" />
       <item value="Processing" />
       <item value="golbal" />
       <item value="basanite" />
-      <item value="renewal" />
       <item value="WITHDRAWAL" />
       <item value="DEPOSIT" />
       <item value="Persistence" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="373" />
-        <entry key="ENGLISH" value="374" />
+        <entry key="CHINESE" value="374" />
+        <entry key="ENGLISH" value="375" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
