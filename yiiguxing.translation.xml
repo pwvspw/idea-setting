@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="认证" />
+      <item value="授权" />
+      <item value="auth" />
+      <item value="verification" />
+      <item value="校验" />
       <item value="renewal" />
       <item value="认证方式" />
       <item value="Processing" />
@@ -25,7 +30,6 @@
       <item value="通知客服" />
       <item value="扣费" />
       <item value="扣钱" />
-      <item value="校验" />
       <item value="invalid" />
       <item value="session Id" />
       <item value="Strategy" />
@@ -47,15 +51,11 @@
       <item value="Unsatisfied Dependency Exception" />
       <item value="SOURCE" />
       <item value="Annotations are to be discarded by the compiler." />
-      <item value="This annotation generates an implementation of the toString method. By default, any non-static fields will be included in the output of the method in name-value pairs. If desired, the inclusion of the property names in the output can be suppressed by setting the annotation parameter includeFieldNames to false.  Specific fields can be excluded from the output of the generated method by including their field names in the exclude parameter. Alternatively, the of parameter can be used to list only those fields which are desired in the output. The output of the toString method of a superclass can also be included by setting the callSuper parameter to true." />
-      <item value="uncapitalize" />
-      <item value="同意安全提示" />
-      <item value="安全提示" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="374" />
-        <entry key="ENGLISH" value="375" />
+        <entry key="CHINESE" value="376" />
+        <entry key="ENGLISH" value="377" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
