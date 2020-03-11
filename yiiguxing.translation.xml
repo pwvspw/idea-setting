@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="invalid" />
       <item value="认证" />
       <item value="授权" />
       <item value="auth" />
@@ -30,7 +31,6 @@
       <item value="通知客服" />
       <item value="扣费" />
       <item value="扣钱" />
-      <item value="invalid" />
       <item value="session Id" />
       <item value="Strategy" />
       <item value="¢¢¢" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="376" />
-        <entry key="ENGLISH" value="377" />
+        <entry key="CHINESE" value="377" />
+        <entry key="ENGLISH" value="378" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
