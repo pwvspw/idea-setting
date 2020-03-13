@@ -90,6 +90,10 @@
           <option name="url" value="http://120.78.240.108:10080/server/bmsAPI.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://120.78.240.108:10080/server/commons.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/xz" />
