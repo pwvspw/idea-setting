@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Capital In Out List Req" />
       <item value="invalid" />
       <item value="认证" />
       <item value="授权" />
@@ -50,12 +51,11 @@
       <item value="Logic" />
       <item value="Unsatisfied Dependency Exception" />
       <item value="SOURCE" />
-      <item value="Annotations are to be discarded by the compiler." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="377" />
-        <entry key="ENGLISH" value="378" />
+        <entry key="CHINESE" value="378" />
+        <entry key="ENGLISH" value="379" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
@@ -74,13 +74,7 @@
       <app-key>
         <option name="appId" value="863505099@qq.com" />
         <option name="appKeyConfigured" value="true" />
-        <option name="primaryLanguage" value="CHINESE" />
       </app-key>
-    </option>
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="false" />
-      </google-translate>
     </option>
     <option name="ignoreRegExp" value="" />
     <option name="primaryFontFamily" value="Ayuthaya" />
@@ -88,7 +82,6 @@
       <youdao-translate>
         <option name="appId" value="pwvison@163.com" />
         <option name="appKeyConfigured" value="true" />
-        <option name="primaryLanguage" value="AUTO" />
       </youdao-translate>
     </option>
   </component>
