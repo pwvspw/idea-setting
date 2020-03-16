@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="正常" />
+      <item value="失效" />
       <item value="Capital In Out List Req" />
       <item value="invalid" />
       <item value="认证" />
@@ -49,13 +51,11 @@
       <item value="mbggenerated" />
       <item value="corresponds" />
       <item value="Logic" />
-      <item value="Unsatisfied Dependency Exception" />
-      <item value="SOURCE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="378" />
-        <entry key="ENGLISH" value="379" />
+        <entry key="CHINESE" value="379" />
+        <entry key="ENGLISH" value="380" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
