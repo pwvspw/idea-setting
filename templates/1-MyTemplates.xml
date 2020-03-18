@@ -55,7 +55,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="List" value="List&lt;$TYPE$&gt; $VAR$ = $END$" description="declare list" toReformat="false" toShortenFQNames="true">
+  <template name="List" value="List&lt;$TYPE$&gt; $VAR$ = new ArrayList&lt;&gt;();" description="declare list" toReformat="false" toShortenFQNames="true">
     <variable name="TYPE" expression="expectedType()" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
