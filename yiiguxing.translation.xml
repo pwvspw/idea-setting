@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="identification" />
+      <item value="exchange" />
+      <item value="kex_exchange_identification" />
       <item value="Static Logger Binder" />
       <item value="preempting" />
       <item value="Detected both log4j-over-slf4j.jar AND slf4j-log4j12.jar on the class path, preempting StackOverflowError." />
@@ -48,13 +51,10 @@
       <item value="Identity" />
       <item value="escape" />
       <item value="通知客服" />
-      <item value="扣费" />
-      <item value="扣钱" />
-      <item value="session Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="385" />
+        <entry key="CHINESE" value="386" />
         <entry key="ENGLISH" value="386" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="1" />
