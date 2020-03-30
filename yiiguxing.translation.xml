@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Static Logger Binder" />
+      <item value="preempting" />
+      <item value="Detected both log4j-over-slf4j.jar AND slf4j-log4j12.jar on the class path, preempting StackOverflowError." />
+      <item value="both" />
+      <item value="Detected" />
       <item value="盐" />
       <item value="原始" />
       <item value="超过上限" />
@@ -46,16 +51,11 @@
       <item value="扣费" />
       <item value="扣钱" />
       <item value="session Id" />
-      <item value="Strategy" />
-      <item value="¢¢¢" />
-      <item value="Wrapper" />
-      <item value="accumulates" />
-      <item value="factory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="379" />
-        <entry key="ENGLISH" value="380" />
+        <entry key="CHINESE" value="385" />
+        <entry key="ENGLISH" value="386" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
