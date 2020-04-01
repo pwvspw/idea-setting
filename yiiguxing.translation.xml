@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="失效" />
       <item value="identification" />
       <item value="exchange" />
       <item value="kex_exchange_identification" />
@@ -21,7 +22,6 @@
       <item value="有效的" />
       <item value="无效" />
       <item value="正常" />
-      <item value="失效" />
       <item value="Capital In Out List Req" />
       <item value="invalid" />
       <item value="认证" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="386" />
-        <entry key="ENGLISH" value="386" />
+        <entry key="ENGLISH" value="387" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
