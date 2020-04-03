@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="平台账号" />
       <item value="失效" />
       <item value="identification" />
       <item value="exchange" />
@@ -50,7 +51,6 @@
       <item value="Previous Account Bank Code 1" />
       <item value="Identity" />
       <item value="escape" />
-      <item value="通知客服" />
     </histories>
     <option name="languageScores">
       <map>
