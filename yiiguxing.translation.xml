@@ -1,6 +1,28 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="All messages must be sent after the socket sign on" />
+      <item value="Message field is case-sensitive. For example, “A” is different from “a”." />
+      <item value="." />
+      <item value=" 3. Carriage Return CR (“\r\n”) is applied for message delimiter." />
+      <item value="“~” is applied for the sub-field separator." />
+      <item value="TAB is applied for field separator" />
+      <item value="Sample Code" />
+      <item value="/**  * This class implements client sockets (also called just  * &quot;sockets&quot;). A socket is an endpoint for communication  * between two machines.  * &lt;p&gt;  * The actual work of the socket is performed by an instance of the  * {@code SocketImpl} class. An application, by changing  * the socket factory that creates the socket implementation,  * can configure itself to create sockets appropriate to the local  * firewall.  *  * @author  unascribed  * @see     java.net.Socket#setSocketImplFactory(java.net.SocketImplFactory)  * @see     java.net.SocketImpl  * @see     java.nio.channels.SocketChannel  * @since   JDK1.0  */" />
+      <item value="/** * This class implements client sockets (also called just * &quot;sockets&quot;). A socket is an endpoint for communication * between two machines. * &lt;p&gt; * The actual work of the socket is performed by an instance of the * {@code SocketImpl} class. An application, by changing * the socket factory that creates the socket implementation, * can configure itself to create sockets appropriate to the local * firewall. * * @author unascribed * @see java.net.Socket#setSocketImplFactory(java.net.SocketImplFactory) * @see java.net.SocketImpl * @see java.nio.channels.SocketChannel * @since JDK1.0 */" />
+      <item value="Message Protocol" />
+      <item value="N.B. Index and msg seq max value is 2147483647. Please notice that our iGateway will check the duplicate Index &amp; Msg Seq. If there is different Caller, please make sure the Index &amp; Msg Seq are unique." />
+      <item value="Please note that the final format is subject to client’s setting." />
+      <item value="Subject to back office setting" />
+      <item value="For SZ B Share" />
+      <item value="For China Connect A Share" />
+      <item value="The Stock code format will change to handle multiple markets" />
+      <item value=" polling" />
+      <item value="There are five messages for Caller to communicate with the iGateway. They are summarized as follows" />
+      <item value="iAsia Gateway – iGateway provides an ordering channel for external party. It facilitates external systems connecting to iAsia Broker Supplied System to place order to market. In addition, it provides enquiry channel to obtain real-time portfolio information of clients." />
+      <item value="facilitates" />
+      <item value="external" />
+      <item value="The purpose of this document is to provide details on iAsia Order Gateway (iGateway). The messaging protocol is developed to facilitate electronic exchange of information related to securities transactions to iAsia Broker Supplied System (iBSS). This document provides details of all the supported messages of iGateway for System Integration with iBSS." />
       <item value="sentence" />
       <item value="optimize" />
       <item value="优化" />
@@ -29,33 +51,11 @@
       <item value="有效的" />
       <item value="无效" />
       <item value="正常" />
-      <item value="Capital In Out List Req" />
-      <item value="invalid" />
-      <item value="认证" />
-      <item value="授权" />
-      <item value="auth" />
-      <item value="verification" />
-      <item value="校验" />
-      <item value="renewal" />
-      <item value="认证方式" />
-      <item value="Processing" />
-      <item value="golbal" />
-      <item value="basanite" />
-      <item value="WITHDRAWAL" />
-      <item value="DEPOSIT" />
-      <item value="Persistence" />
-      <item value="redundant" />
-      <item value="公司账户" />
-      <item value="Clash" />
-      <item value="A unique key to identify a valid Identity in  iBOSS Identity Master. Which is provided by  sender." />
-      <item value="Each Identity -&gt; Relation has a specific  Identity assigned to it" />
-      <item value=" assigned" />
-      <item value="specific" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="388" />
-        <entry key="ENGLISH" value="389" />
+        <entry key="CHINESE" value="390" />
+        <entry key="ENGLISH" value="391" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
