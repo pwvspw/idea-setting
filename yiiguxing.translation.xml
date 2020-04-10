@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="It should be the same seq num from the reset password request" />
+      <item value="Message identifier for Reset Password" />
+      <item value="IP address for audit trail" />
+      <item value="this request is acceptable by the system without successful login" />
       <item value="Retrieve" />
       <item value="All messages must be sent after the socket sign on" />
       <item value="Message field is case-sensitive. For example, “A” is different from “a”." />
@@ -47,10 +51,6 @@
       <item value="达到上限" />
       <item value="申请休假" />
       <item value="申请时间" />
-      <item value="申请" />
-      <item value="未验证" />
-      <item value="有效的" />
-      <item value="无效" />
     </histories>
     <option name="languageScores">
       <map>
