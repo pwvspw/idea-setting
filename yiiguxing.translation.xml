@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="toIntExact" />
+      <item value="to Int Exact" />
+      <item value="specific" />
       <item value="It should be the same seq num from the reset password request" />
       <item value="Message identifier for Reset Password" />
       <item value="IP address for audit trail" />
@@ -48,14 +51,11 @@
       <item value="原始" />
       <item value="超过上限" />
       <item value="超过范围" />
-      <item value="达到上限" />
-      <item value="申请休假" />
-      <item value="申请时间" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="391" />
-        <entry key="ENGLISH" value="391" />
+        <entry key="CHINESE" value="393" />
+        <entry key="ENGLISH" value="393" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
