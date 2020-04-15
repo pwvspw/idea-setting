@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Wrapper" />
+      <item value="interceptor" />
       <item value=" identifier" />
       <item value="toIntExact" />
       <item value="to Int Exact" />
@@ -49,13 +51,11 @@
       <item value="both" />
       <item value="Detected" />
       <item value="盐" />
-      <item value="原始" />
-      <item value="超过上限" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="393" />
-        <entry key="ENGLISH" value="393" />
+        <entry key="ENGLISH" value="394" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
