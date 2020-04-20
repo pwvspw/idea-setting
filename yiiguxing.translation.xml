@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="without sign on or invalid login" />
+      <item value="/** * Returns a string whose value is this string, with any leading and trailing * whitespace removed. * &lt;p&gt; * If this {@code String} object represents an empty character * sequence, or the first and last characters of character sequence * represented by this {@code String} object both have codes * greater than {@code '\u005Cu0020'} (the space character), then a * reference to this {@code String} object is returned. * &lt;p&gt; * Otherwise, if there is no character with a code greater than * {@code '\u005Cu0020'} in the string, then a * {@code String} object representing an empty string is * returned. * &lt;p&gt; * Otherwise, let &lt;i&gt;k&lt;/i&gt; be the index of the first character in the * string whose code is greater than {@code '\u005Cu0020'}, and let * &lt;i&gt;m&lt;/i&gt; be the index of the last character in the string whose code * is greater than {@code '\u005Cu0020'}. A {@code String} * object is returned, representing the substring of this string that * begins with the character at index &lt;i&gt;k&lt;/i&gt; and ends with the * character at index &lt;i&gt;m&lt;/i&gt;-that is, the result of * {@code this.substring(k, m + 1)}. * &lt;p&gt; * This method may be used to trim whitespace (as defined above) from * the beginning and end of a string. * * @return A string whose value is this string, with any leading and trailing white * space removed, or this string if it has no leading or * trailing white space. */" />
       <item value="Message sequence number created by Caller" />
       <item value="Deactivated Account" />
       <item value="This service is not available" />
@@ -49,13 +51,11 @@
       <item value="iAsia Gateway – iGateway provides an ordering channel for external party. It facilitates external systems connecting to iAsia Broker Supplied System to place order to market. In addition, it provides enquiry channel to obtain real-time portfolio information of clients." />
       <item value="facilitates" />
       <item value="external" />
-      <item value="The purpose of this document is to provide details on iAsia Order Gateway (iGateway). The messaging protocol is developed to facilitate electronic exchange of information related to securities transactions to iAsia Broker Supplied System (iBSS). This document provides details of all the supported messages of iGateway for System Integration with iBSS." />
-      <item value="optimize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="400" />
-        <entry key="ENGLISH" value="400" />
+        <entry key="CHINESE" value="401" />
+        <entry key="ENGLISH" value="402" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
