@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="server return for sign on" />
       <item value="All messages must be sent after the socket sign on" />
       <item value="Unique" />
       <item value="Please notice that our iGateway will check the duplicate Index &amp; Msg Seq. If there is different Caller, please make sure the Index &amp; Msg Seq are unique." />
@@ -50,7 +51,6 @@
       <item value="失效" />
       <item value="identification" />
       <item value="exchange" />
-      <item value="kex_exchange_identification" />
     </histories>
     <option name="languageScores">
       <map>
