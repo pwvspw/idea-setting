@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="All messages must be sent after the socket sign on" />
+      <item value="Unique" />
       <item value="Please notice that our iGateway will check the duplicate Index &amp; Msg Seq. If there is different Caller, please make sure the Index &amp; Msg Seq are unique." />
       <item value="Each socket must be sign on before any message  E.g. SignOn + tab + S001 + tab + S001" />
       <item value="Brief Introduction on API messages" />
@@ -18,7 +20,6 @@
       <item value="IP address for audit trail" />
       <item value="this request is acceptable by the system without successful login" />
       <item value="Retrieve" />
-      <item value="All messages must be sent after the socket sign on" />
       <item value="Message field is case-sensitive. For example, “A” is different from “a”." />
       <item value="." />
       <item value=" 3. Carriage Return CR (“\r\n”) is applied for message delimiter." />
@@ -50,7 +51,6 @@
       <item value="identification" />
       <item value="exchange" />
       <item value="kex_exchange_identification" />
-      <item value="Static Logger Binder" />
     </histories>
     <option name="languageScores">
       <map>
@@ -74,13 +74,7 @@
       <app-key>
         <option name="appId" value="863505099@qq.com" />
         <option name="appKeyConfigured" value="true" />
-        <option name="primaryLanguage" value="CHINESE" />
       </app-key>
-    </option>
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="false" />
-      </google-translate>
     </option>
     <option name="ignoreRegExp" value="" />
     <option name="primaryFontFamily" value="Ayuthaya" />
@@ -88,7 +82,6 @@
       <youdao-translate>
         <option name="appId" value="pwvison@163.com" />
         <option name="appKeyConfigured" value="true" />
-        <option name="primaryLanguage" value="AUTO" />
       </youdao-translate>
     </option>
   </component>
