@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Message sequence number created by Caller" />
       <item value="Deactivated Account" />
       <item value="This service is not available" />
       <item value="翻译" />
@@ -50,11 +51,10 @@
       <item value="external" />
       <item value="The purpose of this document is to provide details on iAsia Order Gateway (iGateway). The messaging protocol is developed to facilitate electronic exchange of information related to securities transactions to iAsia Broker Supplied System (iBSS). This document provides details of all the supported messages of iGateway for System Integration with iBSS." />
       <item value="optimize" />
-      <item value="优化" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="399" />
+        <entry key="CHINESE" value="400" />
         <entry key="ENGLISH" value="400" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="1" />
