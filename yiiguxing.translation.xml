@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="boilerplate" />
+      <item value="reduce" />
       <item value="2181" />
       <item value="String seq_num = ConfigService.getAppConfig().getProperty(&quot;igateway_socket_login_id&quot;, &quot;S011&quot;) + &quot;A&quot;; String client_ip = ConfigService.getAppConfig().getProperty(&quot;client_ip&quot;, &quot;119.23.110.75&quot;); long msg_seq = CommonUtil.generateMsgReq(); String sentence = seq_num + &quot;\t&quot; + msg_seq + &quot;\tReset Pwd\t&quot; + req.getAccount_no() + &quot;\t&quot; + req.getId_no() + &quot;\t&quot; + client_ip + &quot;\r\n&quot;; String content = CommonUtil.invoke(sentence);" />
       <item value="sentence" />
@@ -49,8 +51,6 @@
       <item value="For China Connect A Share" />
       <item value="The Stock code format will change to handle multiple markets" />
       <item value=" polling" />
-      <item value="There are five messages for Caller to communicate with the iGateway. They are summarized as follows" />
-      <item value="iAsia Gateway – iGateway provides an ordering channel for external party. It facilitates external systems connecting to iAsia Broker Supplied System to place order to market. In addition, it provides enquiry channel to obtain real-time portfolio information of clients." />
     </histories>
     <option name="languageScores">
       <map>
