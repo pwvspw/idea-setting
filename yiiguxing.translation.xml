@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Basanite" />
       <item value="boilerplate" />
       <item value="reduce" />
       <item value="2181" />
@@ -50,7 +51,6 @@
       <item value="For SZ B Share" />
       <item value="For China Connect A Share" />
       <item value="The Stock code format will change to handle multiple markets" />
-      <item value=" polling" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,7 +64,7 @@
         <entry key="TURKISH" value="1" />
         <entry key="WELSH" value="1" />
         <entry key="INDONESIAN" value="2" />
-        <entry key="JAVANESE" value="1" />
+        <entry key="JAVANESE" value="2" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
