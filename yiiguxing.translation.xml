@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="IP address for audit trail" />
       <item value="SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@25c420a7] was not registered for synchronization because synchronization is not active" />
       <item value="Basanite" />
       <item value="boilerplate" />
@@ -34,7 +35,6 @@
       <item value="specific" />
       <item value="It should be the same seq num from the reset password request" />
       <item value="Message identifier for Reset Password" />
-      <item value="IP address for audit trail" />
       <item value="this request is acceptable by the system without successful login" />
       <item value="Retrieve" />
       <item value="Message field is case-sensitive. For example, “A” is different from “a”." />
