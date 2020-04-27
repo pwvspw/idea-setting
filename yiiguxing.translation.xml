@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@25c420a7] was not registered for synchronization because synchronization is not active" />
       <item value="Basanite" />
       <item value="boilerplate" />
       <item value="reduce" />
@@ -50,12 +51,11 @@
       <item value="Subject to back office setting" />
       <item value="For SZ B Share" />
       <item value="For China Connect A Share" />
-      <item value="The Stock code format will change to handle multiple markets" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="405" />
-        <entry key="ENGLISH" value="404" />
+        <entry key="ENGLISH" value="405" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
