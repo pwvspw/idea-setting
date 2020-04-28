@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="人数" />
+      <item value="境外" />
+      <item value="境内" />
+      <item value="global" />
+      <item value="statistic" />
       <item value="统计" />
       <item value="外网IP" />
       <item value="EXTRANET IP" />
@@ -46,16 +51,11 @@
       <item value="Retrieve" />
       <item value="Message field is case-sensitive. For example, “A” is different from “a”." />
       <item value="." />
-      <item value=" 3. Carriage Return CR (“\r\n”) is applied for message delimiter." />
-      <item value="“~” is applied for the sub-field separator." />
-      <item value="TAB is applied for field separator" />
-      <item value="Sample Code" />
-      <item value="/**  * This class implements client sockets (also called just  * &quot;sockets&quot;). A socket is an endpoint for communication  * between two machines.  * &lt;p&gt;  * The actual work of the socket is performed by an instance of the  * {@code SocketImpl} class. An application, by changing  * the socket factory that creates the socket implementation,  * can configure itself to create sockets appropriate to the local  * firewall.  *  * @author  unascribed  * @see     java.net.Socket#setSocketImplFactory(java.net.SocketImplFactory)  * @see     java.net.SocketImpl  * @see     java.nio.channels.SocketChannel  * @since   JDK1.0  */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="407" />
-        <entry key="ENGLISH" value="408" />
+        <entry key="CHINESE" value="411" />
+        <entry key="ENGLISH" value="413" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
@@ -64,7 +64,7 @@
         <entry key="TURKISH" value="1" />
         <entry key="WELSH" value="1" />
         <entry key="INDONESIAN" value="2" />
-        <entry key="JAVANESE" value="2" />
+        <entry key="JAVANESE" value="3" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
