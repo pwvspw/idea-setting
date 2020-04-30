@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="withdrawal" />
+      <item value="withdraw" />
+      <item value="扣费" />
+      <item value="With Drawal" />
       <item value="人数" />
       <item value="境外" />
       <item value="境内" />
@@ -47,15 +51,11 @@
       <item value="specific" />
       <item value="It should be the same seq num from the reset password request" />
       <item value="Message identifier for Reset Password" />
-      <item value="this request is acceptable by the system without successful login" />
-      <item value="Retrieve" />
-      <item value="Message field is case-sensitive. For example, “A” is different from “a”." />
-      <item value="." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="411" />
-        <entry key="ENGLISH" value="413" />
+        <entry key="CHINESE" value="415" />
+        <entry key="ENGLISH" value="415" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
@@ -73,22 +73,13 @@
     <option name="baiduTranslateSettings">
       <app-key>
         <option name="appId" value="863505099@qq.com" />
-        <option name="appKeyConfigured" value="true" />
-        <option name="primaryLanguage" value="CHINESE" />
       </app-key>
-    </option>
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="false" />
-      </google-translate>
     </option>
     <option name="ignoreRegExp" value="" />
     <option name="primaryFontFamily" value="Ayuthaya" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="pwvison@163.com" />
-        <option name="appKeyConfigured" value="true" />
-        <option name="primaryLanguage" value="AUTO" />
       </youdao-translate>
     </option>
   </component>
