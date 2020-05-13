@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This exception is thrown when a particular cryptographic algorithm is * requested but is not available in the environment." />
+      <item value="* This exception is thrown when a particular cryptographic algorithm is * requested but is not available in the environment." />
+      <item value="/** * This exception is thrown when a particular cryptographic algorithm is * requested but is not available in the environment. * * @author Benjamin Renaud */" />
       <item value="pigeonhole" />
       <item value="归档" />
       <item value="archive" />
@@ -48,14 +51,11 @@
       <item value="server return for sign on" />
       <item value="All messages must be sent after the socket sign on" />
       <item value="Unique" />
-      <item value="Please notice that our iGateway will check the duplicate Index &amp; Msg Seq. If there is different Caller, please make sure the Index &amp; Msg Seq are unique." />
-      <item value="Each socket must be sign on before any message  E.g. SignOn + tab + S001 + tab + S001" />
-      <item value="Brief Introduction on API messages" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="421" />
-        <entry key="ENGLISH" value="421" />
+        <entry key="CHINESE" value="424" />
+        <entry key="ENGLISH" value="425" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
