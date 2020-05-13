@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="decrypt" />
+      <item value="encrypt" />
+      <item value="加密" />
+      <item value="encropt" />
       <item value="This exception is thrown when a particular cryptographic algorithm is * requested but is not available in the environment." />
       <item value="* This exception is thrown when a particular cryptographic algorithm is * requested but is not available in the environment." />
       <item value="/** * This exception is thrown when a particular cryptographic algorithm is * requested but is not available in the environment. * * @author Benjamin Renaud */" />
@@ -47,15 +51,11 @@
       <item value="transform" />
       <item value="transfer" />
       <item value="转换" />
-      <item value="Client not found" />
-      <item value="server return for sign on" />
-      <item value="All messages must be sent after the socket sign on" />
-      <item value="Unique" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="424" />
-        <entry key="ENGLISH" value="425" />
+        <entry key="CHINESE" value="427" />
+        <entry key="ENGLISH" value="427" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
