@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pigeonhole" />
+      <item value="归档" />
+      <item value="archive" />
+      <item value="LBE Business Service" />
       <item value="A Comparator that orders String objects as by compareToIgnoreCase. This comparator is serializable. Note that this Comparator does not take locale into account, and will result in an unsatisfactory ordering for certain locales. The java.text package provides Collators to allow locale-sensitive ordering" />
       <item value="Proof" />
       <item value="Tamper" />
@@ -47,15 +51,11 @@
       <item value="Please notice that our iGateway will check the duplicate Index &amp; Msg Seq. If there is different Caller, please make sure the Index &amp; Msg Seq are unique." />
       <item value="Each socket must be sign on before any message  E.g. SignOn + tab + S001 + tab + S001" />
       <item value="Brief Introduction on API messages" />
-      <item value="sign on" />
-      <item value="signon" />
-      <item value="Wrapper" />
-      <item value="interceptor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="418" />
-        <entry key="ENGLISH" value="418" />
+        <entry key="CHINESE" value="421" />
+        <entry key="ENGLISH" value="421" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
