@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" indicate" />
+      <item value="steady" />
+      <item value="maintain" />
+      <item value="It is useful to maintain a steady connection" />
       <item value="Index assigned by caller to identify a specific account" />
       <item value="随机数" />
       <item value="Nuncio" />
@@ -47,10 +51,6 @@
       <item value="Message sequence number created by Caller. Remark: “A” is used to identify the specific type of message" />
       <item value="内网IP" />
       <item value="公网IP" />
-      <item value="SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@25c420a7] was not registered for synchronization because synchronization is not active" />
-      <item value="Basanite" />
-      <item value="boilerplate" />
-      <item value="reduce" />
     </histories>
     <option name="languageScores">
       <map>
