@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="随机数" />
+      <item value="Nuncio" />
+      <item value="nonce" />
       <item value="Index assigned by caller to identify a specific account" />
       <item value="毫秒" />
       <item value="秒" />
@@ -48,16 +51,13 @@
       <item value="Basanite" />
       <item value="boilerplate" />
       <item value="reduce" />
-      <item value="2181" />
-      <item value="String seq_num = ConfigService.getAppConfig().getProperty(&quot;igateway_socket_login_id&quot;, &quot;S011&quot;) + &quot;A&quot;; String client_ip = ConfigService.getAppConfig().getProperty(&quot;client_ip&quot;, &quot;119.23.110.75&quot;); long msg_seq = CommonUtil.generateMsgReq(); String sentence = seq_num + &quot;\t&quot; + msg_seq + &quot;\tReset Pwd\t&quot; + req.getAccount_no() + &quot;\t&quot; + req.getId_no() + &quot;\t&quot; + client_ip + &quot;\r\n&quot;; String content = CommonUtil.invoke(sentence);" />
-      <item value="sentence" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="435" />
-        <entry key="ENGLISH" value="435" />
+        <entry key="ENGLISH" value="436" />
         <entry key="AZERBAIJANI" value="1" />
-        <entry key="FRENCH" value="1" />
+        <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="JAPANESE" value="1" />
