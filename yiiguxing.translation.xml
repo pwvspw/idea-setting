@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Index assigned by caller to identify a specific account" />
       <item value="随机数" />
       <item value="Nuncio" />
       <item value="nonce" />
-      <item value="Index assigned by caller to identify a specific account" />
       <item value="毫秒" />
       <item value="秒" />
       <item value="Millis" />
@@ -54,7 +54,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="435" />
+        <entry key="CHINESE" value="436" />
         <entry key="ENGLISH" value="436" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="2" />
