@@ -285,6 +285,10 @@
     <keyboard-shortcut first-keystroke="meta home" />
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
+  <action id="Gsonformat">
+    <keyboard-shortcut first-keystroke="alt s" />
+    <keyboard-shortcut first-keystroke="ctrl meta alt s" />
+  </action>
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="f12" />
   </action>
