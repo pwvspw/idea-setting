@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="换行" />
+      <item value="CR" />
       <item value=" Account Suspended" />
       <item value="Index assigned by caller to identify a specific account" />
       <item value="Original ID Password authentication" />
@@ -49,13 +51,11 @@
       <item value="/** * This exception is thrown when a particular cryptographic algorithm is * requested but is not available in the environment. * * @author Benjamin Renaud */" />
       <item value="pigeonhole" />
       <item value="归档" />
-      <item value="archive" />
-      <item value="LBE Business Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="451" />
-        <entry key="ENGLISH" value="451" />
+        <entry key="CHINESE" value="452" />
+        <entry key="ENGLISH" value="453" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
