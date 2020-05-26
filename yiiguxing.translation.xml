@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&amp;gt;" />
+      <item value="&amp;lt;" />
       <item value="已上架" />
       <item value="上架" />
       <item value="Advertise" />
@@ -49,12 +51,10 @@
       <item value="参数篡改" />
       <item value="篡改" />
       <item value="Copyright (c) 2017 ZHONGHENG, Inc. All rights reserved. * This software is the confidential and proprietary information of * ZHONGHENG, Inc. You shall not disclose such Confidential * Information and shall use it only in accordance with the terms of the * license agreement you entered into with ZHONGHENG." />
-      <item value="Marks a property, method parameter or method return type for validation cascading. * &lt;p&gt; * Constraints defined on the object and its properties are be validated when the * property, method parameter or method return type is validated. * &lt;p&gt; * This behavior is applied recursively." />
-      <item value="decrypt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="455" />
+        <entry key="CHINESE" value="458" />
         <entry key="ENGLISH" value="456" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="2" />
