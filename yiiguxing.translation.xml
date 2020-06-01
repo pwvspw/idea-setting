@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="System Under Maintenance" />
+      <item value="System Under Maintenanc" />
+      <item value="System Maintenance" />
+      <item value="Retrieve Trade History" />
+      <item value="Retrieve" />
+      <item value="system is under maintenance." />
       <item value="unstable" />
       <item value="Unexpected end-of-input: expected close marker for Object" />
       <item value="Reports any local variables whose type is declared to be a concrete class. Such declarations may represent a failure of abstraction, and may make testing more difficult. Declarations whose classes come from system or third-party libraries will not be reported by this inspection. catch block parameters of concrete exception type will also not be reported by this inspection. Use the checkbox below to have this inspection ignore local variables whose type is an abstract class." />
@@ -45,17 +51,11 @@
       <item value="Extends the {@link javax.servlet.ServletRequest} interface * to provide request information for HTTP servlets. * * &lt;p&gt;The servlet container creates an &lt;code&gt;HttpServletRequest&lt;/code&gt; * object and passes it as an argument to the servlet's service * methods (&lt;code&gt;doGet&lt;/code&gt;, &lt;code&gt;doPost&lt;/code&gt;, etc). * * * @author Various" />
       <item value="* &lt;p&gt;The servlet container creates an &lt;code&gt;HttpServletRequest&lt;/code&gt; * object and passes it as an argument to the servlet's service * methods (&lt;code&gt;doGet&lt;/code&gt;, &lt;code&gt;doPost&lt;/code&gt;, etc)." />
       <item value="/** * * Extends the {@link javax.servlet.ServletRequest} interface * to provide request information for HTTP servlets. * * &lt;p&gt;The servlet container creates an &lt;code&gt;HttpServletRequest&lt;/code&gt; * object and passes it as an argument to the servlet's service * methods (&lt;code&gt;doGet&lt;/code&gt;, &lt;code&gt;doPost&lt;/code&gt;, etc). * * * @author Various */" />
-      <item value=" indicate" />
-      <item value="steady" />
-      <item value="maintain" />
-      <item value="It is useful to maintain a steady connection" />
-      <item value="随机数" />
-      <item value="Nuncio" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="459" />
-        <entry key="ENGLISH" value="459" />
+        <entry key="CHINESE" value="460" />
+        <entry key="ENGLISH" value="460" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
