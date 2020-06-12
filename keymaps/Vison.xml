@@ -181,6 +181,7 @@
   </action>
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="meta alt down" />
+    <keyboard-shortcut first-keystroke="ctrl meta down" />
   </action>
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="meta equals" />
