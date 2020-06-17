@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="积分" />
       <item value="Assert" />
       <item value="Basanite" />
       <item value="取钱" />
@@ -50,12 +51,11 @@
       <item value="Indicates login password changing options" />
       <item value=" other integration" />
       <item value="Alert of login password changing options" />
-      <item value="Remaining days of max password duration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="467" />
-        <entry key="ENGLISH" value="468" />
+        <entry key="CHINESE" value="468" />
+        <entry key="ENGLISH" value="469" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
