@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Decryption" />
+      <item value="Bad Padding Exception" />
       <item value="hex" />
       <item value="assert" />
       <item value="SIGNATURE ALGORITHM" />
@@ -49,13 +51,11 @@
       <item value="银行流水" />
       <item value="流水" />
       <item value="换行" />
-      <item value="CR" />
-      <item value=" Account Suspended" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="473" />
-        <entry key="ENGLISH" value="474" />
+        <entry key="CHINESE" value="475" />
+        <entry key="ENGLISH" value="476" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
