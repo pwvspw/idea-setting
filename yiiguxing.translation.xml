@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Signature length not correct:" />
       <item value="CASE INSENSITIVE ORDER" />
       <item value="Decryption" />
       <item value="Bad Padding Exception" />
@@ -50,12 +51,11 @@
       <item value="settlement" />
       <item value="journal" />
       <item value="银行流水" />
-      <item value="流水" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="476" />
-        <entry key="ENGLISH" value="477" />
+        <entry key="CHINESE" value="477" />
+        <entry key="ENGLISH" value="478" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
