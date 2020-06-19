@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="integral" />
       <item value="开通记录" />
       <item value="开通" />
       <item value="活动对象" />
@@ -50,12 +51,11 @@
       <item value="优化" />
       <item value="Sorts this list according to the order induced by the specified * {@link Comparator}. * * &lt;p&gt;All elements in this list must be &lt;i&gt;mutually comparable&lt;/i&gt; using the * specified comparator (that is, {@code c.compare(e1, e2)} must not throw * a {@code ClassCastException} for any elements {@code e1} and {@code e2} * in the list). * * &lt;p&gt;If the specified comparator is {@code null} then all elements in this * list must implement the {@link Comparable} interface and the elements' * {@linkplain Comparable natural ordering} should be used. * * &lt;p&gt;This list must be modifiable, but need not be resizable. * * @implSpec * The default implementation obtains an array containing all elements in * this list, sorts the array, and iterates over this list resetting each * element from the corresponding position in the array. (This avoids the * n&lt;sup&gt;2&lt;/sup&gt; log(n) performance that would result from attempting * to sort a linked list in place.) * * @implNote * This implementation is a stable, adaptive, iterative mergesort that * requires far fewer than n lg(n) comparisons when the input array is * partially sorted, while offering the performance of a traditional * mergesort when the input array is randomly ordered. If the input array * is nearly sorted, the implementation requires approximately n * comparisons. Temporary storage requirements vary from a small constant * for nearly sorted input arrays to n/2 object references for randomly * ordered input arrays. * * &lt;p&gt;The implementation takes equal advantage of ascending and * descending order in its input array, and can take advantage of * ascending and descending order in different parts of the same * input array. It is well-suited to merging two or more sorted arrays: * simply concatenate the arrays and sort the resulting array. * * &lt;p&gt;The implementation was adapted from Tim Peters's list sort for Python * (&lt;a href=&quot;http://svn.python.org/projects/python/trunk/Objects/listsort.txt&quot;&gt; * TimSort&lt;/a&gt;). It uses techniques from Peter McIlroy's &quot;Optimistic * Sorting and Information Theoretic Complexity&quot;, in Proceedings of the * Fourth Annual ACM-SIAM Symposium on Discrete Algorithms, pp 467-474, * January 1993." />
       <item value="&amp;gt;" />
-      <item value="&amp;lt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="479" />
-        <entry key="ENGLISH" value="480" />
+        <entry key="CHINESE" value="480" />
+        <entry key="ENGLISH" value="481" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
