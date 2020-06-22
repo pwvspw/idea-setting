@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="人数" />
       <item value="邀请人" />
       <item value="导入" />
       <item value="调整" />
@@ -50,7 +51,6 @@
       <item value="Reports any variables which may be declared with a weaker type. For instance, a variable may be of type ArrayList, and only the method isEmpty() is called on it. In this case the type List would do just as well. Enable the Use righthand type checkbox below to prevent weakening the left side of assignments when the right side is not a type cast or new expression. When storing the result of a method call in a variable, it is useful to retain the type of the method call result instead of unnecessarily weakening it. Enable the Use parameterized type checkbox below to use the parameterized type of the collection as weakest type when the object evaluated is used as an argument to a collection method with a parameter type of java.lang.Object. Use this option to prevent weakening to Object when passing an object to the collection methods get(), remove(), contains(), indexOf(), lastIndexOf(), containsKey() and containsValue(). Enable the Do not weaken to Object checkbox below to specify whether a type should be weakened to java.lang.Object. Weakening to java.lang.Object is often not very useful. Enable the Only weaken to an interface checkbox below to only report when the type can be weakened to an interface type. Enable the Do not weaken return type checkbox below to prevent reporting when return type may be weakened. Only variables will be analyzed. Stop classes are intended to prevent weakening to classes lower than stop classes, even if it would be possible. In some cases this may improve readability." />
       <item value="Reports public methods in classes which are not exposed as in interface. Exposing all public methods via interface is important for maintaining loose coupling, and may be necessary for certain component-based programming styles. Use the list below to specify special annotations. Methods annotated with one of these annotations will be ignored by this inspection. Use the checkbox below to ignore methods of which the containing class does not implement a non-library interface." />
       <item value="Reports &quot;magic numbers&quot;, which are numeric literals used without being named by a constant declaration. Magic numbers can result in code whose intention is unclear, and may result in errors if a magic number is changed in one code location but not another. The numbers 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 100, 1000, 0L, 1L, 2L, 0.0, 1.0, 0.0F and 1.0F are not reported by this inspection. Use the first checkbox below to disable this inspection within hashCode() methods. Use the second checkbox below to ignore magic numbers in annotations. Use the third checkbox below to ignore magic numbers used as initial capacity when constructing Collection, Map, StringBuilder or StringBuffer objects." />
-      <item value="optimize" />
     </histories>
     <option name="languageScores">
       <map>
