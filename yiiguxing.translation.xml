@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&lt;code&gt;&amp;amp;quot;bread&amp;amp;quot; &amp;amp;amp; &amp;amp;quot;butter&amp;amp;quot;&lt;/code&gt;." />
+      <item value="&lt;p&gt;&lt;code&gt;&quot;bread&quot; &amp;amp; &quot;butter&quot;&lt;/code&gt;&lt;/p&gt;" />
+      <item value="&lt;p&gt;Escapes the characters in a {@code String} using HTML entities.&lt;/p&gt;" />
+      <item value="Escapes the characters in a {@code String} using HTML entities.&lt;/p&gt;" />
       <item value="boer" />
       <item value="bore" />
       <item value="人数" />
@@ -47,15 +51,11 @@
       <item value="Retrieve" />
       <item value="system is under maintenance." />
       <item value="unstable" />
-      <item value="Unexpected end-of-input: expected close marker for Object" />
-      <item value="Reports any local variables whose type is declared to be a concrete class. Such declarations may represent a failure of abstraction, and may make testing more difficult. Declarations whose classes come from system or third-party libraries will not be reported by this inspection. catch block parameters of concrete exception type will also not be reported by this inspection. Use the checkbox below to have this inspection ignore local variables whose type is an abstract class." />
-      <item value="Reports casting a value to a concrete class, rather than an interface. Such declarations may represent a failure of abstraction, and may make testing more difficult. Casts to system or library classes and casts inside equals() and clone() methods will not be reported by this inspection. Use the checkbox below to have this inspection ignore casts to abstract classes." />
-      <item value="Reports any variables which may be declared with a weaker type. For instance, a variable may be of type ArrayList, and only the method isEmpty() is called on it. In this case the type List would do just as well. Enable the Use righthand type checkbox below to prevent weakening the left side of assignments when the right side is not a type cast or new expression. When storing the result of a method call in a variable, it is useful to retain the type of the method call result instead of unnecessarily weakening it. Enable the Use parameterized type checkbox below to use the parameterized type of the collection as weakest type when the object evaluated is used as an argument to a collection method with a parameter type of java.lang.Object. Use this option to prevent weakening to Object when passing an object to the collection methods get(), remove(), contains(), indexOf(), lastIndexOf(), containsKey() and containsValue(). Enable the Do not weaken to Object checkbox below to specify whether a type should be weakened to java.lang.Object. Weakening to java.lang.Object is often not very useful. Enable the Only weaken to an interface checkbox below to only report when the type can be weakened to an interface type. Enable the Do not weaken return type checkbox below to prevent reporting when return type may be weakened. Only variables will be analyzed. Stop classes are intended to prevent weakening to classes lower than stop classes, even if it would be possible. In some cases this may improve readability." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="482" />
-        <entry key="ENGLISH" value="482" />
+        <entry key="CHINESE" value="489" />
+        <entry key="ENGLISH" value="490" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
