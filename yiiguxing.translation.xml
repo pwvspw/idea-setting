@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="adjust" />
+      <item value="调整" />
       <item value="&lt;code&gt;&amp;amp;quot;bread&amp;amp;quot; &amp;amp;amp; &amp;amp;quot;butter&amp;amp;quot;&lt;/code&gt;." />
       <item value="&lt;p&gt;&lt;code&gt;&quot;bread&quot; &amp;amp; &quot;butter&quot;&lt;/code&gt;&lt;/p&gt;" />
       <item value="&lt;p&gt;Escapes the characters in a {@code String} using HTML entities.&lt;/p&gt;" />
@@ -10,7 +12,6 @@
       <item value="人数" />
       <item value="邀请人" />
       <item value="导入" />
-      <item value="调整" />
       <item value="integral" />
       <item value="开通记录" />
       <item value="开通" />
@@ -50,12 +51,11 @@
       <item value="Retrieve Trade History" />
       <item value="Retrieve" />
       <item value="system is under maintenance." />
-      <item value="unstable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="489" />
-        <entry key="ENGLISH" value="490" />
+        <entry key="CHINESE" value="491" />
+        <entry key="ENGLISH" value="491" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
