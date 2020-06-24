@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="积分流水" />
+      <item value="流水" />
+      <item value="Capital" />
       <item value="批量" />
       <item value="模板" />
       <item value="adjust" />
@@ -48,14 +51,11 @@
       <item value="normally system environment variables are in UPPERCASE, however there might be exceptions. * so the caller should provide the key in the right case" />
       <item value="so the caller should provide the key in the right case" />
       <item value="System Under Maintenance" />
-      <item value="System Under Maintenanc" />
-      <item value="System Maintenance" />
-      <item value="Retrieve Trade History" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="491" />
-        <entry key="ENGLISH" value="492" />
+        <entry key="CHINESE" value="494" />
+        <entry key="ENGLISH" value="495" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
