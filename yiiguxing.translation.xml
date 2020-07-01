@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="参与" />
+      <item value="参加" />
+      <item value="参加活动" />
       <item value="获取" />
       <item value="DUPLICATE" />
       <item value="重复参加" />
@@ -48,9 +51,6 @@
       <item value="withd" />
       <item value="withdrawal" />
       <item value="Http Request Method Not Supported Exception" />
-      <item value="Missing Servlet Request Parameter Exception" />
-      <item value="check env variable, i.e. PATH=..." />
-      <item value="check system properties" />
     </histories>
     <option name="languageScores">
       <map>
