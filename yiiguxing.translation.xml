@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="已结束" />
+      <item value="未开始" />
       <item value="参与" />
       <item value="参加" />
       <item value="参加活动" />
@@ -49,8 +51,6 @@
       <item value="扣费" />
       <item value="付钱" />
       <item value="withd" />
-      <item value="withdrawal" />
-      <item value="Http Request Method Not Supported Exception" />
     </histories>
     <option name="languageScores">
       <map>
