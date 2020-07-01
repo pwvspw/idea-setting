@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="获取" />
       <item value="DUPLICATE" />
       <item value="重复参加" />
       <item value="积分流水" />
@@ -50,12 +51,11 @@
       <item value="Missing Servlet Request Parameter Exception" />
       <item value="check env variable, i.e. PATH=..." />
       <item value="check system properties" />
-      <item value="normally system environment variables are in UPPERCASE, however there might be exceptions. * so the caller should provide the key in the right case" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="495" />
-        <entry key="ENGLISH" value="496" />
+        <entry key="CHINESE" value="496" />
+        <entry key="ENGLISH" value="497" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
