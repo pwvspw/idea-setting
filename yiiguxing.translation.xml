@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="新股申购" />
+      <item value="subscribe" />
+      <item value="平台账号登录" />
+      <item value="IPO申购" />
+      <item value="签到" />
+      <item value="点击链接" />
+      <item value="点击连接" />
       <item value="Aug" />
       <item value="Jul" />
       <item value="Oct" />
@@ -44,18 +51,11 @@
       <item value="CASE INSENSITIVE ORDER" />
       <item value="Decryption" />
       <item value="Bad Padding Exception" />
-      <item value="hex" />
-      <item value="assert" />
-      <item value="SIGNATURE ALGORITHM" />
-      <item value="KEY ALGORITHM" />
-      <item value="Constant used to initialize cipher to encryption mode." />
-      <item value="剩余" />
-      <item value="获取方式" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="499" />
-        <entry key="ENGLISH" value="499" />
+        <entry key="CHINESE" value="505" />
+        <entry key="ENGLISH" value="506" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
