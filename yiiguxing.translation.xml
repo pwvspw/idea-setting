@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="specified twice" />
       <item value="新股申购" />
       <item value="subscribe" />
       <item value="平台账号登录" />
@@ -50,12 +51,11 @@
       <item value="Signature length not correct:" />
       <item value="CASE INSENSITIVE ORDER" />
       <item value="Decryption" />
-      <item value="Bad Padding Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="505" />
-        <entry key="ENGLISH" value="506" />
+        <entry key="CHINESE" value="506" />
+        <entry key="ENGLISH" value="507" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
@@ -73,7 +73,6 @@
     <option name="baiduTranslateSettings">
       <app-key>
         <option name="appId" value="863505099@qq.com" />
-        <option name="primaryLanguage" value="CHINESE" />
       </app-key>
     </option>
     <option name="ignoreRegExp" value="" />
@@ -81,7 +80,6 @@
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="pwvison@163.com" />
-        <option name="primaryLanguage" value="AUTO" />
       </youdao-translate>
     </option>
   </component>
