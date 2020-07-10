@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Will not attempt to authenticate using SASL" />
+      <item value="attempt to" />
+      <item value="authenticate" />
       <item value="specified twice" />
       <item value="新股申购" />
       <item value="subscribe" />
@@ -48,14 +51,11 @@
       <item value="重复" />
       <item value="多次参加" />
       <item value="优先级" />
-      <item value="Signature length not correct:" />
-      <item value="CASE INSENSITIVE ORDER" />
-      <item value="Decryption" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="506" />
-        <entry key="ENGLISH" value="507" />
+        <entry key="CHINESE" value="509" />
+        <entry key="ENGLISH" value="510" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
