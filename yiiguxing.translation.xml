@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="participate" />
       <item value="优化" />
       <item value="Deprecated" />
       <item value="Checks if the CharSequence contains only Unicode digits or space * ({@code ' '}). * A decimal point is not a Unicode digit and returns false.&lt;/p&gt; * * &lt;p&gt;{@code null} will return {@code false}. * An empty CharSequence (length()=0) will return {@code true}.&lt;/p&gt; * * &lt;pre&gt; * StringUtils.isNumericSpace(null) = false * StringUtils.isNumericSpace(&quot;&quot;) = true * StringUtils.isNumericSpace(&quot; &quot;) = true * StringUtils.isNumericSpace(&quot;123&quot;) = true * StringUtils.isNumericSpace(&quot;12 3&quot;) = true * StringUtils.isNumericSpace(&quot;ab2c&quot;) = false * StringUtils.isNumericSpace(&quot;12-3&quot;) = false * StringUtils.isNumericSpace(&quot;12.3&quot;) = false * &lt;/pre&gt; * * @param cs the CharSequence to check, may be null * @return {@code true} if only contains digits or space, * and is non-null * @since 3.0 Changed signature from isNumericSpace(String) to isNumericSpace(CharSequence)" />
@@ -50,12 +51,11 @@
       <item value="人数" />
       <item value="邀请人" />
       <item value="导入" />
-      <item value="integral" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="515" />
-        <entry key="ENGLISH" value="516" />
+        <entry key="CHINESE" value="516" />
+        <entry key="ENGLISH" value="517" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
