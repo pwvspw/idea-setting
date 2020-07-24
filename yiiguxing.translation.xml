@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="时间差" />
       <item value=" It instructs the client to reset its stock table" />
       <item value="Portfolio Request" />
       <item value="Polling mode only" />
@@ -50,12 +51,11 @@
       <item value="调整" />
       <item value="&lt;code&gt;&amp;amp;quot;bread&amp;amp;quot; &amp;amp;amp; &amp;amp;quot;butter&amp;amp;quot;&lt;/code&gt;." />
       <item value="&lt;p&gt;&lt;code&gt;&quot;bread&quot; &amp;amp; &quot;butter&quot;&lt;/code&gt;&lt;/p&gt;" />
-      <item value="&lt;p&gt;Escapes the characters in a {@code String} using HTML entities.&lt;/p&gt;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="517" />
-        <entry key="ENGLISH" value="517" />
+        <entry key="ENGLISH" value="518" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
