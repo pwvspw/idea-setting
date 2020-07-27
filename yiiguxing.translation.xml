@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="recommened" />
       <item value="complex" />
       <item value="时间差" />
       <item value=" It instructs the client to reset its stock table" />
@@ -50,7 +51,6 @@
       <item value="模板" />
       <item value="adjust" />
       <item value="调整" />
-      <item value="&lt;code&gt;&amp;amp;quot;bread&amp;amp;quot; &amp;amp;amp; &amp;amp;quot;butter&amp;amp;quot;&lt;/code&gt;." />
     </histories>
     <option name="languageScores">
       <map>
