@@ -35,6 +35,9 @@
     <keyboard-shortcut first-keystroke="meta 4" />
   </action>
   <action id="$TranslateAndReplaceAction" />
+  <action id="$TranslateDocumentationAction">
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
     <keyboard-shortcut first-keystroke="meta z" />
@@ -143,6 +146,9 @@
   </action>
   <action id="Editor ShowTranslationDialogAction">
     <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
+  <action id="Editor TranslateDocumentationAction">
+    <keyboard-shortcut first-keystroke="meta 5" />
   </action>
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="meta z" />
