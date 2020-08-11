@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="可用余额不足" />
+      <item value="余额" />
       <item value="下架" />
       <item value="Object Serialization Specification, Section 6.2, &quot;Stream Elements&quot;" />
       <item value="platform" />
@@ -19,7 +21,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="542" />
+        <entry key="CHINESE" value="543" />
         <entry key="ENGLISH" value="543" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="2" />
