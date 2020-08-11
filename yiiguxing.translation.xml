@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="原始消息" />
+      <item value="原始" />
       <item value="support" />
       <item value="支持" />
       <item value="可用余额不足" />
@@ -24,7 +26,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="544" />
-        <entry key="ENGLISH" value="544" />
+        <entry key="ENGLISH" value="545" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="CATALAN" value="1" />
