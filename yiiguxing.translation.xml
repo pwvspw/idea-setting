@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="替换特殊字符" />
       <item value="inherit" />
       <item value="participate" />
       <item value="占位符" />
@@ -29,7 +30,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="546" />
-        <entry key="ENGLISH" value="546" />
+        <entry key="ENGLISH" value="547" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="CATALAN" value="1" />
