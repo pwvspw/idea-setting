@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="INDUSTRIAL" />
+      <item value="CHINA INDUSTRIAL SECURITIES INTERNATIONAL BROKERAGE LIMITED" />
       <item value="替换特殊字符" />
       <item value="inherit" />
       <item value="participate" />
@@ -29,7 +31,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="546" />
+        <entry key="CHINESE" value="547" />
         <entry key="ENGLISH" value="547" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="2" />
