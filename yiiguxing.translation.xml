@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="获取" />
+      <item value="获取方式" />
       <item value="scrollbar" />
       <item value="contrast" />
       <item value="delegate" />
@@ -36,7 +38,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="550" />
-        <entry key="ENGLISH" value="550" />
+        <entry key="ENGLISH" value="551" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="CATALAN" value="1" />
