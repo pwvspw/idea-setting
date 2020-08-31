@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="转移" />
+      <item value="赠送" />
+      <item value="赠送方式" />
+      <item value="赠送数量" />
+      <item value="赠送积分" />
       <item value="运营" />
       <item value="operation_" />
       <item value="运营文案" />
