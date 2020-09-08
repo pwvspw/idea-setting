@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="解析" />
+      <item value="格式" />
       <item value="傳統" />
       <item value="accepter" />
       <item value="transfer" />
@@ -49,8 +51,6 @@
       <item value="获取" />
       <item value="获取方式" />
       <item value="scrollbar" />
-      <item value="contrast" />
-      <item value="delegate" />
     </histories>
     <option name="languageScores">
       <map>
