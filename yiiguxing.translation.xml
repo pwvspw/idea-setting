@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="全局" />
       <item value="incorrect" />
       <item value="解密" />
       <item value="密码不一致" />
@@ -50,12 +51,11 @@
       <item value="assert" />
       <item value="营业部" />
       <item value="inviter" />
-      <item value="渠道人" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="572" />
-        <entry key="ENGLISH" value="572" />
+        <entry key="ENGLISH" value="573" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="1" />
