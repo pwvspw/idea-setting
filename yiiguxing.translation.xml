@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <histories>
       <item value="入场费" />
+      <item value="入场" />
+      <item value="招股书" />
       <item value="Hook" />
       <item value="全局" />
       <item value="incorrect" />
@@ -49,8 +51,6 @@
       <item value="运营" />
       <item value="operation_" />
       <item value="运营文案" />
-      <item value="修改交易密码" />
-      <item value="assert" />
     </histories>
     <option name="languageScores">
       <map>
