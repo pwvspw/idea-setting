@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Column id must be either aggregated, or mentioned in GROUP BY clause " />
       <item value="千分位" />
       <item value="prospectus" />
       <item value="入场费" />
@@ -50,11 +51,10 @@
       <item value="赠送方式" />
       <item value="赠送数量" />
       <item value="赠送积分" />
-      <item value="运营" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="576" />
+        <entry key="CHINESE" value="577" />
         <entry key="ENGLISH" value="577" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="3" />
