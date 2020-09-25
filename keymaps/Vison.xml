@@ -267,7 +267,6 @@
   </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="f3" />
-    <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="meta button1" />
   </action>
   <action id="GotoFile">
