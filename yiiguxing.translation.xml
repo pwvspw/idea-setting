@@ -1,13 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Delivery" />
       <item value="startDeliveryReceiptNotificationResponse" />
       <item value="Mandatory" />
       <item value="The message has been  licence controled" />
       <item value="foreign" />
       <item value="失效时间" />
       <item value="认购截止日期" />
-      <item value="Delivery" />
       <item value="joint" />
       <item value="Column id must be either aggregated, or mentioned in GROUP BY clause " />
       <item value="千分位" />
