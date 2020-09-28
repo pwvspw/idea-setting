@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="foreign" />
       <item value="失效时间" />
       <item value="认购截止日期" />
       <item value="Mandatory" />
@@ -50,11 +51,10 @@
       <item value="余额" />
       <item value="余额不足" />
       <item value="积分余额不足" />
-      <item value="转出" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="577" />
+        <entry key="CHINESE" value="578" />
         <entry key="ENGLISH" value="578" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="3" />
