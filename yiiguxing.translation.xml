@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No subject alternative names matching IP address" />
+      <item value="alternative" />
       <item value="Delivery" />
       <item value="startDeliveryReceiptNotificationResponse" />
       <item value="Mandatory" />
@@ -49,13 +51,11 @@
       <item value="广东省深圳市福田区深南大道6015号本元大厦23A" />
       <item value="芦溪县南坑镇新尤村火烧山33号" />
       <item value="Dimensional" />
-      <item value="ENOUGH" />
-      <item value="余额" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="578" />
-        <entry key="ENGLISH" value="578" />
+        <entry key="CHINESE" value="579" />
+        <entry key="ENGLISH" value="580" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="1" />
