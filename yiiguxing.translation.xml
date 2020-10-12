@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="已提交" />
       <item value="Field" />
       <item value="00001" />
       <item value="Business Exception" />
@@ -50,12 +51,11 @@
       <item value="For further credit to my account in Valuable Capital Limited" />
       <item value="BALANCE" />
       <item value="领取" />
-      <item value="gift" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="584" />
-        <entry key="ENGLISH" value="584" />
+        <entry key="ENGLISH" value="585" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="1" />
