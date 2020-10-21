@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" joint" />
       <item value="jurisdiction" />
       <item value="suspend" />
       <item value="锁定" />
@@ -50,7 +51,6 @@
       <item value="The values are depended on broker  setup in Company Bank Master" />
       <item value="实际的" />
       <item value="origin" />
-      <item value="origion" />
     </histories>
     <option name="languageScores">
       <map>
