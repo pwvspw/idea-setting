@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="符合" />
       <item value="warning" />
       <item value="警告" />
       <item value="充足" />
-      <item value="符合" />
       <item value="符合要求" />
       <item value="exploded" />
       <item value="资产" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="592" />
-        <entry key="ENGLISH" value="592" />
+        <entry key="ENGLISH" value="593" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="1" />
