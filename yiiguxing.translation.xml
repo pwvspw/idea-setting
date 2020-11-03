@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="artifact" />
+      <item value="transfer" />
+      <item value="Reason Phrase" />
       <item value="符合" />
       <item value="warning" />
       <item value="警告" />
@@ -48,14 +51,11 @@
       <item value="入场费" />
       <item value="入场" />
       <item value="招股书" />
-      <item value="Hook" />
-      <item value="全局" />
-      <item value="incorrect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="592" />
-        <entry key="ENGLISH" value="593" />
+        <entry key="CHINESE" value="595" />
+        <entry key="ENGLISH" value="596" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="1" />
