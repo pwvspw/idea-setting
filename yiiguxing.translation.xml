@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="期权" />
+      <item value="期货" />
+      <item value="OPTION" />
+      <item value="FUTURE" />
       <item value="artifact" />
       <item value="transfer" />
       <item value="Reason Phrase" />
@@ -47,15 +51,11 @@
       <item value="joint" />
       <item value="Column id must be either aggregated, or mentioned in GROUP BY clause " />
       <item value="千分位" />
-      <item value="prospectus" />
-      <item value="入场费" />
-      <item value="入场" />
-      <item value="招股书" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="595" />
-        <entry key="ENGLISH" value="596" />
+        <entry key="CHINESE" value="598" />
+        <entry key="ENGLISH" value="599" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="1" />
