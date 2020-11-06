@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Generates implementations for the {@code equals} and {@code hashCode} methods inherited by all objects, based on relevant fields." />
       <item value="期权" />
       <item value="期货" />
       <item value="OPTION" />
@@ -50,12 +51,11 @@
       <item value="认购截止日期" />
       <item value="joint" />
       <item value="Column id must be either aggregated, or mentioned in GROUP BY clause " />
-      <item value="千分位" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="598" />
-        <entry key="ENGLISH" value="599" />
+        <entry key="CHINESE" value="599" />
+        <entry key="ENGLISH" value="600" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="1" />
