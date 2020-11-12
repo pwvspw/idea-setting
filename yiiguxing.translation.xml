@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="section" />
       <item value="Designated new password (need to follow password  policy)" />
       <item value="established" />
       <item value="From iGateway to Caller. The message is sent to  the first logon client when duplicated login is detected. The first login Account  Session will be forced to log out." />
@@ -50,7 +51,6 @@
       <item value="Parlay" />
       <item value=" Parlay" />
       <item value="Reception" />
-      <item value="No subject alternative names matching IP address" />
     </histories>
     <option name="languageScores">
       <map>
