@@ -1,12 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" The message is sent to  the first logon client when duplicated login is detected. The first login Account  Session will be forced to log out." />
+      <item value="Kick out the first login" />
       <item value="section" />
       <item value="Designated new password (need to follow password  policy)" />
       <item value="established" />
       <item value="From iGateway to Caller. The message is sent to  the first logon client when duplicated login is detected. The first login Account  Session will be forced to log out." />
       <item value="The message is sent to  the first logon client when duplicated login is detected. The first login Account  Session will be forced to log out." />
-      <item value="Kick out the first login" />
       <item value="n-" />
       <item value=" Maintenance" />
       <item value="Another user login this account!" />
@@ -50,7 +51,6 @@
       <item value="ParlayX" />
       <item value="Parlay" />
       <item value=" Parlay" />
-      <item value="Reception" />
     </histories>
     <option name="languageScores">
       <map>
