@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="established" />
+      <item value="From iGateway to Caller. The message is sent to  the first logon client when duplicated login is detected. The first login Account  Session will be forced to log out." />
+      <item value="The message is sent to  the first logon client when duplicated login is detected. The first login Account  Session will be forced to log out." />
+      <item value="Kick out the first login" />
+      <item value="n-" />
       <item value=" Maintenance" />
       <item value="Another user login this account!" />
       <item value="Deactivated" />
@@ -46,11 +51,6 @@
       <item value="Reception" />
       <item value="No subject alternative names matching IP address" />
       <item value="alternative" />
-      <item value="Delivery" />
-      <item value="startDeliveryReceiptNotificationResponse" />
-      <item value="Mandatory" />
-      <item value="The message has been  licence controled" />
-      <item value="foreign" />
     </histories>
     <option name="languageScores">
       <map>
