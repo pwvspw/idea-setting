@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="已经存在" />
       <item value="日历" />
       <item value="股票上市" />
       <item value="上市" />
@@ -50,7 +51,6 @@
       <item value="relative" />
       <item value="definitions" />
       <item value="terminated" />
-      <item value="Annotation processing is not supported for module cycles. Please ensure that all modules from cycle [web-commons,web-api,trade-api] are excluded from annotation processing" />
     </histories>
     <option name="languageScores">
       <map>
