@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="星期缩写" />
+      <item value="星期" />
+      <item value="缩写" />
+      <item value="星期六" />
+      <item value="星期五" />
+      <item value="星期四" />
+      <item value="星期三" />
+      <item value="星期二" />
+      <item value="星期一" />
+      <item value="星期以" />
+      <item value="星期日" />
       <item value="已经存在" />
       <item value="日历" />
       <item value="股票上市" />
@@ -40,17 +51,6 @@
       <item value="exploded" />
       <item value="资产" />
       <item value="As talked, it should be CSTODB-1512 project point 2.1 and 2.2, the added function should be &quot;requestIdentityFetch&quot; and &quot;requestAccountFetch&quot;, our developer find that they cannot find a way to link these two masters(Account and Identity), Can you help suggest a method to solve the linkage problem, thanks." />
-      <item value="DEPOSIT" />
-      <item value="CHINA INDUSTRIAL SECURITIES INTERNATIONAL BROKERAGE LIMITED - UNALLOCATED ENTITLEMENT ACCOUNT" />
-      <item value="Please note that the &quot;clientId1&quot; is referring to the “External Client ID” which is located at the lower end of identity master." />
-      <item value=" joint" />
-      <item value="jurisdiction" />
-      <item value="suspend" />
-      <item value="锁定" />
-      <item value="How is it going on about the Issue" />
-      <item value="relative" />
-      <item value="definitions" />
-      <item value="terminated" />
     </histories>
     <option name="languageScores">
       <map>
