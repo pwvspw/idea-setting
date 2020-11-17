@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="即将" />
       <item value="星期缩写" />
       <item value="星期" />
       <item value="缩写" />
@@ -50,7 +51,6 @@
       <item value="符合要求" />
       <item value="exploded" />
       <item value="资产" />
-      <item value="As talked, it should be CSTODB-1512 project point 2.1 and 2.2, the added function should be &quot;requestIdentityFetch&quot; and &quot;requestAccountFetch&quot;, our developer find that they cannot find a way to link these two masters(Account and Identity), Can you help suggest a method to solve the linkage problem, thanks." />
     </histories>
     <option name="languageScores">
       <map>
