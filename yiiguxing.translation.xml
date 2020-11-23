@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="相关股票" />
+      <item value="certificate" />
+      <item value="资质" />
+      <item value="持牌号码" />
+      <item value="指数" />
+      <item value="猜涨跌模块" />
+      <item value="猜涨跌" />
+      <item value="资讯" />
       <item value="新股速递" />
       <item value="即将认购列表" />
       <item value="即将" />
@@ -43,19 +51,11 @@
       <item value="期货" />
       <item value="OPTION" />
       <item value="FUTURE" />
-      <item value="artifact" />
-      <item value="transfer" />
-      <item value="Reason Phrase" />
-      <item value="符合" />
-      <item value="warning" />
-      <item value="警告" />
-      <item value="充足" />
-      <item value="符合要求" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="606" />
-        <entry key="ENGLISH" value="607" />
+        <entry key="CHINESE" value="607" />
+        <entry key="ENGLISH" value="608" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="1" />
