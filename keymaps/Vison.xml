@@ -290,7 +290,6 @@
   </action>
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="meta home" />
-    <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="Gsonformat">
     <keyboard-shortcut first-keystroke="alt s" />
@@ -318,7 +317,7 @@
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="ctrl q" />
     <keyboard-shortcut first-keystroke="shift meta home" />
-    <keyboard-shortcut first-keystroke="meta 1" />
+    <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="JumpToNextChange">
     <keyboard-shortcut first-keystroke="shift meta end" />
