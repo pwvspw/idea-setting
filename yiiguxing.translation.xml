@@ -1,6 +1,23 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogX" value="647" />
+    <option name="newTranslationDialogY" value="264" />
     <histories>
+      <item value="now" />
+      <item value="no w" />
+      <item value="分钟" />
+      <item value="fen zhon" />
+      <item value="I" />
+      <item value="i" />
+      <item value="数字" />
+      <item value="shuzi&#10;" />
+      <item value="shuzi" />
+      <item value="yyyy" />
+      <item value="reflect Rise Fall Ratio" />
+      <item value="Stock Rise Fall Resp" />
+      <item value="Decimal Format" />
+      <item value="equals" />
       <item value="invest" />
       <item value="投资" />
       <item value="财经" />
@@ -37,25 +54,11 @@
       <item value="星期六" />
       <item value="星期五" />
       <item value="星期四" />
-      <item value="星期三" />
-      <item value="星期二" />
-      <item value="星期一" />
-      <item value="星期以" />
-      <item value="星期日" />
-      <item value="已经存在" />
-      <item value="日历" />
-      <item value="股票上市" />
-      <item value="上市" />
-      <item value="grey" />
-      <item value="上市日期" />
-      <item value="涨跌幅" />
-      <item value="幅度" />
-      <item value="暗盘交易" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="618" />
-        <entry key="ENGLISH" value="618" />
+        <entry key="CHINESE" value="622" />
+        <entry key="ENGLISH" value="623" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="1" />
@@ -70,6 +73,9 @@
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1607582796331" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
