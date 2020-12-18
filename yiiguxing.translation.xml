@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="264" />
     <histories>
+      <item value="通知&#10;" />
+      <item value="通知" />
+      <item value="t" />
+      <item value="article Detailto" />
+      <item value="公告" />
+      <item value="go" />
+      <item value="共ao" />
+      <item value="gong ao" />
       <item value="now" />
       <item value="no w" />
       <item value="分钟" />
@@ -46,14 +54,6 @@
       <item value="猜涨跌" />
       <item value="资讯" />
       <item value="新股速递" />
-      <item value="即将认购列表" />
-      <item value="即将" />
-      <item value="星期缩写" />
-      <item value="星期" />
-      <item value="缩写" />
-      <item value="星期六" />
-      <item value="星期五" />
-      <item value="星期四" />
     </histories>
     <option name="languageScores">
       <map>
@@ -75,7 +75,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1607582796331" />
+    <option name="lastTrimTime" value="1608276827807" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
