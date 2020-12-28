@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogX" value="647" />
-    <option name="newTranslationDialogY" value="264" />
+    <option name="newTranslationDialogX" value="628" />
+    <option name="newTranslationDialogY" value="524" />
     <histories>
+      <item value="January" />
+      <item value="Januart" />
+      <item value="J a" />
+      <item value="J" />
       <item value="sub deadline" />
       <item value="CAMEL" />
       <item value="通知&#10;" />
@@ -50,10 +54,6 @@
       <item value="相关股票" />
       <item value="certificate" />
       <item value="资质" />
-      <item value="持牌号码" />
-      <item value="指数" />
-      <item value="猜涨跌模块" />
-      <item value="猜涨跌" />
     </histories>
     <option name="languageScores">
       <map>
