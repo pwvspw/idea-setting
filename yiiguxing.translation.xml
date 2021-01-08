@@ -4,9 +4,10 @@
     <option name="newTranslationDialogX" value="628" />
     <option name="newTranslationDialogY" value="524" />
     <histories>
+      <item value="隐私政策" />
+      <item value="yi" />
       <item value="unregister" />
       <item value="注销" />
-      <item value="隐私政策" />
       <item value="zhu" />
       <item value="January" />
       <item value="Januart" />
@@ -53,7 +54,6 @@
       <item value="fall Ratio" />
       <item value="rise Ratio" />
       <item value="发布时间" />
-      <item value="guess" />
     </histories>
     <option name="languageScores">
       <map>
