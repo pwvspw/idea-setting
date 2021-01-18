@@ -2,8 +2,10 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogX" value="628" />
-    <option name="newTranslationDialogY" value="524" />
+    <option name="newTranslationDialogY" value="509" />
     <histories>
+      <item value="统计" />
+      <item value="t" />
       <item value="CAMEL" />
       <item value="隐私政策" />
       <item value="yi" />
@@ -17,7 +19,6 @@
       <item value="sub deadline" />
       <item value="通知&#10;" />
       <item value="通知" />
-      <item value="t" />
       <item value="article Detailto" />
       <item value="公告" />
       <item value="go" />
@@ -53,7 +54,6 @@
       <item value="set Maximum Fraction Digits" />
       <item value="fall Ratio" />
       <item value="rise Ratio" />
-      <item value="发布时间" />
     </histories>
     <option name="languageScores">
       <map>
@@ -75,7 +75,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1609744783967" />
+    <option name="lastTrimTime" value="1610950481267" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
