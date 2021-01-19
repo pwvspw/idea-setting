@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="628" />
     <option name="newTranslationDialogY" value="509" />
     <histories>
+      <item value="steady" />
+      <item value="rmaintain" />
       <item value="统计" />
       <item value="Hook" />
       <item value="t" />
@@ -52,8 +54,6 @@
       <item value="招股价" />
       <item value="概要" />
       <item value="Illegal State Exception" />
-      <item value="set Maximum Fraction Digits" />
-      <item value="fall Ratio" />
     </histories>
     <option name="languageScores">
       <map>
