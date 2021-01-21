@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="628" />
     <option name="newTranslationDialogY" value="509" />
     <histories>
+      <item value="CAMEL" />
       <item value="Wealth" />
       <item value="财富荟" />
       <item value="cai" />
@@ -13,7 +14,6 @@
       <item value="统计" />
       <item value="Hook" />
       <item value="t" />
-      <item value="CAMEL" />
       <item value="隐私政策" />
       <item value="yi" />
       <item value="unregister" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="627" />
-        <entry key="ENGLISH" value="628" />
+        <entry key="CHINESE" value="628" />
+        <entry key="ENGLISH" value="629" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
