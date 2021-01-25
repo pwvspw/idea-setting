@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="628" />
     <option name="newTranslationDialogY" value="509" />
     <histories>
+      <item value="exhausted" />
       <item value="deviation" />
       <item value="de vi" />
       <item value="CAMEL" />
@@ -53,7 +54,6 @@
       <item value="Lexicographic" />
       <item value="新股资讯" />
       <item value="1" />
-      <item value="要闻" />
     </histories>
     <option name="languageScores">
       <map>
@@ -75,7 +75,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1610950481267" />
+    <option name="lastTrimTime" value="1611560841256" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
