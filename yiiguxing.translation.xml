@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="628" />
     <option name="newTranslationDialogY" value="433" />
     <histories>
+      <item value="Picked up" />
+      <item value="var 2" />
       <item value="authentication" />
       <item value="Original" />
       <item value="340001066 AOriginal" />
@@ -52,8 +54,6 @@
       <item value="公告" />
       <item value="go" />
       <item value="共ao" />
-      <item value="gong ao" />
-      <item value="now" />
     </histories>
     <option name="languageScores">
       <map>
