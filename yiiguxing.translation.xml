@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="628" />
     <option name="newTranslationDialogY" value="433" />
     <histories>
+      <item value="需求原型" />
+      <item value="原型" />
+      <item value="Example" />
       <item value="Picked up" />
       <item value="var 2" />
       <item value="authentication" />
@@ -51,9 +54,6 @@
       <item value="通知&#10;" />
       <item value="通知" />
       <item value="article Detailto" />
-      <item value="公告" />
-      <item value="go" />
-      <item value="共ao" />
     </histories>
     <option name="languageScores">
       <map>
@@ -75,7 +75,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1611560841256" />
+    <option name="lastTrimTime" value="1612148088233" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
