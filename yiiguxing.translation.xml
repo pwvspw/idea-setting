@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="628" />
     <option name="newTranslationDialogY" value="433" />
     <histories>
+      <item value="原始" />
+      <item value="yuan shi" />
+      <item value="ori" />
+      <item value="繁体" />
+      <item value="app Version" />
       <item value="Express" />
       <item value="需求原型" />
       <item value="原型" />
@@ -49,11 +54,6 @@
       <item value="zhu" />
       <item value="January" />
       <item value="Januart" />
-      <item value="J a" />
-      <item value="J" />
-      <item value="sub deadline" />
-      <item value="通知&#10;" />
-      <item value="通知" />
     </histories>
     <option name="languageScores">
       <map>
@@ -75,7 +75,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1612148088233" />
+    <option name="lastTrimTime" value="1614137024681" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
