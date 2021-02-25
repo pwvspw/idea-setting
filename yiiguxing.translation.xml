@@ -4,6 +4,15 @@
     <option name="newTranslationDialogX" value="628" />
     <option name="newTranslationDialogY" value="433" />
     <histories>
+      <item value="indicate" />
+      <item value="Kick out" />
+      <item value="portfolio" />
+      <item value="established" />
+      <item value="corresponding" />
+      <item value="From iGateway to Caller. The message is sent to the first logon client when duplicated login is detected. The first login Account Session will be forced to log out" />
+      <item value="From iGateway to Caller. The message is sent to the first logon client when duplicated login is detected. The first login Account &#10;Session will be forced to log out" />
+      <item value="From iGateway to Caller. The message is sent to &#10;the first logon client when duplicated login is detected. The first login Account &#10;Session will be forced to log out" />
+      <item value="20803579" />
       <item value="原始" />
       <item value="yuan shi" />
       <item value="ori" />
@@ -25,8 +34,6 @@
       <item value="TAB is applied for field separator" />
       <item value="in Form ServerTAB is applied for field separator" />
       <item value="Kick out the first login" />
-      <item value="indicate" />
-      <item value="portfolio" />
       <item value="ncorresponding" />
       <item value="Oct" />
       <item value="startOct" />
@@ -47,13 +54,6 @@
       <item value="统计" />
       <item value="Hook" />
       <item value="t" />
-      <item value="隐私政策" />
-      <item value="yi" />
-      <item value="unregister" />
-      <item value="注销" />
-      <item value="zhu" />
-      <item value="January" />
-      <item value="Januart" />
     </histories>
     <option name="languageScores">
       <map>
