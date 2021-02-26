@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="256" />
     <option name="newTranslationDialogY" value="295" />
     <histories>
+      <item value="强制升级版本号" />
       <item value="行情开关" />
       <item value="行情kai guan" />
       <item value="行情kai" />
@@ -55,7 +56,6 @@
       <item value="startOct" />
       <item value="start" />
       <item value="ptrace" />
-      <item value="p t ra ce" />
     </histories>
     <option name="languageScores">
       <map>
