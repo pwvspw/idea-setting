@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogHeight" value="322" />
     <option name="newTranslationDialogWidth" value="1206" />
     <option name="newTranslationDialogX" value="256" />
     <option name="newTranslationDialogY" value="295" />
     <histories>
+      <item value="行情开关" />
+      <item value="行情kai guan" />
+      <item value="行情kai" />
+      <item value="行情k" />
       <item value="Integration" />
       <item value="sentence" />
       <item value="The messaging protocol is developed to facilitate electronic exchange of information related to securities transactions to iAsia Broker Supplied System" />
@@ -51,10 +56,6 @@
       <item value="start" />
       <item value="ptrace" />
       <item value="p t ra ce" />
-      <item value="p" />
-      <item value="exhausted" />
-      <item value="deviation" />
-      <item value="de vi" />
     </histories>
     <option name="languageScores">
       <map>
