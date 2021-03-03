@@ -6,6 +6,13 @@
     <option name="newTranslationDialogX" value="256" />
     <option name="newTranslationDialogY" value="295" />
     <histories>
+      <item value="major" />
+      <item value="mao" />
+      <item value="ma" />
+      <item value="blocker" />
+      <item value="critical" />
+      <item value="rootcritic" />
+      <item value="root" />
       <item value="latest" />
       <item value="_contentla" />
       <item value="_content" />
@@ -49,13 +56,6 @@
       <item value="340001066 AOriginal" />
       <item value="absented" />
       <item value="in Form Serverabsented" />
-      <item value="quote" />
-      <item value="Carriage" />
-      <item value="TAB is applied for field separator" />
-      <item value="in Form ServerTAB is applied for field separator" />
-      <item value="Kick out the first login" />
-      <item value="ncorresponding" />
-      <item value="Oct" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1614137024681" />
+    <option name="lastTrimTime" value="1614679180633" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
