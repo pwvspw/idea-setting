@@ -6,6 +6,10 @@
     <option name="newTranslationDialogX" value="256" />
     <option name="newTranslationDialogY" value="295" />
     <histories>
+      <item value="更新频率" />
+      <item value="更新pin lü" />
+      <item value="更新pin l" />
+      <item value="gen" />
       <item value="Picked up" />
       <item value="Picked" />
       <item value="sh" />
@@ -52,10 +56,6 @@
       <item value="需求原型" />
       <item value="原型" />
       <item value="Example" />
-      <item value="var 2" />
-      <item value="authentication" />
-      <item value="Original" />
-      <item value="340001066 AOriginal" />
     </histories>
     <option name="languageScores">
       <map>
