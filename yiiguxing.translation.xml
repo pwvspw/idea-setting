@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="256" />
     <option name="newTranslationDialogY" value="295" />
     <histories>
+      <item value=" Broker Supplied System" />
       <item value="specific" />
       <item value="Genius" />
       <item value="Genius Bar 天才吧" />
@@ -55,7 +56,6 @@
       <item value="原始" />
       <item value="yuan shi" />
       <item value="ori" />
-      <item value="繁体" />
     </histories>
     <option name="languageScores">
       <map>
