@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="256" />
     <option name="newTranslationDialogY" value="295" />
     <histories>
+      <item value="specific" />
       <item value="Genius" />
       <item value="Genius Bar 天才吧" />
       <item value="request" />
@@ -55,7 +56,6 @@
       <item value="yuan shi" />
       <item value="ori" />
       <item value="繁体" />
-      <item value="app Version" />
     </histories>
     <option name="languageScores">
       <map>
