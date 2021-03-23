@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="379" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="Determining fastest mirrors " />
       <item value="记录操作日志" />
       <item value="新增" />
       <item value="current" />
@@ -55,7 +56,6 @@
       <item value="Kick out" />
       <item value="portfolio" />
       <item value="established" />
-      <item value="corresponding" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615881857546" />
+    <option name="lastTrimTime" value="1616486670332" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
