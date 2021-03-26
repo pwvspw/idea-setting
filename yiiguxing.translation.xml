@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="379" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="This method can be used to determine if data can be written without blocking." />
+      <item value="determine" />
       <item value="requested access to the resource is denied                                                                                                                                " />
       <item value="requested access to the resource is denied                                                                                                                                   &#10;[root@izwz91z22t0bs3zf8v22vlz jdk]#     " />
       <item value="Determining fastest mirrors " />
@@ -54,13 +56,11 @@
       <item value="t Login" />
       <item value="brief" />
       <item value="Start" />
-      <item value="indicate" />
-      <item value="Kick out" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="636" />
-        <entry key="ENGLISH" value="636" />
+        <entry key="CHINESE" value="637" />
+        <entry key="ENGLISH" value="638" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
