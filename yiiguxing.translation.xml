@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="379" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="Creator" />
       <item value="This method can be used to determine if data can be written without blocking." />
       <item value="determine" />
       <item value="requested access to the resource is denied                                                                                                                                " />
@@ -55,12 +56,11 @@
       <item value="purpose" />
       <item value="t Login" />
       <item value="brief" />
-      <item value="Start" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="637" />
-        <entry key="ENGLISH" value="638" />
+        <entry key="CHINESE" value="638" />
+        <entry key="ENGLISH" value="639" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616486670332" />
+    <option name="lastTrimTime" value="1617003861568" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
