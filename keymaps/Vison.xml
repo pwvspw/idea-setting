@@ -335,6 +335,9 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
   <action id="NextParameter">
     <keyboard-shortcut first-keystroke="tab" />
     <keyboard-shortcut first-keystroke="enter" />
