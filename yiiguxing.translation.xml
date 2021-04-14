@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="379" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="phone" />
+      <item value="transaction time" />
+      <item value="w" />
       <item value="re" />
       <item value="remitter" />
       <item value="remitter&#10;" />
@@ -53,9 +56,6 @@
       <item value="行情k" />
       <item value="Integration" />
       <item value="sentence" />
-      <item value="The messaging protocol is developed to facilitate electronic exchange of information related to securities transactions to iAsia Broker Supplied System" />
-      <item value=" The messaging protocol is developed to facilitate electronic exchange of information related to securities transactions to iAsia Broker Supplied System" />
-      <item value=" The messaging protocol is developed to facilitate electronic exchange ofinformation related to securities transactions to iAsia Broker Supplied System" />
     </histories>
     <option name="languageScores">
       <map>
