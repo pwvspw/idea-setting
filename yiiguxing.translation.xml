@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="379" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="re" />
+      <item value="remitter" />
+      <item value="remitter&#10;" />
       <item value="statistics" />
       <item value="Creator" />
       <item value="This method can be used to determine if data can be written without blocking." />
@@ -53,9 +56,6 @@
       <item value="The messaging protocol is developed to facilitate electronic exchange of information related to securities transactions to iAsia Broker Supplied System" />
       <item value=" The messaging protocol is developed to facilitate electronic exchange of information related to securities transactions to iAsia Broker Supplied System" />
       <item value=" The messaging protocol is developed to facilitate electronic exchange ofinformation related to securities transactions to iAsia Broker Supplied System" />
-      <item value=" The messaging protocol is developed to facilitate electronic exchange of &#10;information related to securities transactions to iAsia Broker Supplied System" />
-      <item value="purpose" />
-      <item value="t Login" />
     </histories>
     <option name="languageScores">
       <map>
