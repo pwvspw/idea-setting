@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="379" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="String" />
+      <item value="allowed" />
+      <item value="path" />
       <item value="转账" />
       <item value="zhuan z" />
       <item value="小数" />
@@ -53,14 +56,11 @@
       <item value="critical" />
       <item value="rootcritic" />
       <item value="root" />
-      <item value="latest" />
-      <item value="_contentla" />
-      <item value="_content" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="640" />
-        <entry key="ENGLISH" value="641" />
+        <entry key="CHINESE" value="643" />
+        <entry key="ENGLISH" value="644" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618281520871" />
+    <option name="lastTrimTime" value="1641864627031" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
