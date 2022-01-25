@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="379" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="issuance" />
       <item value="App Message Device Bind Req" />
       <item value="String" />
       <item value="allowed" />
@@ -55,12 +56,11 @@
       <item value="ma" />
       <item value="blocker" />
       <item value="critical" />
-      <item value="rootcritic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="644" />
-        <entry key="ENGLISH" value="645" />
+        <entry key="CHINESE" value="645" />
+        <entry key="ENGLISH" value="646" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1641864627031" />
+    <option name="lastTrimTime" value="1643099686172" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
