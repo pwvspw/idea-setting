@@ -291,6 +291,9 @@
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="meta home" />
   </action>
+  <action id="GsonFormatPlus">
+    <keyboard-shortcut first-keystroke="meta alt s" />
+  </action>
   <action id="Gsonformat">
     <keyboard-shortcut first-keystroke="alt s" />
     <keyboard-shortcut first-keystroke="ctrl meta alt g" />
