@@ -59,6 +59,7 @@
   <action id="ChangesView.AddUnversioned">
     <keyboard-shortcut first-keystroke="ctrl meta a" />
   </action>
+  <action id="ChangesView.Rename" />
   <action id="ChangesView.Revert">
     <keyboard-shortcut first-keystroke="ctrl meta z" />
   </action>
@@ -359,6 +360,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl v" />
     <keyboard-shortcut first-keystroke="shift meta v" />
   </action>
+  <action id="Popup.PopupChoiceAction" />
   <action id="QuickActionPopup" />
   <action id="QuickEvaluateExpression">
     <mouse-shortcut keystroke="alt button1" />
@@ -371,6 +373,9 @@
   </action>
   <action id="Refresh">
     <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="RenameFile">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl f" />
@@ -392,6 +397,7 @@
   </action>
   <action id="ScrollTreeToCenter" />
   <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="ShelvedChanges.Rename" />
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="ctrl n" />
     <keyboard-shortcut first-keystroke="ctrl f10" />
