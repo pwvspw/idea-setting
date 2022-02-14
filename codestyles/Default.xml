@@ -1,0 +1,37 @@
+<code_scheme name="Default" version="173">
+  <option name="AUTODETECT_INDENTS" value="false" />
+  <HTMLCodeStyleSettings>
+    <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+  </HTMLCodeStyleSettings>
+  <JavaCodeStyleSettings>
+    <option name="REPLACE_INSTANCEOF_AND_CAST" value="true" />
+    <option name="ENABLE_JAVADOC_FORMATTING" value="false" />
+    <option name="JD_ALIGN_PARAM_COMMENTS" value="false" />
+    <option name="JD_ALIGN_EXCEPTION_COMMENTS" value="false" />
+    <option name="JD_ADD_BLANK_AFTER_DESCRIPTION" value="false" />
+  </JavaCodeStyleSettings>
+  <MySQLCodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="0" />
+    <option name="QUERY_EL_LINE" value="101" />
+    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
+    <option name="SELECT_ALIGN_AS" value="false" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+  </MySQLCodeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="LINE_COMMENT_ADD_SPACE" value="true" />
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+    <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
+    <option name="KEEP_SIMPLE_LAMBDAS_IN_ONE_LINE" value="true" />
+    <option name="DOWHILE_BRACE_FORCE" value="3" />
+    <option name="WHILE_BRACE_FORCE" value="3" />
+    <indentOptions>
+      <option name="USE_RELATIVE_INDENTS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="MySQL">
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+  </codeStyleSettings>
+</code_scheme>

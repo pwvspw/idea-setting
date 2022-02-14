@@ -1,0 +1,129 @@
+<templateSet group="1-MyTemplates">
+  <template name="prii" value="/**&#10; * $VAR2$&#10; */&#10;private Integer $VAR1$;" description="private Integer with comment" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pris" value="/**&#10; * $VAR2$&#10; */&#10;private String $VAR1$;" description="private String with comment" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="logg" value="private static final Logger logger = LoggerFactory.getLogger($VAR1$.class);" description="private static final Logger" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="className()" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="jut" value="@Test&#10;public void test$VAR$() {&#10;    $END$&#10;}" description="generate junit test" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="elseif" value="else if ($VAR$) {&#10;    $END$&#10;}" description="else if statement" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+  <template name="if" value="if ($VAR$) {&#10;    $END$&#10;}" description="if statement" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+  <template name="else" value="else {&#10;    $END$&#10;}" description="else statement" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+  <template name="///" value="/**&#10; * $END$&#10; * @author $user$&#10; * @date $date$&#10; */" shortcut="ENTER" description="method comment with author" toReformat="false" toShortenFQNames="true">
+    <variable name="user" expression="user()" defaultValue="" alwaysStopAt="false" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="List" value="List&lt;$TYPE$&gt; $VAR$ = new ArrayList&lt;&gt;();" description="declare list" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="expectedType()" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="Set" value="Set&lt;$TYPE$&gt; $VAR$ = $END$" description="declare set" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="expectedType()" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="Map" value="Map&lt;$TYPE1$, $TYPE2$&gt; $VAR$ = $END$" description="declare map" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE1" expression="expectedType()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE2" expression="expectedType()" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="newt" value="new Thread(() -&gt; {&#10;    $END$&#10;}, &quot;$VAR$&quot;).start();&#10;" description="create a thread template" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tsl" value="try{TimeUnit.SECONDS.sleep($CAR$);}catch(InterruptedException e){e.printStackTrace();}" description="thread sleep some second" toReformat="false" toShortenFQNames="true">
+    <variable name="CAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tname" value="Thread.currentThread().getName()" description="generate current thread name" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="fort" value="for (int i = 1; i &lt;= $VAR$; i++) {&#10;    new Thread(() -&gt; {&#10;        $END$&#10;    }, String.valueOf(i)).start();&#10;}" description="create loop thread template" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="trylock" value="$VAR$.lock();&#10;try {&#10;    $END$&#10;} catch (Exception e) {&#10;    e.printStackTrace();&#10;} finally {&#10;    $VAR$.unlock();&#10;}" description="lock unlock template" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="trycf" value="try {&#10;    $END$&#10;} catch (Exception e) {&#10;    e.printStackTrace();&#10;} finally {&#10;&#10;}" description="try catch finally" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tryf" value="try {&#10;    $END$&#10;} finally {&#10;&#10;}" description="try finally" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="//" value="/**&#10; * $END$&#10; */" description="method comment" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="dowhile" value="do {&#10;    &#10;    $END$&#10;    &#10;} while(false);" description="genetate do while template" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

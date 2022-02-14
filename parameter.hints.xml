@@ -1,0 +1,14 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript" />
+      <blacklist language="Java">
+        <added pattern="cn.cowboy.java8.TestLambda2.setUser(userName,userId)" />
+        <added pattern="java.util.concurrent.atomic.AtomicStampedReference.compareAndSet(expectedReference,newReference,expectedStamp,newStamp)" />
+      </blacklist>
+      <blacklist language="JavaScript" />
+      <blacklist language="Groovy" />
+      <blacklist language="Kotlin" />
+    </blacklists>
+  </component>
+</application>
