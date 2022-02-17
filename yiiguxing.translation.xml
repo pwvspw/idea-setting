@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="379" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="Sponsor" />
       <item value="brief" />
       <item value="App Ad Advertise Req" />
       <item value="String" />
@@ -55,12 +56,11 @@
       <item value="Picked" />
       <item value="sh" />
       <item value="major" />
-      <item value="mao" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="649" />
-        <entry key="ENGLISH" value="649" />
+        <entry key="ENGLISH" value="650" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1644462981985" />
+    <option name="lastTrimTime" value="1645085603850" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
