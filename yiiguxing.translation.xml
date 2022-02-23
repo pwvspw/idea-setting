@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="379" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="Return the unique id of this application context. Returns: the unique id of the context, or null if none" />
       <item value="banner" />
       <item value="sponsors" />
       <item value="investors" />
@@ -55,12 +56,11 @@
       <item value="更新pin lü" />
       <item value="更新pin l" />
       <item value="gen" />
-      <item value="Picked up" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="652" />
-        <entry key="ENGLISH" value="653" />
+        <entry key="CHINESE" value="653" />
+        <entry key="ENGLISH" value="654" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
