@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1645085603850" />
+    <option name="lastTrimTime" value="1645579440607" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
@@ -86,6 +86,7 @@
       </app-key>
     </option>
     <option name="primaryFontFamily" value="Ayuthaya" />
+    <option name="translateDocumentation" value="true" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="pwvison@163.com" />
