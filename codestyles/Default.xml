@@ -1,5 +1,6 @@
 <code_scheme name="Default" version="173">
   <option name="AUTODETECT_INDENTS" value="false" />
+  <option name="ENABLE_SECOND_REFORMAT" value="true" />
   <HTMLCodeStyleSettings>
     <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   </HTMLCodeStyleSettings>
@@ -10,9 +11,11 @@
     <option name="JD_ALIGN_EXCEPTION_COMMENTS" value="false" />
     <option name="JD_ADD_BLANK_AFTER_DESCRIPTION" value="false" />
   </JavaCodeStyleSettings>
-  <MySQLCodeStyleSettings version="2">
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
+  <MySQLCodeStyleSettings version="6">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
     <option name="QUERY_EL_LINE" value="101" />
     <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
     <option name="SELECT_ALIGN_AS" value="false" />
