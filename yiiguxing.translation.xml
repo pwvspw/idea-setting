@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="379" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="Gear" />
       <item value="app ipo sponsor investor stat" />
       <item value="insert Or Update Sponsor Stat" />
       <item value="积分" />
@@ -55,12 +56,11 @@
       <item value="modify Req" />
       <item value="compare To" />
       <item value="Returns {@code true} if all tasks have completed following shut down. Note that {@code isTerminated} is never {@code true} unless either {@code shutdown} or {@code shutdownNow} was called first. @return {@code true} if all tasks have completed following shut down" />
-      <item value=" Broker Supplied System" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="672" />
-        <entry key="ENGLISH" value="672" />
+        <entry key="ENGLISH" value="673" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="4" />
@@ -78,7 +78,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1649223742021" />
+    <option name="lastTrimTime" value="1650359761912" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
