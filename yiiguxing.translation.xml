@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="379" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="第九" />
+      <item value="di" />
       <item value="gears" />
       <item value="interest" />
       <item value="Gear" />
@@ -54,13 +56,11 @@
       <item value="记录操作日志" />
       <item value="新增" />
       <item value="current" />
-      <item value="get Update by" />
-      <item value="modify Req" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="674" />
-        <entry key="ENGLISH" value="675" />
+        <entry key="CHINESE" value="679" />
+        <entry key="ENGLISH" value="680" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="4" />
