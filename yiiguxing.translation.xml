@@ -6,6 +6,14 @@
     <option name="newTranslationDialogX" value="379" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="绿色债券" />
+      <item value="绿色债q" />
+      <item value="绿色债" />
+      <item value="l债" />
+      <item value="债" />
+      <item value="zhai" />
+      <item value="zha" />
+      <item value="Bond" />
       <item value="push msg no qualified users found" />
       <item value="qualified" />
       <item value="兴证国际" />
@@ -48,19 +56,11 @@
       <item value="transaction time" />
       <item value="w" />
       <item value="re" />
-      <item value="remitter" />
-      <item value="remitter&#10;" />
-      <item value="statistics" />
-      <item value="Creator" />
-      <item value="This method can be used to determine if data can be written without blocking." />
-      <item value="determine" />
-      <item value="requested access to the resource is denied                                                                                                                                " />
-      <item value="requested access to the resource is denied                                                                                                                                   &#10;[root@izwz91z22t0bs3zf8v22vlz jdk]#     " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="695" />
-        <entry key="ENGLISH" value="696" />
+        <entry key="CHINESE" value="705" />
+        <entry key="ENGLISH" value="706" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="4" />
@@ -78,7 +78,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1652075035315" />
+    <option name="lastTrimTime" value="1652922585214" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
