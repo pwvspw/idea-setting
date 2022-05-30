@@ -6,6 +6,11 @@
     <option name="newTranslationDialogX" value="379" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="联名户" />
+      <item value="不允许" />
+      <item value="不" />
+      <item value="bu" />
+      <item value="ALLOW" />
       <item value="simplified" />
       <item value="生效" />
       <item value="失效" />
@@ -51,16 +56,11 @@
       <item value="转账" />
       <item value="zhuan z" />
       <item value="小数" />
-      <item value="xiao shu wei" />
-      <item value="xiao shu wei u" />
-      <item value="xiao shu" />
-      <item value="xa" />
-      <item value="phone" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="723" />
-        <entry key="ENGLISH" value="724" />
+        <entry key="CHINESE" value="746" />
+        <entry key="ENGLISH" value="747" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="4" />
