@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="379" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="participate" />
       <item value="negate" />
       <item value="negate Exact" />
       <item value="联名户" />
@@ -55,12 +56,11 @@
       <item value="App Message Device Bind Req" />
       <item value="allowed" />
       <item value="path" />
-      <item value="转账" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="748" />
-        <entry key="ENGLISH" value="749" />
+        <entry key="CHINESE" value="749" />
+        <entry key="ENGLISH" value="750" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="4" />
