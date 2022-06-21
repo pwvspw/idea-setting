@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="379" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="declaration" />
       <item value="declared" />
       <item value="Declaration" />
       <item value="Declare" />
@@ -55,12 +56,11 @@
       <item value="组播" />
       <item value="BROADCAST" />
       <item value="单位" />
-      <item value="frequently" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="781" />
-        <entry key="ENGLISH" value="782" />
+        <entry key="CHINESE" value="782" />
+        <entry key="ENGLISH" value="783" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
@@ -79,7 +79,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655346239260" />
+    <option name="lastTrimTime" value="1655781011709" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
