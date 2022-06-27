@@ -6,6 +6,12 @@
     <option name="newTranslationDialogX" value="379" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="subject to server side setting" />
+      <item value="subject to server  side setting" />
+      <item value="subject to server &#10;side setting" />
+      <item value="New login password cannot be used as it is used in the last ‘x’ login password(s)" />
+      <item value="New login password cannot be used as it is &#10;used in the last ‘x’ login password(s)" />
+      <item value="Login password violates password policy" />
       <item value="强制跳转" />
       <item value="强制" />
       <item value="qian zhi" />
@@ -50,16 +56,10 @@
       <item value="di" />
       <item value="gears" />
       <item value="interest" />
-      <item value="Gear" />
-      <item value="app ipo sponsor investor stat" />
-      <item value="insert Or Update Sponsor Stat" />
-      <item value="积分" />
-      <item value="integral" />
-      <item value="广播" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="789" />
+        <entry key="CHINESE" value="792" />
         <entry key="ENGLISH" value="790" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -79,7 +79,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655781011709" />
+    <option name="lastTrimTime" value="1656315337916" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
