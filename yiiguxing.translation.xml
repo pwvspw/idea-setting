@@ -6,6 +6,10 @@
     <option name="newTranslationDialogX" value="379" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="Identified candidate component class" />
+      <item value="component" />
+      <item value="candidate" />
+      <item value="Identified" />
       <item value="subject to server side setting" />
       <item value="subject to server  side setting" />
       <item value="subject to server &#10;side setting" />
@@ -52,15 +56,11 @@
       <item value="qualified" />
       <item value="兴证国际" />
       <item value="xu" />
-      <item value="第九" />
-      <item value="di" />
-      <item value="gears" />
-      <item value="interest" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="792" />
-        <entry key="ENGLISH" value="790" />
+        <entry key="CHINESE" value="793" />
+        <entry key="ENGLISH" value="794" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
