@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="379" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="今日上市的股票" />
       <item value="Identified candidate component class" />
       <item value="component" />
       <item value="candidate" />
@@ -55,11 +56,10 @@
       <item value="push msg no qualified users found" />
       <item value="qualified" />
       <item value="兴证国际" />
-      <item value="xu" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="793" />
+        <entry key="CHINESE" value="794" />
         <entry key="ENGLISH" value="794" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="BULGARIAN" value="1" />
