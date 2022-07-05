@@ -6,6 +6,10 @@
     <option name="newTranslationDialogX" value="379" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="重复" />
+      <item value="c" />
+      <item value="修改交易密码" />
+      <item value="x" />
       <item value="Sign in to GitHub.&#10;&#10;Navigate to your individual user settings or an organization's settings, depending on how you want the application registered. It does not matter if the application is registered as an individual or an organization - that is entirely up to you.&#10;&#10;Select &quot;Applications&quot; in the left menu.&#10;&#10;Select &quot;Register new application&quot;.&#10;&#10;Provide the required details.&#10;&#10;Application name: This can be anything. Consider something like &quot;&lt;Organization&gt;'s GitLab&quot; or &quot;&lt;Your Name&gt;'s GitLab&quot; or something else descriptive.&#10;Homepage URL: The URL to your GitLab installation. 'https://gitlab.company.com'&#10;Application description: Fill this in if you wish.&#10;Authorization callback URL: 'https://gitlab.company.com/'&#10;Select &quot;Register application&quot;.&#10;&#10;You should now see a Client ID and Client Secret near the top right of the page (see screenshot). Keep this page open as you continue configuration." />
       <item value="To enable importing projects from GitHub, as administrator you need to configure OAuth integration." />
       <item value="今日上市的股票" />
@@ -52,15 +56,11 @@
       <item value="绿色债" />
       <item value="l债" />
       <item value="债" />
-      <item value="zhai" />
-      <item value="zha" />
-      <item value="Bond" />
-      <item value="push msg no qualified users found" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="796" />
-        <entry key="ENGLISH" value="794" />
+        <entry key="CHINESE" value="809" />
+        <entry key="ENGLISH" value="807" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
@@ -79,7 +79,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1656315337916" />
+    <option name="lastTrimTime" value="1656999706773" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
