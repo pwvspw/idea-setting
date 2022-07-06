@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="379" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="汨" />
       <item value="全局" />
       <item value="失败的" />
       <item value="交易密码验证成功，去修改密码" />
@@ -55,7 +56,6 @@
       <item value="participate" />
       <item value="negate" />
       <item value="negate Exact" />
-      <item value="联名户" />
     </histories>
     <option name="languageScores">
       <map>
