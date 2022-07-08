@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="379" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="Deactivated" />
       <item value="Invalid Password" />
       <item value="remaining days of max password duration" />
       <item value=" absented" />
@@ -55,11 +56,10 @@
       <item value="xian" />
       <item value="像" />
       <item value="Broder" />
-      <item value="participate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="837" />
+        <entry key="CHINESE" value="838" />
         <entry key="ENGLISH" value="833" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="BULGARIAN" value="1" />
