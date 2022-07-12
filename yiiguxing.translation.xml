@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="379" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="this" />
       <item value="sentence" />
       <item value="Deprecated" />
       <item value="Deactivated" />
@@ -55,12 +56,11 @@
       <item value="i" />
       <item value="zi" />
       <item value="像谁" />
-      <item value="xian" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="838" />
-        <entry key="ENGLISH" value="835" />
+        <entry key="ENGLISH" value="836" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
@@ -79,7 +79,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1656999706773" />
+    <option name="lastTrimTime" value="1657605285585" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
