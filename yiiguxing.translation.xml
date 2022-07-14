@@ -6,13 +6,13 @@
     <option name="newTranslationDialogX" value="379" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="Deactivated" />
       <item value="Login password violates password policy" />
       <item value=" immediately" />
       <item value="Indicates login password changing options" />
       <item value="this" />
       <item value="sentence" />
       <item value="Deprecated" />
-      <item value="Deactivated" />
       <item value="Invalid Password" />
       <item value="remaining days of max password duration" />
       <item value=" absented" />
@@ -60,7 +60,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="841" />
-        <entry key="ENGLISH" value="836" />
+        <entry key="ENGLISH" value="837" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
