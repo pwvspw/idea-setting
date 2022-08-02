@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="379" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="Incorrect verification key" />
       <item value="This command may take a few minutes to run due to the large size of the repository.&#10;This restriction has been made on GitHub's request because updating shallow&#10;clones is an extremely expensive operation due to the tree layout and traffic of&#10;Homebrew/homebrew-core and Homebrew/homebrew-cask. We don't do this for you&#10;automatically to avoid repeatedly performing an expensive unshallow operation in&#10;CI systems (which should instead be fixed to not use shallow clones). Sorry for&#10;the inconvenience!" />
       <item value="没有近3个月上市的股票" />
       <item value="没有近3ge y" />
@@ -55,12 +56,11 @@
       <item value="subject to server &#10;side setting" />
       <item value="New login password cannot be used as it is &#10;used in the last ‘x’ login password(s)" />
       <item value="强制跳转" />
-      <item value="强制" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="856" />
-        <entry key="ENGLISH" value="852" />
+        <entry key="ENGLISH" value="853" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
@@ -79,7 +79,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1658734282603" />
+    <option name="lastTrimTime" value="1659432436123" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
