@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="379" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="Designated" />
+      <item value="New Password" />
       <item value="Incorrect verification key" />
       <item value="This command may take a few minutes to run due to the large size of the repository.&#10;This restriction has been made on GitHub's request because updating shallow&#10;clones is an extremely expensive operation due to the tree layout and traffic of&#10;Homebrew/homebrew-core and Homebrew/homebrew-cask. We don't do this for you&#10;automatically to avoid repeatedly performing an expensive unshallow operation in&#10;CI systems (which should instead be fixed to not use shallow clones). Sorry for&#10;the inconvenience!" />
       <item value="没有近3个月上市的股票" />
@@ -54,13 +56,11 @@
       <item value="subject to server side setting" />
       <item value="subject to server  side setting" />
       <item value="subject to server &#10;side setting" />
-      <item value="New login password cannot be used as it is &#10;used in the last ‘x’ login password(s)" />
-      <item value="强制跳转" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="856" />
-        <entry key="ENGLISH" value="853" />
+        <entry key="CHINESE" value="858" />
+        <entry key="ENGLISH" value="854" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
