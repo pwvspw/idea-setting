@@ -6,6 +6,15 @@
     <option name="newTranslationDialogX" value="379" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="删除重复的声明" />
+      <item value="删除重复的shen min" />
+      <item value="duplicate" />
+      <item value="添加spring依赖" />
+      <item value="添加springyi lai" />
+      <item value="添加springy" />
+      <item value="添加spring" />
+      <item value="添加s" />
+      <item value="添加" />
       <item value="testWhileIdle is true, validationQuery not set" />
       <item value="高级" />
       <item value="deprecated" />
@@ -47,20 +56,11 @@
       <item value="is subject to server side setting" />
       <item value="重复" />
       <item value="c" />
-      <item value="修改交易密码" />
-      <item value="x" />
-      <item value="Sign in to GitHub.&#10;&#10;Navigate to your individual user settings or an organization's settings, depending on how you want the application registered. It does not matter if the application is registered as an individual or an organization - that is entirely up to you.&#10;&#10;Select &quot;Applications&quot; in the left menu.&#10;&#10;Select &quot;Register new application&quot;.&#10;&#10;Provide the required details.&#10;&#10;Application name: This can be anything. Consider something like &quot;&lt;Organization&gt;'s GitLab&quot; or &quot;&lt;Your Name&gt;'s GitLab&quot; or something else descriptive.&#10;Homepage URL: The URL to your GitLab installation. 'https://gitlab.company.com'&#10;Application description: Fill this in if you wish.&#10;Authorization callback URL: 'https://gitlab.company.com/'&#10;Select &quot;Register application&quot;.&#10;&#10;You should now see a Client ID and Client Secret near the top right of the page (see screenshot). Keep this page open as you continue configuration." />
-      <item value="To enable importing projects from GitHub, as administrator you need to configure OAuth integration." />
-      <item value="今日上市的股票" />
-      <item value="Identified candidate component class" />
-      <item value="component" />
-      <item value="candidate" />
-      <item value="Identified" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="864" />
-        <entry key="ENGLISH" value="862" />
+        <entry key="CHINESE" value="880" />
+        <entry key="ENGLISH" value="879" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
