@@ -3,6 +3,7 @@
     <ignoreFiles list="*.classpath;*.iml;*.project;*.pyc;*.pyo;*.rbc;*.settings;*.yarb;*~;.DS_Store;.git;.gitattributes;.gitignore;.gitkeep;.hg;.idea;.svn;CVS;__pycache__;_svn;rebel.xml;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping ext="idea" type="ActionScript" />
+      <mapping ext="applicationcontextconfig" type="JAVA" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="der" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
