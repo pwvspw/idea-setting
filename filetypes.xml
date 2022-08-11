@@ -12,8 +12,12 @@
       <mapping pattern="apk" type="Properties" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="applicationcontextconfig" approved="true" type="JAVA" />
+      <removed_mapping ext="class" approved="true" type="CLASS" />
+      <removed_mapping ext="class" approved="true" type="GitIgnore file" />
+      <removed_mapping ext="classes" approved="true" type="GitIgnore file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="ttf" approved="true" type="Font" />
+      <removed_mapping pattern="*target" approved="true" type="GitIgnore file" />
       <removed_mapping pattern="target" approved="true" type="GitIgnore file" />
       <removed_mapping pattern="target/" approved="true" type="GitIgnore file" />
     </extensionMap>
