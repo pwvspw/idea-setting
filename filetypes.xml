@@ -3,6 +3,7 @@
     <ignoreFiles list="*.classpath;*.iml;*.project;*.pyc;*.pyo;*.rbc;*.settings;*.yarb;*~;.DS_Store;.git;.gitattributes;.gitignore;.gitkeep;.hg;.idea;.svn;CVS;__pycache__;_svn;rebel.xml;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping ext="idea" type="ActionScript" />
+      <mapping ext="class" type="CLASS" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="der" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
@@ -12,7 +13,6 @@
       <mapping pattern="apk" type="Properties" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="applicationcontextconfig" approved="true" type="JAVA" />
-      <removed_mapping ext="class" approved="true" type="CLASS" />
       <removed_mapping ext="class" approved="true" type="GitIgnore file" />
       <removed_mapping ext="classes" approved="true" type="GitIgnore file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
