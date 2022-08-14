@@ -6,6 +6,10 @@
     <option name="newTranslationDialogX" value="391" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="evict" />
+      <item value="breaker" />
+      <item value="circuit" />
+      <item value="Circuit" />
       <item value="Attention!" />
       <item value="请注意" />
       <item value="Hystrix" />
@@ -52,15 +56,11 @@
       <item value="没有近3ge y" />
       <item value="没有jin" />
       <item value="日志关键字" />
-      <item value="ri z" />
-      <item value="ri" />
-      <item value="stop loss" />
-      <item value="stop profit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="923" />
-        <entry key="ENGLISH" value="923" />
+        <entry key="CHINESE" value="926" />
+        <entry key="ENGLISH" value="927" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
