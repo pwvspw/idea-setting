@@ -6,6 +6,11 @@
     <option name="newTranslationDialogX" value="391" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="第二个客户端" />
+      <item value="第二个" />
+      <item value="第二ge" />
+      <item value="第二哥" />
+      <item value="di" />
       <item value="切换" />
       <item value="qie hua" />
       <item value="切换仓库中心" />
@@ -51,16 +56,11 @@
       <item value="服务提供者注册" />
       <item value="fu wu" />
       <item value="抽取公共模块" />
-      <item value="抽取公共mo k" />
-      <item value="抽取公共mo" />
-      <item value="抽取公共m" />
-      <item value="chou qu" />
-      <item value="chou" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="967" />
-        <entry key="ENGLISH" value="968" />
+        <entry key="CHINESE" value="970" />
+        <entry key="ENGLISH" value="971" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
