@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="391" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="Enter file in which the key is" />
       <item value="optional" />
       <item value="Network level connection to peer localhost" />
       <item value="相关" />
@@ -55,11 +56,10 @@
       <item value="添加spring" />
       <item value="添加s" />
       <item value="添加" />
-      <item value="testWhileIdle is true, validationQuery not set" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="944" />
+        <entry key="CHINESE" value="945" />
         <entry key="ENGLISH" value="945" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="BULGARIAN" value="1" />
