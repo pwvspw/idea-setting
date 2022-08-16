@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="391" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="Running the evict task with compensationTime" />
       <item value="sleuth" />
       <item value="第二个客户端" />
       <item value="第二个" />
@@ -55,12 +56,11 @@
       <item value="服务提供者注册进" />
       <item value="服务提供者注册jin" />
       <item value="服务提供者注册" />
-      <item value="fu wu" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="971" />
-        <entry key="ENGLISH" value="972" />
+        <entry key="CHINESE" value="972" />
+        <entry key="ENGLISH" value="973" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
