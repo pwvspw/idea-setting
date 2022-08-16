@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="391" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="This version mainly upgrade the spring boot version to 2.6.6 to fix some spring's security problem, and apply many enhancements from 2.X." />
       <item value="consumer" />
       <item value="深业上城" />
       <item value="server Port" />
@@ -55,11 +56,10 @@
       <item value="add comment" />
       <item value="thread sleep 3 second..." />
       <item value="Visiable" />
-      <item value="failContinuous is false" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="995" />
+        <entry key="CHINESE" value="996" />
         <entry key="ENGLISH" value="996" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="BULGARIAN" value="1" />
