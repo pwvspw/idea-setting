@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="391" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="purchasing Power" />
       <item value="Traffic Shaping Controller" />
       <item value="threshold" />
       <item value="stable" />
@@ -55,12 +56,11 @@
       <item value="Circuit" />
       <item value="Attention!" />
       <item value="请注意" />
-      <item value="Hystrix" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="999" />
-        <entry key="ENGLISH" value="999" />
+        <entry key="ENGLISH" value="1000" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
