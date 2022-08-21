@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="391" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="Milestones" />
       <item value="migrate" />
       <item value="Feign" />
       <item value="触发熔断，这是自定义会退方法" />
@@ -55,12 +56,11 @@
       <item value="q" />
       <item value="fetch" />
       <item value="Enter file in which the key is" />
-      <item value="optional" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1030" />
-        <entry key="ENGLISH" value="1031" />
+        <entry key="CHINESE" value="1031" />
+        <entry key="ENGLISH" value="1032" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
