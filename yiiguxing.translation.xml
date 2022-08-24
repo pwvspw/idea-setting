@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="391" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="conflict" />
+      <item value="resolve" />
       <item value="artifact Id" />
       <item value="embedded" />
       <item value="ware" />
@@ -54,13 +56,11 @@
       <item value="切换仓库" />
       <item value="切换can k" />
       <item value="切换git" />
-      <item value="切换gi t" />
-      <item value="qi huan" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1033" />
-        <entry key="ENGLISH" value="1034" />
+        <entry key="CHINESE" value="1035" />
+        <entry key="ENGLISH" value="1036" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
