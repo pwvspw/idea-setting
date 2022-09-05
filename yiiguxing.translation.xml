@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="391" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="撤销" />
+      <item value="che" />
       <item value="Clinic" />
       <item value="诊股信箱" />
       <item value="问股信箱" />
@@ -54,13 +56,11 @@
       <item value="server Port" />
       <item value="feign" />
       <item value="payment feign timeout" />
-      <item value="issue" />
-      <item value="Maintenance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1080" />
-        <entry key="ENGLISH" value="1080" />
+        <entry key="CHINESE" value="1087" />
+        <entry key="ENGLISH" value="1087" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
