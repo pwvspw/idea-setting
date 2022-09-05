@@ -6,6 +6,12 @@
     <option name="newTranslationDialogX" value="391" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="Clinic" />
+      <item value="诊股信箱" />
+      <item value="问股信箱" />
+      <item value="问股xin" />
+      <item value="问股" />
+      <item value="app_stock_inquiry" />
       <item value="签名认证开关" />
       <item value="签名认证kai g" />
       <item value="签名" />
@@ -50,17 +56,11 @@
       <item value="payment feign timeout" />
       <item value="issue" />
       <item value="Maintenance" />
-      <item value="Maintenance Mode" />
-      <item value="Entering Maintenance Mode" />
-      <item value="Running the evict task with compensationTime" />
-      <item value="sleuth" />
-      <item value="第二个客户端" />
-      <item value="第二个" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1061" />
-        <entry key="ENGLISH" value="1062" />
+        <entry key="CHINESE" value="1080" />
+        <entry key="ENGLISH" value="1080" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
