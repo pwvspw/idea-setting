@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="391" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="established" />
       <item value="featured" />
       <item value="feature" />
       <item value="精选提问" />
@@ -55,12 +56,11 @@
       <item value="Traffic Shaping Controller" />
       <item value="threshold" />
       <item value="stable" />
-      <item value="First password login success, 2FA is needed (For 2FA mode)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1107" />
-        <entry key="ENGLISH" value="1108" />
+        <entry key="CHINESE" value="1108" />
+        <entry key="ENGLISH" value="1109" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
