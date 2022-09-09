@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="391" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="生成" />
+      <item value="generator" />
       <item value="Parent dependency not found, it is probably in the parent pom" />
       <item value="established" />
       <item value="featured" />
@@ -54,13 +56,11 @@
       <item value="熔断" />
       <item value="ro" />
       <item value="purchasing Power" />
-      <item value="Traffic Shaping Controller" />
-      <item value="threshold" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1109" />
-        <entry key="ENGLISH" value="1110" />
+        <entry key="CHINESE" value="1119" />
+        <entry key="ENGLISH" value="1120" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
