@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="391" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="current Time Millis" />
       <item value="Establishing SSL connection without server's identity verification is not recommended" />
       <item value="recommended" />
       <item value="delegate" />
@@ -55,12 +56,11 @@
       <item value="触发熔断，hui ch" />
       <item value="触发熔断，hui" />
       <item value="触发熔断，" />
-      <item value="触发熔断，mo ren" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1123" />
-        <entry key="ENGLISH" value="1124" />
+        <entry key="CHINESE" value="1124" />
+        <entry key="ENGLISH" value="1125" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
