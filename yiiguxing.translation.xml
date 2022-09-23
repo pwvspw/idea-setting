@@ -6,6 +6,10 @@
     <option name="newTranslationDialogX" value="391" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="大陆" />
+      <item value="da lu" />
+      <item value="da l" />
+      <item value="da" />
       <item value="cancel_dormant" />
       <item value="dormant" />
       <item value="Approve" />
@@ -52,15 +56,11 @@
       <item value="conflict" />
       <item value="resolve" />
       <item value="artifact Id" />
-      <item value="embedded" />
-      <item value="ware" />
-      <item value="Milestones" />
-      <item value="migrate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1136" />
-        <entry key="ENGLISH" value="1135" />
+        <entry key="CHINESE" value="1141" />
+        <entry key="ENGLISH" value="1140" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
