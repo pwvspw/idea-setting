@@ -6,13 +6,13 @@
     <option name="newTranslationDialogX" value="391" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="Approve" />
       <item value="大陆" />
       <item value="da lu" />
       <item value="da l" />
       <item value="da" />
       <item value="cancel_dormant" />
       <item value="dormant" />
-      <item value="Approve" />
       <item value="办理" />
       <item value="Returns a comparator that imposes the reverse ordering of this comparator. Returns: a comparator that imposes the reverse ordering of this comparator." />
       <item value="define" />
@@ -60,7 +60,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1141" />
-        <entry key="ENGLISH" value="1140" />
+        <entry key="ENGLISH" value="1141" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
