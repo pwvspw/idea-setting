@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="391" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="candidate" />
       <item value="Approve" />
       <item value="大陆" />
       <item value="da lu" />
@@ -55,12 +56,11 @@
       <item value="zh" />
       <item value="conflict" />
       <item value="resolve" />
-      <item value="artifact Id" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1141" />
-        <entry key="ENGLISH" value="1141" />
+        <entry key="ENGLISH" value="1142" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
