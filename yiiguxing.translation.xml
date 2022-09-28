@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="391" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="basanite" />
       <item value="candidate" />
       <item value="Approve" />
       <item value="大陆" />
@@ -55,7 +56,6 @@
       <item value="zhi din" />
       <item value="zh" />
       <item value="conflict" />
-      <item value="resolve" />
     </histories>
     <option name="languageScores">
       <map>
