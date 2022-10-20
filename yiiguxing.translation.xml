@@ -5,7 +5,13 @@
     <option name="newTranslationDialogWidth" value="932" />
     <option name="newTranslationDialogX" value="391" />
     <option name="newTranslationDialogY" value="289" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Acclogin Resp" />
+      <item value="equals" />
+      <item value="resp" />
+      <item value="verification" />
+      <item value="Fund Err Enum" />
       <item value="录入" />
       <item value="Dormant" />
       <item value="basanite" />
@@ -51,16 +57,11 @@
       <item value="签名认证开关" />
       <item value="签名认证kai g" />
       <item value="签名" />
-      <item value="摘要" />
-      <item value="z" />
-      <item value="assign" />
-      <item value="指定" />
-      <item value="zhi din" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1141" />
-        <entry key="ENGLISH" value="1142" />
+        <entry key="CHINESE" value="1153" />
+        <entry key="ENGLISH" value="1154" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
@@ -79,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1664154078254" />
+    <option name="lastTrimTime" value="1666245690041" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
