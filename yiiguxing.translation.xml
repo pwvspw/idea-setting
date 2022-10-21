@@ -7,6 +7,11 @@
     <option name="newTranslationDialogY" value="289" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="build Message" />
+      <item value="get Code" />
+      <item value="COMM PROC APPLY ERROR" />
+      <item value="build Code" />
+      <item value="Nethall Err Enum" />
       <item value="Acclogin Resp" />
       <item value="equals" />
       <item value="resp" />
@@ -52,16 +57,11 @@
       <item value="诊股信箱" />
       <item value="问股信箱" />
       <item value="问股xin" />
-      <item value="问股" />
-      <item value="app_stock_inquiry" />
-      <item value="签名认证开关" />
-      <item value="签名认证kai g" />
-      <item value="签名" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1153" />
-        <entry key="ENGLISH" value="1154" />
+        <entry key="CHINESE" value="1156" />
+        <entry key="ENGLISH" value="1157" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
