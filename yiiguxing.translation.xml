@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="289" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="indicate" />
       <item value="排队" />
       <item value="pai duui" />
       <item value="审核" />
@@ -56,7 +57,6 @@
       <item value="wei" />
       <item value="撤销" />
       <item value="che" />
-      <item value="Clinic" />
     </histories>
     <option name="languageScores">
       <map>
