@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="289" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="不动户判断" />
+      <item value="bu" />
       <item value="indicate" />
       <item value="排队" />
       <item value="pai duui" />
@@ -55,13 +57,11 @@
       <item value="原始" />
       <item value="未处理" />
       <item value="wei" />
-      <item value="撤销" />
-      <item value="che" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1171" />
-        <entry key="ENGLISH" value="1172" />
+        <entry key="CHINESE" value="1179" />
+        <entry key="ENGLISH" value="1180" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
