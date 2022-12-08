@@ -96,4 +96,13 @@
       </youdao-translate>
     </option>
   </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1670489501523" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="process Param" />
+      <item value="sent Process Submit" />
+    </histories>
+  </component>
 </application>
