@@ -97,7 +97,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1672297105286" />
+    <option name="lastTrimTime" value="1672819113983" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -119,6 +119,19 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="Margin Info Req" />
+      <item value="this product contains nicotine. Nicotine is an addictive chemical" />
+      <item value="this product contains nicotine. Nicotine is an addictive " />
+      <item value="this product contains nicotine. Nicotine is an addic" />
+      <item value="this product contains nicotine. Nic" />
+      <item value="this product contains nicotine. Ni" />
+      <item value="this product contains nicotine. N" />
+      <item value="this product contains nicotine. Noti" />
+      <item value="this product contains nicotine" />
+      <item value="this product contains nicoti" />
+      <item value="this product contains nico" />
+      <item value="this product contains nic" />
+      <item value="this product contains" />
       <item value="Control" />
       <item value="风控" />
       <item value="market Switch" />
@@ -148,8 +161,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="17" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="18" />
       </map>
     </option>
   </component>
