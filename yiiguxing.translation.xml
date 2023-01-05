@@ -119,6 +119,8 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="get Next Marker" />
+      <item value="object Listing" />
       <item value="Margin Info Req" />
       <item value="this product contains nicotine. Nicotine is an addictive chemical" />
       <item value="this product contains nicotine. Nicotine is an addictive " />
@@ -161,8 +163,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="CHINESE" value="20" />
+        <entry key="ENGLISH" value="20" />
       </map>
     </option>
   </component>
