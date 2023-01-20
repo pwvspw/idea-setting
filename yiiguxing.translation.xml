@@ -97,7 +97,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1672819113983" />
+    <option name="lastTrimTime" value="1674220958916" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="SUNDAY" />
       <item value="Causes the currently executing thread to sleep (temporarily cease execution) for the specified number of milliseconds, subject to the precision and accuracy of system timers and schedulers. The thread does not lose ownership of any monitors. Params: millis – the length of time to sleep in milliseconds Throws: IllegalArgumentException – if the value of millis is negative InterruptedException – if any thread has interrupted the current thread. The interrupted status of the current thread is cleared when this exception is thrown." />
       <item value="millis" />
       <item value="The problem it is looking at is not that Thread.sleep. That is not the problem. However, intellij's detector of this pattern needs it to find this case, but it is not what it is complaining about, which might be a little hard to wrap your head around.&#10;&#10;What IntelliJ is worried about, is that you're wasting cycles continually rechecking log.isEmpty() for no reason. It has a problem with the while aspect of this code, not the sleep. It would prefer to see code where you invoke some sort of logs.poll() method which will just wait until it is actively woken up by the act of new logs appearing.&#10;&#10;" />
@@ -171,8 +172,8 @@
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="21" />
+        <entry key="CHINESE" value="23" />
+        <entry key="ENGLISH" value="22" />
       </map>
     </option>
   </component>
