@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="SATURDAY" />
       <item value="SUNDAY" />
       <item value="Causes the currently executing thread to sleep (temporarily cease execution) for the specified number of milliseconds, subject to the precision and accuracy of system timers and schedulers. The thread does not lose ownership of any monitors. Params: millis – the length of time to sleep in milliseconds Throws: IllegalArgumentException – if the value of millis is negative InterruptedException – if any thread has interrupted the current thread. The interrupted status of the current thread is cleared when this exception is thrown." />
       <item value="millis" />
@@ -172,8 +173,8 @@
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="23" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="CHINESE" value="26" />
+        <entry key="ENGLISH" value="25" />
       </map>
     </option>
   </component>
