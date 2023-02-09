@@ -97,7 +97,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1675157266826" />
+    <option name="lastTrimTime" value="1675928169293" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -119,6 +119,10 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="class" />
+      <item value="content" />
+      <item value="兴证国际金融集团有限公司" />
+      <item value="omission" />
       <item value="negate Exact" />
       <item value="capital" />
       <item value="minimumcapital" />
@@ -165,16 +169,12 @@
       <item value="海内存知己" />
       <item value="hai nei cun zhi" />
       <item value="request Account Fetch" />
-      <item value="get Account Identity By Account No" />
-      <item value="account no" />
-      <item value="is Dormant" />
-      <item value="Id Card Util" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="27" />
+        <entry key="CHINESE" value="32" />
+        <entry key="ENGLISH" value="30" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
