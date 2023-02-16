@@ -119,6 +119,9 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="scene" />
+      <item value="场景" />
+      <item value="模板" />
       <item value="subtract" />
       <item value="class" />
       <item value="content" />
@@ -166,9 +169,6 @@
       <item value="use serialVersionUID from JDK 1.0.2 for interoperability" />
       <item value="apply Status" />
       <item value="Cancel Dormant Info Resp" />
-      <item value="Sea memory confidant" />
-      <item value="海内存知己" />
-      <item value="hai nei cun zhi" />
     </histories>
     <option name="languageScores">
       <map>
