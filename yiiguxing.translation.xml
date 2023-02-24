@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="backslash" />
       <item value="protected" />
       <item value="scene" />
       <item value="场景" />
@@ -168,13 +169,12 @@
       <item value="sdfsdf" />
       <item value="String" />
       <item value="use serialVersionUID from JDK 1.0.2 for interoperability" />
-      <item value="apply Status" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="32" />
+        <entry key="CHINESE" value="35" />
+        <entry key="ENGLISH" value="33" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
