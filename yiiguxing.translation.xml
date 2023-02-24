@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="create File Exclusively" />
       <item value="backslash" />
       <item value="protected" />
       <item value="scene" />
@@ -168,13 +169,12 @@
       <item value="Security User Operation Log" />
       <item value="sdfsdf" />
       <item value="String" />
-      <item value="use serialVersionUID from JDK 1.0.2 for interoperability" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="34" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
