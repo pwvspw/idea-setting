@@ -119,6 +119,13 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="Set up a socket connection and sign on" />
+      <item value="建立socket连接并登录" />
+      <item value="建立socketlian jie" />
+      <item value="建立socketlian jia" />
+      <item value="建立socketlian ji" />
+      <item value="建立so" />
+      <item value="jian" />
       <item value="Detectors" />
       <item value="createDetectors" />
       <item value="Classification" />
@@ -162,19 +169,12 @@
       <item value="Margin Info Req" />
       <item value="this product contains nicotine. Nicotine is an addictive chemical" />
       <item value="this product contains nicotine. Nicotine is an addictive " />
-      <item value="this product contains nicotine. Nicotine is an addic" />
-      <item value="this product contains nicotine. Nic" />
-      <item value="this product contains nicotine. Ni" />
-      <item value="this product contains nicotine. N" />
-      <item value="this product contains nicotine. Noti" />
-      <item value="this product contains nicotine" />
-      <item value="this product contains nicoti" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="38" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
