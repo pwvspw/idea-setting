@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="Deactivated Account" />
       <item value="特定的" />
       <item value="Specific" />
       <item value="建立socket连接" />
@@ -168,7 +169,6 @@
       <item value="capital" />
       <item value="minimumcapital" />
       <item value="SATURDAY" />
-      <item value="SUNDAY" />
     </histories>
     <option name="languageScores">
       <map>
