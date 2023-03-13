@@ -97,7 +97,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1678072044263" />
+    <option name="lastTrimTime" value="1678695879287" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -119,6 +119,8 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="Sets a specified timeout value, in milliseconds, to be used when opening a communications link to the resource referenced by this URLConnection. If the timeout expires before the connection can be established, a java.net.SocketTimeoutException is raised. A timeout of zero is interpreted as an infinite timeout. Some non-standard implementation of this method may ignore the specified timeout. To see the connect timeout set, please call getConnectTimeout()." />
+      <item value="Sets a specified timeout value, in milliseconds, to be used when opening a communications link to the resource referenced by this URLConnection. If the timeout expires before the connection can be established, a java.net.SocketTimeoutException is raised. A timeout of zero is interpreted as an infinite timeout. Some non-standard implementation of this method may ignore the specified timeout. To see the connect timeout set, please call getConnectTimeout(). Params:" />
       <item value="Deactivated Account" />
       <item value="特定的" />
       <item value="Specific" />
@@ -167,14 +169,12 @@
       <item value="omission" />
       <item value="negate Exact" />
       <item value="capital" />
-      <item value="minimumcapital" />
-      <item value="SATURDAY" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="39" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="40" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
