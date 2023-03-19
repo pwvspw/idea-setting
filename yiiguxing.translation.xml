@@ -97,7 +97,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1678695879287" />
+    <option name="lastTrimTime" value="1679237973061" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="Available even when demand is high&#10;Faster response speed&#10;Priority access to new features" />
       <item value="Push Email Extra Part" />
       <item value="You can graceful shutdown now" />
       <item value="Sets a specified timeout value, in milliseconds, to be used when opening a communications link to the resource referenced by this URLConnection. If the timeout expires before the connection can be established, a java.net.SocketTimeoutException is raised. A timeout of zero is interpreted as an infinite timeout. Some non-standard implementation of this method may ignore the specified timeout. To see the connect timeout set, please call getConnectTimeout()." />
@@ -168,7 +169,6 @@
       <item value="class" />
       <item value="content" />
       <item value="兴证国际金融集团有限公司" />
-      <item value="omission" />
     </histories>
     <option name="languageScores">
       <map>
