@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="Reads a line of text. A line is considered to be terminated by any one of a line feed ('\n'), a carriage return ('\r'), or a carriage return followed immediately by a linefeed. Returns: A String containing the contents of the line, not including any line-termination characters, or null if the end of the stream has been reached" />
       <item value="Available even when demand is high&#10;Faster response speed&#10;Priority access to new features" />
       <item value="Push Email Extra Part" />
       <item value="You can graceful shutdown now" />
@@ -168,13 +169,12 @@
       <item value="subtract" />
       <item value="class" />
       <item value="content" />
-      <item value="兴证国际金融集团有限公司" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="44" />
+        <entry key="ENGLISH" value="42" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
