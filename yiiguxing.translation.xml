@@ -119,6 +119,11 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="comma separated values" />
+      <item value="comma separated " />
+      <item value="comma sepa" />
+      <item value="comma sepatat" />
+      <item value="comma sepe" />
       <item value="SUNDAY" />
       <item value="SATURDAY" />
       <item value="Reads a line of text. A line is considered to be terminated by any one of a line feed ('\n'), a carriage return ('\r'), or a carriage return followed immediately by a linefeed. Returns: A String containing the contents of the line, not including any line-termination characters, or null if the end of the stream has been reached" />
@@ -164,11 +169,6 @@
       <item value="Annotation-specified" />
       <item value="create File Exclusively" />
       <item value="backslash" />
-      <item value="protected" />
-      <item value="scene" />
-      <item value="场景" />
-      <item value="模板" />
-      <item value="subtract" />
     </histories>
     <option name="languageScores">
       <map>
