@@ -119,6 +119,9 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="negate Exact" />
+      <item value="negate" />
+      <item value="remaining Amount" />
       <item value="Replaces each substring of this string that matches the given regular expression with the given replacement." />
       <item value="Replaces each substring of this string that matches the literal target sequence with the specified literal replacement sequence. The replacement proceeds from the beginning of the string to the end, for example, replacing &quot;aa&quot; with &quot;b&quot; in the string &quot;aaa&quot; will result in &quot;ba&quot; rather than &quot;ab&quot;." />
       <item value="Returns the index within this string of the first occurrence of the specified substring. The returned index is the smallest value k for which: this.startsWith(str, k) If no such value of k exists, then -1 is returned. Params: str – the substring to search for. Returns: the index of the first occurrence of the specified substring, or -1 if there is no such occurrence." />
@@ -166,15 +169,12 @@
       <item value="SECONDS" />
       <item value="is Zoom" />
       <item value="Executes the SQL statement in this PreparedStatement object, which must be an SQL Data Manipulation Language (DML) statement, such as INSERT, UPDATE or DELETE; or an SQL statement that returns nothing, such as a DDL statement. Returns: either (1) the row count for SQL Data Manipulation Language (DML) statements or (2) 0 for SQL statements that return nothing Throws: SQLTimeoutException – when the driver has determined that the timeout value that was specified by the setQueryTimeout method has been exceeded and has at least attempted to cancel the currently running Statement SQLException – if a database access error occurs; this method is called on a closed PreparedStatement or the SQL statement returns a ResultSet object" />
-      <item value="动态" />
-      <item value="Annotation specified" />
-      <item value="Annotation" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="CHINESE" value="53" />
+        <entry key="ENGLISH" value="51" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
