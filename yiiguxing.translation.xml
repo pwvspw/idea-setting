@@ -119,12 +119,12 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
-      <item value="praise" />
       <item value="赞" />
-      <item value="赞同" />
       <item value="zan" />
-      <item value="点赞数" />
       <item value="点赞" />
+      <item value="praise" />
+      <item value="赞同" />
+      <item value="点赞数" />
       <item value="avatar" />
       <item value="negate Exact" />
       <item value="negate" />
