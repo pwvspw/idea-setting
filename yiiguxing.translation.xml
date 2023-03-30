@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="Sneaky Throws" />
       <item value="repeat" />
       <item value="重复连接" />
       <item value="重复" />
@@ -168,13 +169,12 @@
       <item value="建立socket连接并登录" />
       <item value="建立socketlian jie" />
       <item value="建立socketlian jia" />
-      <item value="建立socketlian ji" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="58" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="CHINESE" value="59" />
+        <entry key="ENGLISH" value="56" />
         <entry key="FRENCH" value="1" />
         <entry key="SLOVENIAN" value="1" />
       </map>
