@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="wizard" />
       <item value="startxref" />
       <item value="PDF startxref" />
       <item value="PDF startxref not found" />
@@ -168,7 +169,6 @@
       <item value="gray" />
       <item value="theme grey" />
       <item value="theme_grey" />
-      <item value="Set up a socket connection and sign on" />
     </histories>
     <option name="languageScores">
       <map>
