@@ -97,7 +97,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1679883750982" />
+    <option name="lastTrimTime" value="1681090718307" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="CISI" />
       <item value="wizard" />
       <item value="startxref" />
       <item value="PDF startxref" />
@@ -168,15 +169,15 @@
       <item value="gr" />
       <item value="gray" />
       <item value="theme grey" />
-      <item value="theme_grey" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="59" />
+        <entry key="CHINESE" value="60" />
         <entry key="ENGLISH" value="56" />
         <entry key="FRENCH" value="1" />
         <entry key="SLOVENIAN" value="1" />
+        <entry key="TURKISH" value="1" />
       </map>
     </option>
   </component>
