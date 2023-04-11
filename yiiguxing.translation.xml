@@ -119,6 +119,9 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="已失效" />
+      <item value="yi失效" />
+      <item value="失效" />
       <item value="传统" />
       <item value="union" />
       <item value="CISI" />
@@ -166,9 +169,6 @@
       <item value="te" />
       <item value="IP address for audit trail" />
       <item value=" “A” is used to identify the specific type of message" />
-      <item value=" “A” is used to identify the specific type of &#10;message" />
-      <item value="grey" />
-      <item value="gr" />
     </histories>
     <option name="languageScores">
       <map>
