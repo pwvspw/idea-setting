@@ -48,7 +48,7 @@
       <option name="JSP" value="true" />
     </context>
   </template>
-  <template name="///" value="/**&#10; * $END$&#10; * @author $user$&#10; * @date $date$&#10; */" shortcut="ENTER" description="method comment with author" toReformat="false" toShortenFQNames="true">
+  <template name="///" value="/**&#10; * 描述：$END$&#10; * @author $user$&#10; * @since $date$&#10; */" shortcut="ENTER" description="method comment with author" toReformat="false" toShortenFQNames="true">
     <variable name="user" expression="user()" defaultValue="" alwaysStopAt="false" />
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
     <context>
