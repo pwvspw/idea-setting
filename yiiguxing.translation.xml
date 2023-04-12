@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="object" />
       <item value="Deprecated" />
       <item value="已失效" />
       <item value="yi失效" />
@@ -168,7 +169,6 @@
       <item value="Specific" />
       <item value="建立socket连接" />
       <item value="te" />
-      <item value="IP address for audit trail" />
     </histories>
     <option name="languageScores">
       <map>
