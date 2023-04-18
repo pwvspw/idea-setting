@@ -146,6 +146,10 @@
           <option name="url" value="http://120.78.240.108:10080/server/fileway.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.25.109.107" />
+          <option name="userName" value="liuziwen" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/xzgj" />
