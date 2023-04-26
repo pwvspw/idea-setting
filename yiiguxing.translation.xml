@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="register" />
       <item value="认购费率" />
       <item value="credit controlled" />
       <item value="Accrued interest" />
@@ -168,13 +169,12 @@
       <item value="You can graceful shutdown now" />
       <item value="Sets a specified timeout value, in milliseconds, to be used when opening a communications link to the resource referenced by this URLConnection. If the timeout expires before the connection can be established, a java.net.SocketTimeoutException is raised. A timeout of zero is interpreted as an infinite timeout. Some non-standard implementation of this method may ignore the specified timeout. To see the connect timeout set, please call getConnectTimeout()." />
       <item value="Sets a specified timeout value, in milliseconds, to be used when opening a communications link to the resource referenced by this URLConnection. If the timeout expires before the connection can be established, a java.net.SocketTimeoutException is raised. A timeout of zero is interpreted as an infinite timeout. Some non-standard implementation of this method may ignore the specified timeout. To see the connect timeout set, please call getConnectTimeout(). Params:" />
-      <item value="Deactivated Account" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="67" />
+        <entry key="ENGLISH" value="63" />
         <entry key="FRENCH" value="1" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="TURKISH" value="1" />
