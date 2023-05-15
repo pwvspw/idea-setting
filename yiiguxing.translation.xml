@@ -119,6 +119,8 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="specification" />
+      <item value="options" />
       <item value="excluded from annotation processing" />
       <item value="Annotation processing is not supported for module cycles. Please ensure that all modules from cycle" />
       <item value="cycle" />
@@ -167,8 +169,6 @@
       <item value="Replaces each substring of this string that matches the literal target sequence with the specified literal replacement sequence. The replacement proceeds from the beginning of the string to the end, for example, replacing &quot;aa&quot; with &quot;b&quot; in the string &quot;aaa&quot; will result in &quot;ba&quot; rather than &quot;ab&quot;." />
       <item value="Returns the index within this string of the first occurrence of the specified substring. The returned index is the smallest value k for which: this.startsWith(str, k) If no such value of k exists, then -1 is returned. Params: str – the substring to search for. Returns: the index of the first occurrence of the specified substring, or -1 if there is no such occurrence." />
       <item value="comma separated values" />
-      <item value="comma separated " />
-      <item value="comma sepa" />
     </histories>
     <option name="languageScores">
       <map>
