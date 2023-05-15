@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="Annotation processing is not supported for module cycles. Please ensure that all modules from cycle" />
       <item value="cycle" />
       <item value="认购" />
       <item value="r" />
@@ -168,13 +169,12 @@
       <item value="comma separated " />
       <item value="comma sepa" />
       <item value="comma sepatat" />
-      <item value="comma sepe" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="CHINESE" value="69" />
+        <entry key="ENGLISH" value="65" />
         <entry key="FRENCH" value="1" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="TURKISH" value="1" />
