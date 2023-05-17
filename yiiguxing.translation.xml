@@ -119,6 +119,11 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="反馈" />
+      <item value="fan" />
+      <item value="平安保险" />
+      <item value="保险" />
+      <item value="bao o" />
       <item value="REDEMP" />
       <item value="specification" />
       <item value="options" />
@@ -164,11 +169,6 @@
       <item value="点赞数" />
       <item value="avatar" />
       <item value="negate Exact" />
-      <item value="negate" />
-      <item value="remaining Amount" />
-      <item value="Replaces each substring of this string that matches the given regular expression with the given replacement." />
-      <item value="Replaces each substring of this string that matches the literal target sequence with the specified literal replacement sequence. The replacement proceeds from the beginning of the string to the end, for example, replacing &quot;aa&quot; with &quot;b&quot; in the string &quot;aaa&quot; will result in &quot;ba&quot; rather than &quot;ab&quot;." />
-      <item value="Returns the index within this string of the first occurrence of the specified substring. The returned index is the smallest value k for which: this.startsWith(str, k) If no such value of k exists, then -1 is returned. Params: str – the substring to search for. Returns: the index of the first occurrence of the specified substring, or -1 if there is no such occurrence." />
     </histories>
     <option name="languageScores">
       <map>
