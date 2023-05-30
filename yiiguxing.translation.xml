@@ -97,7 +97,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1684117014921" />
+    <option name="lastTrimTime" value="1685440220002" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -119,6 +119,8 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="工商银行" />
+      <item value="gon shan yin han" />
       <item value="request Account Fetch" />
       <item value="Form Content" />
       <item value="Formula Content" />
@@ -167,8 +169,6 @@
       <item value="重复" />
       <item value="MILLISECONDS" />
       <item value="Time unit representing one thousandth of a second" />
-      <item value="Praise" />
-      <item value="赞" />
     </histories>
     <option name="languageScores">
       <map>
