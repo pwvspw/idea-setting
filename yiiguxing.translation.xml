@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="扩展字段" />
       <item value="工商银行" />
       <item value="gon shan yin han" />
       <item value="request Account Fetch" />
@@ -168,7 +169,6 @@
       <item value="重复连接" />
       <item value="重复" />
       <item value="MILLISECONDS" />
-      <item value="Time unit representing one thousandth of a second" />
     </histories>
     <option name="languageScores">
       <map>
