@@ -119,7 +119,11 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="explain" />
       <item value="扩展字段" />
+      <item value="扩展zi d" />
+      <item value="扩展zi dan" />
+      <item value="扩展zi da" />
       <item value="工商银行" />
       <item value="gon shan yin han" />
       <item value="request Account Fetch" />
@@ -165,10 +169,6 @@
       <item value="PDF startxref" />
       <item value="PDF startxref not found" />
       <item value="Sneaky Throws" />
-      <item value="repeat" />
-      <item value="重复连接" />
-      <item value="重复" />
-      <item value="MILLISECONDS" />
     </histories>
     <option name="languageScores">
       <map>
