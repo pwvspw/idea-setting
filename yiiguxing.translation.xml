@@ -119,6 +119,8 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="remitter" />
+      <item value="remitter_bank_account" />
       <item value="Capital" />
       <item value="explain" />
       <item value="扩展字段" />
@@ -167,8 +169,6 @@
       <item value="CISI" />
       <item value="wizard" />
       <item value="startxref" />
-      <item value="PDF startxref" />
-      <item value="PDF startxref not found" />
     </histories>
     <option name="languageScores">
       <map>
