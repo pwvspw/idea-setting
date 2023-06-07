@@ -4,8 +4,8 @@
     <extensionMap>
       <mapping ext="idea" type="ActionScript" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="der" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="der" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
