@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="Suspicious" />
       <item value="User Management Service" />
       <item value="collect" />
       <item value="The Kotlin plugin provides language support in IntelliJ IDEA and Android Studio." />
@@ -168,7 +169,6 @@
       <item value="Accrued interest" />
       <item value="Accrued" />
       <item value="object" />
-      <item value="Deprecated" />
     </histories>
     <option name="languageScores">
       <map>
