@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="biological" />
       <item value="Suspicious" />
       <item value="User Management Service" />
       <item value="collect" />
@@ -168,13 +169,12 @@
       <item value="credit controlled" />
       <item value="Accrued interest" />
       <item value="Accrued" />
-      <item value="object" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="87" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="CHINESE" value="88" />
+        <entry key="ENGLISH" value="83" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="SLOVENIAN" value="1" />
