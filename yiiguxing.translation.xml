@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="Deprecated" />
       <item value="缺少必要参数" />
       <item value="qu" />
       <item value="biological" />
@@ -168,13 +169,12 @@
       <item value="Your request has been intercepted by the security service, because it may pose a security risk to the back-end services, please refer to recommend (uuid:54be09bba3602b0262628a21662cca97)" />
       <item value="register" />
       <item value="认购费率" />
-      <item value="credit controlled" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="88" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="CHINESE" value="89" />
+        <entry key="ENGLISH" value="84" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="SLOVENIAN" value="1" />
