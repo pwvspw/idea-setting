@@ -119,6 +119,9 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="解析出" />
+      <item value="jie" />
+      <item value="解析" />
       <item value="更新失败，未找到设备信息" />
       <item value="Deprecated" />
       <item value="缺少必要参数" />
@@ -166,9 +169,6 @@
       <item value="Corine&#10;complete your request. bather the server 1s overLoaded or these 1s an excor in the appLication.sp" />
       <item value="Corine&#10;complete your request. bather the server 1s overLoaded or these 1s an excor in the appLication.sp." />
       <item value="忘记密码" />
-      <item value="忘记" />
-      <item value="Your request has been intercepted by the security service, because it may pose a security risk to the back-end services, please refer to recommend (uuid:54be09bba3602b0262628a21662cca97)" />
-      <item value="register" />
     </histories>
     <option name="languageScores">
       <map>
