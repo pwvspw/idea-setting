@@ -97,7 +97,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1685947214619" />
+    <option name="lastTrimTime" value="1686536112096" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -119,6 +119,8 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="缺少必要参数" />
+      <item value="qu" />
       <item value="biological" />
       <item value="Suspicious" />
       <item value="User Management Service" />
@@ -167,8 +169,6 @@
       <item value="register" />
       <item value="认购费率" />
       <item value="credit controlled" />
-      <item value="Accrued interest" />
-      <item value="Accrued" />
     </histories>
     <option name="languageScores">
       <map>
