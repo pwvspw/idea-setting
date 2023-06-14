@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="identifier" />
       <item value="integral" />
       <item value="解析出" />
       <item value="jie" />
@@ -168,13 +169,12 @@
       <item value="认购" />
       <item value="r" />
       <item value="Corine&#10;complete your request. bather the server 1s overLoaded or these 1s an excor in the appLication.sp" />
-      <item value="Corine&#10;complete your request. bather the server 1s overLoaded or these 1s an excor in the appLication.sp." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="90" />
-        <entry key="ENGLISH" value="85" />
+        <entry key="CHINESE" value="91" />
+        <entry key="ENGLISH" value="86" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="SLOVENIAN" value="1" />
