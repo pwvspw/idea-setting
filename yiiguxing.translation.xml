@@ -97,7 +97,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1686536112096" />
+    <option name="lastTrimTime" value="1687257157201" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -119,6 +119,10 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="transactional" />
+      <item value="Sql Session" />
+      <item value="Default Sql Session" />
+      <item value="defaults" />
       <item value="identifier" />
       <item value="integral" />
       <item value="解析出" />
@@ -165,16 +169,12 @@
       <item value="options" />
       <item value="excluded from annotation processing" />
       <item value="Annotation processing is not supported for module cycles. Please ensure that all modules from cycle" />
-      <item value="cycle" />
-      <item value="认购" />
-      <item value="r" />
-      <item value="Corine&#10;complete your request. bather the server 1s overLoaded or these 1s an excor in the appLication.sp" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="91" />
-        <entry key="ENGLISH" value="86" />
+        <entry key="CHINESE" value="95" />
+        <entry key="ENGLISH" value="90" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="SLOVENIAN" value="1" />
