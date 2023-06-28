@@ -97,7 +97,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1687257157201" />
+    <option name="lastTrimTime" value="1687930119540" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="Unauthorized" />
       <item value="transactional" />
       <item value="Sql Session" />
       <item value="Default Sql Session" />
@@ -168,13 +169,12 @@
       <item value="specification" />
       <item value="options" />
       <item value="excluded from annotation processing" />
-      <item value="Annotation processing is not supported for module cycles. Please ensure that all modules from cycle" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="95" />
-        <entry key="ENGLISH" value="90" />
+        <entry key="CHINESE" value="96" />
+        <entry key="ENGLISH" value="91" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="SLOVENIAN" value="1" />
