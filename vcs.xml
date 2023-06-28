@@ -150,9 +150,13 @@
           <option name="url" value="http://192.25.109.107" />
           <option name="userName" value="liuziwen" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.25.109.107/jsjgz/batflow-core.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/xzgj" />
+    <option name="cloneParentDir" value="$USER_HOME$/xyzq" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
