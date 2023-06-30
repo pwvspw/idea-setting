@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="common push msg no qualified users found" />
       <item value="When allowCredentials is true, allowedOrigins cannot contain the special value &quot;&quot; since that cannot be set on the &quot;Access-Control-Allow-Origin&quot; response header. To allow credentials to a set of origins, list them explicitly or consider using &quot;allowedOriginPatterns&quot; instead." />
       <item value="When allowCredentials is true, allowedOrigins cannot contain the special value &quot;&quot; since that cannot be set on the &quot;Access-Control-Allow-Origin&quot;" />
       <item value="credentials" />
@@ -168,13 +169,12 @@
       <item value="Formula Content" />
       <item value="Form Operator Content" />
       <item value="Formula" />
-      <item value="get Boolean" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="107" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="CHINESE" value="108" />
+        <entry key="ENGLISH" value="103" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="SLOVENIAN" value="1" />
