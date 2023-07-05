@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="the regular expression to which this string is to be matched" />
       <item value="Condition" />
       <item value="外国" />
       <item value="外" />
@@ -168,7 +169,6 @@
       <item value="扩展zi dan" />
       <item value="扩展zi da" />
       <item value="工商银行" />
-      <item value="gon shan yin han" />
     </histories>
     <option name="languageScores">
       <map>
