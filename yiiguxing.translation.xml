@@ -119,6 +119,8 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="Uncategorized" />
+      <item value="UncategorizedSQLException" />
       <item value="the regular expression to which this string is to be matched" />
       <item value="Condition" />
       <item value="外国" />
@@ -167,8 +169,6 @@
       <item value="扩展字段" />
       <item value="扩展zi d" />
       <item value="扩展zi dan" />
-      <item value="扩展zi da" />
-      <item value="工商银行" />
     </histories>
     <option name="languageScores">
       <map>
