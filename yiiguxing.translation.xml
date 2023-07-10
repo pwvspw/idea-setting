@@ -97,7 +97,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1688432498619" />
+    <option name="lastTrimTime" value="1688952961924" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="Deactivated" />
       <item value="Uncategorized" />
       <item value="UncategorizedSQLException" />
       <item value="the regular expression to which this string is to be matched" />
@@ -168,13 +169,12 @@
       <item value="explain" />
       <item value="扩展字段" />
       <item value="扩展zi d" />
-      <item value="扩展zi dan" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="109" />
-        <entry key="ENGLISH" value="104" />
+        <entry key="CHINESE" value="110" />
+        <entry key="ENGLISH" value="105" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="SLOVENIAN" value="1" />
