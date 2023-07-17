@@ -97,7 +97,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1688952961924" />
+    <option name="lastTrimTime" value="1689587422295" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="Think Gem" />
       <item value="Call to 'Thread.sleep()' in a loop, probably busy-waiting " />
       <item value="掼" />
       <item value="Deactivated" />
@@ -168,13 +169,12 @@
       <item value="remitter" />
       <item value="remitter_bank_account" />
       <item value="Capital" />
-      <item value="explain" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="105" />
+        <entry key="CHINESE" value="111" />
+        <entry key="ENGLISH" value="106" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="SLOVENIAN" value="1" />
