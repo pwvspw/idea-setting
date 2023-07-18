@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="Mesh" />
       <item value="Think Gem" />
       <item value="Call to 'Thread.sleep()' in a loop, probably busy-waiting " />
       <item value="掼" />
@@ -168,13 +169,12 @@
       <item value="HSBC" />
       <item value="remitter" />
       <item value="remitter_bank_account" />
-      <item value="Capital" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="111" />
-        <entry key="ENGLISH" value="106" />
+        <entry key="CHINESE" value="112" />
+        <entry key="ENGLISH" value="107" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="SLOVENIAN" value="1" />
