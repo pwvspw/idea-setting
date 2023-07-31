@@ -97,7 +97,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1690162047065" />
+    <option name="lastTrimTime" value="1690785203108" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="Option Account No" />
       <item value="directly throw if it's checked exception" />
       <item value="锁" />
       <item value="suo" />
@@ -168,13 +169,12 @@
       <item value="User Management Service" />
       <item value="collect" />
       <item value="The Kotlin plugin provides language support in IntelliJ IDEA and Android Studio." />
-      <item value="Templates for creating new Guice files Coding assistance specific to Guice constructs: code completion, inspections, intention actions, and much more" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="115" />
-        <entry key="ENGLISH" value="110" />
+        <entry key="CHINESE" value="116" />
+        <entry key="ENGLISH" value="111" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="SLOVENIAN" value="1" />
