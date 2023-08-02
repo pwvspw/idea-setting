@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="Option" />
       <item value="inspection" />
       <item value="资料年检" />
       <item value="资料nian jian" />
@@ -168,13 +169,12 @@
       <item value="更新失败，未找到设备信息" />
       <item value="Deprecated" />
       <item value="缺少必要参数" />
-      <item value="qu" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="116" />
-        <entry key="ENGLISH" value="111" />
+        <entry key="CHINESE" value="117" />
+        <entry key="ENGLISH" value="112" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="SLOVENIAN" value="1" />
