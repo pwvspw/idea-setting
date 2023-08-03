@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="Our annual developer event is back — online &amp; in person" />
       <item value="Option" />
       <item value="inspection" />
       <item value="资料年检" />
@@ -168,7 +169,6 @@
       <item value="解析" />
       <item value="更新失败，未找到设备信息" />
       <item value="Deprecated" />
-      <item value="缺少必要参数" />
     </histories>
     <option name="languageScores">
       <map>
