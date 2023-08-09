@@ -97,7 +97,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1690785203108" />
+    <option name="lastTrimTime" value="1691572307665" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="排除" />
       <item value="Our annual developer event is back — online &amp; in person" />
       <item value="Option" />
       <item value="inspection" />
@@ -168,7 +169,6 @@
       <item value="jie" />
       <item value="解析" />
       <item value="更新失败，未找到设备信息" />
-      <item value="Deprecated" />
     </histories>
     <option name="languageScores">
       <map>
