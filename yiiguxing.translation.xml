@@ -97,7 +97,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1691572307665" />
+    <option name="lastTrimTime" value="1692009618640" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -119,6 +119,21 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="appendix" />
+      <item value="附件" />
+      <item value="Precautions" />
+      <item value="注意事项及风险说明" />
+      <item value="zhu yi shi xian" />
+      <item value="营销" />
+      <item value="timeaixs" />
+      <item value="timeai" />
+      <item value="time" />
+      <item value="时间轴" />
+      <item value="shi jian" />
+      <item value="下架" />
+      <item value="xia jia" />
+      <item value="上架" />
+      <item value="shan jia" />
       <item value="排除" />
       <item value="Our annual developer event is back — online &amp; in person" />
       <item value="Option" />
@@ -154,27 +169,12 @@
       <item value="Unsatisfied dependency expressed through field" />
       <item value="Unsatisfied Dependency Exception" />
       <item value="it may be possible to break the cycle automatically by setting spring.main.allow-circular-references to true" />
-      <item value="As a last resort" />
-      <item value="resort" />
-      <item value="Relying upon circular references is discouraged and they are prohibited by default" />
-      <item value="introspect" />
-      <item value="Unauthorized" />
-      <item value="transactional" />
-      <item value="Sql Session" />
-      <item value="Default Sql Session" />
-      <item value="defaults" />
-      <item value="identifier" />
-      <item value="integral" />
-      <item value="解析出" />
-      <item value="jie" />
-      <item value="解析" />
-      <item value="更新失败，未找到设备信息" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="117" />
-        <entry key="ENGLISH" value="112" />
+        <entry key="CHINESE" value="119" />
+        <entry key="ENGLISH" value="114" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="SLOVENIAN" value="1" />
