@@ -5,6 +5,7 @@
         <option name="convertByteOrShortToInt" value="true" />
         <option name="delimeteAllColumn" value="true" />
         <option name="ifTestStringNullAndEmpty" value="true" />
+        <option name="useFreeVersion" value="true" />
       </Profile>
     </option>
   </component>
