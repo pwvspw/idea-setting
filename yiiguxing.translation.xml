@@ -119,6 +119,16 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="今年" />
+      <item value="今年来" />
+      <item value="jin nian lai" />
+      <item value="jin nian" />
+      <item value="jin" />
+      <item value="年初至今" />
+      <item value="最近一个月" />
+      <item value="zui" />
+      <item value="最新净值" />
+      <item value="最新jin zhi" />
       <item value="appendix" />
       <item value="附件" />
       <item value="Precautions" />
@@ -159,16 +169,6 @@
       <item value="the regular expression to which this string is to be matched" />
       <item value="Condition" />
       <item value="外国" />
-      <item value="外" />
-      <item value="w" />
-      <item value="完成" />
-      <item value="common push msg no qualified users found" />
-      <item value="When allowCredentials is true, allowedOrigins cannot contain the special value &quot;&quot; since that cannot be set on the &quot;Access-Control-Allow-Origin&quot; response header. To allow credentials to a set of origins, list them explicitly or consider using &quot;allowedOriginPatterns&quot; instead." />
-      <item value="When allowCredentials is true, allowedOrigins cannot contain the special value &quot;&quot; since that cannot be set on the &quot;Access-Control-Allow-Origin&quot;" />
-      <item value="credentials" />
-      <item value="Unsatisfied dependency expressed through field" />
-      <item value="Unsatisfied Dependency Exception" />
-      <item value="it may be possible to break the cycle automatically by setting spring.main.allow-circular-references to true" />
     </histories>
     <option name="languageScores">
       <map>
