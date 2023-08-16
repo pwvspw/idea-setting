@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="up file white list" />
       <item value="suffix" />
       <item value="今年" />
       <item value="今年来" />
@@ -168,13 +169,12 @@
       <item value="Uncategorized" />
       <item value="UncategorizedSQLException" />
       <item value="the regular expression to which this string is to be matched" />
-      <item value="Condition" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="120" />
-        <entry key="ENGLISH" value="115" />
+        <entry key="CHINESE" value="121" />
+        <entry key="ENGLISH" value="116" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="SLOVENIAN" value="1" />
