@@ -119,6 +119,12 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="allocated" />
+      <item value="efficiently" />
+      <item value="没有配置有效的基金" />
+      <item value="没有配置有效的" />
+      <item value="没有配置you xiao" />
+      <item value="没有" />
       <item value="Right Issue Controller" />
       <item value="up file white list" />
       <item value="suffix" />
@@ -163,18 +169,12 @@
       <item value="Request Body Wrapper" />
       <item value="Form Data Wrapper" />
       <item value="Mesh" />
-      <item value="Think Gem" />
-      <item value="Call to 'Thread.sleep()' in a loop, probably busy-waiting " />
-      <item value="掼" />
-      <item value="Deactivated" />
-      <item value="Uncategorized" />
-      <item value="UncategorizedSQLException" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="122" />
-        <entry key="ENGLISH" value="117" />
+        <entry key="CHINESE" value="124" />
+        <entry key="ENGLISH" value="119" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="SLOVENIAN" value="1" />
