@@ -119,6 +119,9 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="ROUND UNNECESSARY" />
+      <item value="ROUND CEILING" />
+      <item value="Non-terminating decimal expansion; no exact representable decimal result" />
       <item value="subtract" />
       <item value="小" />
       <item value="calculate Increase Decrease" />
@@ -166,15 +169,12 @@
       <item value="资料nian jian" />
       <item value="资料" />
       <item value="zi liao" />
-      <item value="Option Account No" />
-      <item value="directly throw if it's checked exception" />
-      <item value="锁" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="128" />
-        <entry key="ENGLISH" value="123" />
+        <entry key="CHINESE" value="131" />
+        <entry key="ENGLISH" value="126" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="SLOVENIAN" value="1" />
