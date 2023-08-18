@@ -119,6 +119,9 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="subtract" />
+      <item value="小" />
+      <item value="calculate Increase Decrease" />
       <item value="DECEMBER" />
       <item value="binary" />
       <item value="allocated" />
@@ -166,15 +169,12 @@
       <item value="Option Account No" />
       <item value="directly throw if it's checked exception" />
       <item value="锁" />
-      <item value="suo" />
-      <item value="所" />
-      <item value="Request Body Wrapper" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="126" />
-        <entry key="ENGLISH" value="121" />
+        <entry key="CHINESE" value="128" />
+        <entry key="ENGLISH" value="123" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="SLOVENIAN" value="1" />
