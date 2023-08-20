@@ -97,7 +97,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1692009618640" />
+    <option name="lastTrimTime" value="1692531647732" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="只有一条数据" />
       <item value="ROUND UNNECESSARY" />
       <item value="ROUND CEILING" />
       <item value="Non-terminating decimal expansion; no exact representable decimal result" />
@@ -168,7 +169,6 @@
       <item value="资料年检" />
       <item value="资料nian jian" />
       <item value="资料" />
-      <item value="zi liao" />
     </histories>
     <option name="languageScores">
       <map>
