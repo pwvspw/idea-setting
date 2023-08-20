@@ -119,6 +119,8 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="下架" />
+      <item value="xia jia" />
       <item value="只有一条数据" />
       <item value="ROUND UNNECESSARY" />
       <item value="ROUND CEILING" />
@@ -158,8 +160,6 @@
       <item value="time" />
       <item value="时间轴" />
       <item value="shi jian" />
-      <item value="下架" />
-      <item value="xia jia" />
       <item value="上架" />
       <item value="shan jia" />
       <item value="排除" />
