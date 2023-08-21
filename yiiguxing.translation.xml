@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="Non Null" />
       <item value="Official" />
       <item value="哀悼模式" />
       <item value="哀悼" />
@@ -168,13 +169,12 @@
       <item value="时间轴" />
       <item value="shi jian" />
       <item value="上架" />
-      <item value="shan jia" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="132" />
-        <entry key="ENGLISH" value="127" />
+        <entry key="CHINESE" value="133" />
+        <entry key="ENGLISH" value="128" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="SLOVENIAN" value="1" />
