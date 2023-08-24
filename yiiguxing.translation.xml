@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="was cached in the local repository, resolution will not be reattempted until the update interval of uxin-nexus has elapsed or updates are forced" />
       <item value="ant path matcher" />
       <item value="matching-strategy" />
       <item value="Non Null" />
@@ -168,13 +169,12 @@
       <item value="timeaixs" />
       <item value="timeai" />
       <item value="time" />
-      <item value="时间轴" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="135" />
-        <entry key="ENGLISH" value="129" />
+        <entry key="CHINESE" value="136" />
+        <entry key="ENGLISH" value="130" />
         <entry key="FRENCH" value="2" />
         <entry key="INDONESIAN" value="1" />
         <entry key="SLOVENIAN" value="1" />
