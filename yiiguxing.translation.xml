@@ -119,6 +119,8 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="缓存" />
+      <item value="h" />
       <item value="exist" />
       <item value="was cached in the local repository, resolution will not be reattempted until the update interval of uxin-nexus has elapsed or updates are forced" />
       <item value="ant path matcher" />
@@ -167,8 +169,6 @@
       <item value="注意事项及风险说明" />
       <item value="zhu yi shi xian" />
       <item value="营销" />
-      <item value="timeaixs" />
-      <item value="timeai" />
     </histories>
     <option name="languageScores">
       <map>
