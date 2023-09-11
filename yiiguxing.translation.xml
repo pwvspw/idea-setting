@@ -97,7 +97,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1693900099099" />
+    <option name="lastTrimTime" value="1694420261815" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="Column phone is shadowed by alias (might happen due to missed comma)" />
       <item value="Suspended" />
       <item value="繁体" />
       <item value="优化" />
@@ -168,7 +169,6 @@
       <item value="zui" />
       <item value="最新净值" />
       <item value="最新jin zhi" />
-      <item value="appendix" />
     </histories>
     <option name="languageScores">
       <map>
