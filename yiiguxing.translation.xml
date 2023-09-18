@@ -119,6 +119,12 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="conins" />
+      <item value="conin" />
+      <item value="coni" />
+      <item value="con" />
+      <item value="不一致" />
+      <item value="bu" />
       <item value="Remitter" />
       <item value="下线" />
       <item value="xia" />
@@ -163,12 +169,6 @@
       <item value="Right Issue Controller" />
       <item value="up file white list" />
       <item value="suffix" />
-      <item value="今年" />
-      <item value="今年来" />
-      <item value="jin nian lai" />
-      <item value="jin nian" />
-      <item value="jin" />
-      <item value="年初至今" />
     </histories>
     <option name="languageScores">
       <map>
