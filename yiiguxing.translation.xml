@@ -97,7 +97,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1694420261815" />
+    <option name="lastTrimTime" value="1695018981000" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="Remitter" />
       <item value="下线" />
       <item value="xia" />
       <item value="offline" />
@@ -168,13 +169,12 @@
       <item value="jin nian" />
       <item value="jin" />
       <item value="年初至今" />
-      <item value="最近一个月" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="134" />
+        <entry key="CHINESE" value="142" />
+        <entry key="ENGLISH" value="135" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="INDONESIAN" value="1" />
