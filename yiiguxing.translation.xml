@@ -119,6 +119,8 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="有效期" />
+      <item value="yo" />
       <item value="conins" />
       <item value="conin" />
       <item value="coni" />
@@ -167,8 +169,6 @@
       <item value="没有配置you xiao" />
       <item value="没有" />
       <item value="Right Issue Controller" />
-      <item value="up file white list" />
-      <item value="suffix" />
     </histories>
     <option name="languageScores">
       <map>
