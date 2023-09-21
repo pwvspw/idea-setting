@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="Set the maximum allowed size (in bytes) before uploads are written to disk. Uploaded files will still be received past this amount, but they will not be stored in memory. Default is 10240, according to Commons FileUpload. Params: maxInMemorySize – the maximum in memory size allowed See Also: DiskFileItemFactory.setSizeThreshold" />
       <item value="declare" />
       <item value="声明" />
       <item value="有效期" />
@@ -168,13 +169,12 @@
       <item value="efficiently" />
       <item value="没有配置有效的基金" />
       <item value="没有配置有效的" />
-      <item value="没有配置you xiao" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="142" />
-        <entry key="ENGLISH" value="135" />
+        <entry key="CHINESE" value="143" />
+        <entry key="ENGLISH" value="136" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="INDONESIAN" value="1" />
