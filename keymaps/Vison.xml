@@ -329,6 +329,9 @@
     <keyboard-shortcut first-keystroke="shift meta end" />
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
+  <action id="Maven.ReimportProject">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="MethodHierarchy">
     <keyboard-shortcut first-keystroke="ctrl alt h" />
   </action>
