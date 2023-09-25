@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="Announcements and Notices - Listing on the Growth Enterprise Market of the Stock Exchange of Hong Kong Limited by Way of Global offering" />
       <item value="提取" />
       <item value="class &quot;org.bouncycastle.openssl.PEMException&quot;'s signer information does not match signer information of other classes in the same package" />
       <item value="Set the maximum allowed size (in bytes) before uploads are written to disk. Uploaded files will still be received past this amount, but they will not be stored in memory. Default is 10240, according to Commons FileUpload. Params: maxInMemorySize – the maximum in memory size allowed See Also: DiskFileItemFactory.setSizeThreshold" />
@@ -168,7 +169,6 @@
       <item value="DECEMBER" />
       <item value="binary" />
       <item value="allocated" />
-      <item value="efficiently" />
     </histories>
     <option name="languageScores">
       <map>
