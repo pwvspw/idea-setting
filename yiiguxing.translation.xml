@@ -119,6 +119,7 @@
     <option name="newTranslationDialogX" value="442" />
     <option name="newTranslationDialogY" value="289" />
     <histories>
+      <item value="Server Unreachable" />
       <item value="role Arn" />
       <item value="Announcements and Notices - Listing on the Growth Enterprise Market of the Stock Exchange of Hong Kong Limited by Way of Global offering" />
       <item value="提取" />
@@ -168,14 +169,13 @@
       <item value="小" />
       <item value="calculate Increase Decrease" />
       <item value="DECEMBER" />
-      <item value="binary" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="ALBANIAN" value="1" />
-        <entry key="CHINESE" value="145" />
-        <entry key="ENGLISH" value="137" />
+        <entry key="CHINESE" value="146" />
+        <entry key="ENGLISH" value="138" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="INDONESIAN" value="1" />
